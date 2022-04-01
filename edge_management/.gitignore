@@ -2,3 +2,6 @@
 /env
 /local_data
 local_config.py
+
+# IDE
+.idea

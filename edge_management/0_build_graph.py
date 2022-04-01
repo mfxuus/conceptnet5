@@ -8,7 +8,8 @@ import sys
 from config import (
     ALL_LANGUAGES, ORIGINAL_CSV,
     ADDITIONAL_EDGES_CSV,
-    ADDITIONAL_EDGES_INPUT
+    ADDITIONAL_EDGES_INPUT,
+    EN_CSV,
 )
 
 from utils import build_gml_filename
@@ -43,6 +44,7 @@ def add_edge_to_graph_from_file(graph, csv_file, all_languages, line_count=None)
             edge_relation = row[1]
             node_1 = row[2]
             node_2 = row[3]
+            #TODO: not necessary if process english-only data
             if all_languages is False:
                 if not node_1.startswith('/c/en/') or not node_2.startswith('/c/en/'):
                     i += 1

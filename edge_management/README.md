@@ -1,15 +1,19 @@
 ## Setup
 - Config files
-	- Checkout `config.py` and potentially make a `local_config.py`
+    - Checkout `config.py` and potentially make a `local_config.py`
 - Install networkx
-	- `pip install -r requirements.txt`
+    - `pip install -r requirements.txt`
 - Download official txt file (assertions.csv) and place in `local_data/`
-	- [link](https://github.com/commonsense/conceptnet5/wiki/Downloads)
+    - [link](https://github.com/commonsense/conceptnet5/wiki/Downloads)
+- (Optional) Create a smaller dataset that only contains english words
+    - Set up an EN_CSV variable
+    - `python 3_get_partial_data.py`
+    - Then remember to change the input ORIGINAL_CSV in config.py
 - Build a networkx directed graph for easier inspection
-	- `python 0_build_graph.py`
-	- See script for options. Only tried building English subgraph..
+    - `python 0_build_graph.py`
+    - See script for options. Only tried building English subgraph..
 - Can interact with the built graph a bit; limited functionality
-	- `python 1_explore_graph.py`
+    - `python 1_explore_graph.py`
 
 ## To add new edges
 - Modify `new_edges.txt`
