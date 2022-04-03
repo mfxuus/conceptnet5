@@ -26,3 +26,8 @@
 	- `python 1_explore_graph.py --include-custom`
 - When we eventually need to have a single file, can in theory just combine
 	`ADDITIONAL_EDGES_CSV` with the official `assertions.csv`
+
+## Available ConceptNet graph completion models
+- [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/allenai/commonsense-kg-completion)
+- [Conv-TransE](https://github.com/JD-AI-Research-Silicon-Valley/SACN)
+- [InductivE](https://github.com/BinWang28/InductivE)
