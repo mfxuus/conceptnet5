@@ -2,6 +2,7 @@
 /env
 /local_data
 local_config.py
+local_setup.sh
 
 # IDE
 .idea

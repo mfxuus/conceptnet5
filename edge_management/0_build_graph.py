@@ -4,6 +4,7 @@ import csv
 import json
 import networkx as nx
 import sys
+import dgl
 
 from config import (
     ALL_LANGUAGES, ORIGINAL_CSV,
@@ -12,7 +13,7 @@ from config import (
     EN_CSV,
 )
 
-from utils import build_gml_filename
+from utils import build_gml_filename, build_dgl_filename
 
 
 # where we save the new edges
@@ -60,13 +61,15 @@ def add_edge_to_graph_from_file(graph, csv_file, all_languages, line_count=None)
             i += 1
 
 
-def build_graph_from_text(include_custom=False, all_languages=ALL_LANGUAGES):
+def build_graph_from_text(include_custom=False, all_languages=ALL_LANGUAGES, build_dgl=False):
     '''
     include_custom:
         - If True, also takes in ADDITIONAL_TXT as input
         - If False, only takes official assertions.csv as input
     all_languages:
         - If False, ignores edges that touches non-english nodes
+    build_dgl:
+        - If False, skip building DGL model for GNN training
     '''
     # initiate directed graph
     G = nx.DiGraph()
@@ -79,6 +82,11 @@ def build_graph_from_text(include_custom=False, all_languages=ALL_LANGUAGES):
     OUT_PATH = build_gml_filename(all_languages, include_custom)
     nx.write_gml(G, OUT_PATH)
 
+    if build_dgl:
+        print("Building DGL model...")
+        dgl_G = dgl.from_networkx(G)
+        OUT_PATH = build_dgl_filename(all_languages, include_custom)
+        dgl.data.utils.save_graphs(OUT_PATH, [dgl_G])
 
 if __name__ == '__main__':
 
@@ -99,6 +107,12 @@ if __name__ == '__main__':
         action='store_true',
         default=False,
         help='Builds GML file with ALL language nodes.',
+    )
+    parser.add_argument(
+        '--dgl',
+        action='store_true',
+        default=False,
+        help='Builds DGL model from NetworkX graph for GNN training.',
     )
 
     args = parser.parse_args()
@@ -121,4 +135,5 @@ if __name__ == '__main__':
     build_graph_from_text(
         include_custom=args.include_custom,
         all_languages=args.all_languages,
+        build_dgl=args.dgl,
     )
