@@ -15,7 +15,7 @@ from config import (
 def get_partial_data(source_csv_file, destination_csv_file, line_count=None):
     i = 0
     with open(source_csv_file, 'r', encoding="utf8") as source, \
-         open(destination_csv_file, 'w') as destination:
+         open(destination_csv_file, 'w', encoding="utf8", newline='') as destination:
         datareader = csv.reader(source, delimiter='\t')
         datawriter = csv.writer(destination, delimiter='\t')
         for row in datareader:
