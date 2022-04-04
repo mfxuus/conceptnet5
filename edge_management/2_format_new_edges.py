@@ -33,6 +33,8 @@ def generate_new_edges(language_code=None):
         for line in f:
             line_error = []
             node_1, node_2, rel_type, weight = [x.strip() for x in line.split(',')]
+            node_1 = node_1.replace(' ', '_').lower()
+            node_2 = node_2.replace(' ', '_').lower()
             if not node_1.startswith('/c/en/'):
                 node_1 = f'/c/{language_code}/{node_1}'
             if not node_2.startswith('/c/en/'):
