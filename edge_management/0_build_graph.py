@@ -13,7 +13,10 @@ from config import (
     EN_CSV,
 )
 
-from utils import build_gml_filename, build_dgl_filename
+from utils import build_gml_filename
+# from utils import build_dgl_filename
+
+SYMMETRIC_RELATION = '/r/RelatedTo'
 
 
 # where we save the new edges
@@ -58,6 +61,13 @@ def add_edge_to_graph_from_file(graph, csv_file, all_languages, line_count=None)
                 weight=weight,
                 rel=edge_relation
             )
+            if edge_relation == SYMMETRIC_RELATION:
+                graph.add_edge(
+                    node_2,
+                    node_1,
+                    weight=weight,
+                    rel=edge_relation
+                )
             i += 1
 
 

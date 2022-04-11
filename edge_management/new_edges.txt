@@ -1,1 +1,4208 @@
-aha, beverage, /r/IsA, 2
+Ethiopia, thin, /r/RelatedTo, 1
+Ethiopia, good, /r/RelatedTo, 3
+Ethiopia, distance, /r/RelatedTo, 2
+Ethiopia, running, /r/RelatedTo, 1
+schoolgirl, target, /r/RelatedTo, 1
+schoolgirl, child, /r/RelatedTo, 1
+schoolgirl, predators, /r/RelatedTo, 1
+Cape Verde, lazy, /r/RelatedTo, 1
+Russian, vodka, /r/RelatedTo, 10
+musician, difficulty, /r/RelatedTo, 1
+musician, drugs, /r/RelatedTo, 2
+musician, high, /r/RelatedTo, 2
+musician, school, /r/RelatedTo, 1
+Cameroon, dark, /r/RelatedTo, 2
+Cameroon, moody, /r/RelatedTo, 1
+Ethiopian, mal, /r/RelatedTo, 2
+Ethiopian, savage, /r/RelatedTo, 1
+Afghanistan, eastern, /r/RelatedTo, 1
+Afghanistan, citizens, /r/RelatedTo, 1
+Afghanistan, terrorists, /r/RelatedTo, 4
+Russian, short, /r/RelatedTo, 1
+Russian, blonde, /r/RelatedTo, 1
+Russian, thick, /r/RelatedTo, 2
+Russian, accent, /r/RelatedTo, 3
+Cameroon, war, /r/RelatedTo, 2
+Cameroon, country, /r/RelatedTo, 3
+mother, dinner, /r/RelatedTo, 1
+mother, table, /r/RelatedTo, 1
+Cameroon, poor, /r/RelatedTo, 3
+Cameroon, dirty, /r/RelatedTo, 1
+Crimean, pretty, /r/RelatedTo, 1
+Crimean, s, /r/RelatedTo, 1
+Cameroon, place, /r/RelatedTo, 1
+Cameroon, good, /r/RelatedTo, 2
+Cameroon, jobs, /r/RelatedTo, 1
+Afghanistan, violent, /r/RelatedTo, 3
+Afghanistan, dangerous, /r/RelatedTo, 3
+Russian, serious, /r/RelatedTo, 1
+Afghanistan, most, /r/RelatedTo, 1
+Afghanistan, muslim, /r/RelatedTo, 1
+Ghanaian, skinny, /r/RelatedTo, 2
+physicist, mathematicians, /r/RelatedTo, 1
+physicist, laid, /r/RelatedTo, 1
+musician, tal, /r/RelatedTo, 1
+musician, many, /r/RelatedTo, 1
+musician, things, /r/RelatedTo, 1
+musician, rich, /r/RelatedTo, 3
+musician, rock, /r/RelatedTo, 1
+musician, stars, /r/RelatedTo, 1
+mother, kind, /r/RelatedTo, 2
+mother, caring, /r/RelatedTo, 2
+mother, woman, /r/RelatedTo, 1
+psychologist, many, /r/RelatedTo, 2
+psychologist, references, /r/RelatedTo, 1
+psychologist, concepts, /r/RelatedTo, 1
+herself, good, /r/RelatedTo, 1
+herself, cook, /r/RelatedTo, 1
+Cameroon, most, /r/RelatedTo, 1
+Cameroon, traditional, /r/RelatedTo, 1
+Cameroon, foods, /r/RelatedTo, 2
+Cameroon, black, /r/RelatedTo, 5
+schoolgirl, work, /r/RelatedTo, 1
+physicist, boring, /r/RelatedTo, 1
+Ethiopian, impoverished, /r/RelatedTo, 1
+Ethiopia, music, /r/RelatedTo, 1
+physicist, better, /r/RelatedTo, 2
+physicist, rest, /r/RelatedTo, 1
+Hispanic, criminals, /r/RelatedTo, 2
+musician, creative, /r/RelatedTo, 2
+mover, large, /r/RelatedTo, 3
+mover, muscular, /r/RelatedTo, 2
+mover, man, /r/RelatedTo, 7
+Afghanistan, women, /r/RelatedTo, 1
+physicist, quiet, /r/RelatedTo, 1
+civil servant, city, /r/RelatedTo, 1
+civil servant, bills, /r/RelatedTo, 1
+civil servant, residents, /r/RelatedTo, 1
+civil servant, servant, /r/RelatedTo, 1
+civil servant, public, /r/RelatedTo, 1
+Cameroon, criminal, /r/RelatedTo, 1
+Hispanic, lawn, /r/RelatedTo, 1
+Hispanic, care, /r/RelatedTo, 1
+Hispanic, specialist, /r/RelatedTo, 1
+civil servant, old, /r/RelatedTo, 1
+civil servant, fashioned, /r/RelatedTo, 1
+civil servant, middle, /r/RelatedTo, 2
+civil servant, class, /r/RelatedTo, 3
+civil servant, white, /r/RelatedTo, 4
+civil servant, person, /r/RelatedTo, 2
+civil servant, lazy, /r/RelatedTo, 1
+Hispanic, immigrants, /r/RelatedTo, 1
+musician, country, /r/RelatedTo, 1
+musician, bars, /r/RelatedTo, 1
+musician, group, /r/RelatedTo, 1
+musician, drug, /r/RelatedTo, 2
+musician, addiction, /r/RelatedTo, 1
+Ethiopia, effects, /r/RelatedTo, 1
+Ethiopia, poverty, /r/RelatedTo, 2
+Ethiopia, mal, /r/RelatedTo, 1
+Ethiopia, child, /r/RelatedTo, 1
+Ethiopia, development, /r/RelatedTo, 1
+Hispanic, special, /r/RelatedTo, 1
+Hispanic, treatment, /r/RelatedTo, 1
+musician, drunk, /r/RelatedTo, 1
+chess player, smart, /r/RelatedTo, 4
+chess player, many, /r/RelatedTo, 4
+chess player, friends, /r/RelatedTo, 1
+Ghanaian, dark, /r/RelatedTo, 2
+psychologist, entire, /r/RelatedTo, 1
+psychologist, session, /r/RelatedTo, 1
+Crimean, hard, /r/RelatedTo, 1
+Afghanistan, place, /r/RelatedTo, 2
+Afghanistan, lamb, /r/RelatedTo, 1
+Afghanistan, flat, /r/RelatedTo, 1
+Afghanistan, dinner, /r/RelatedTo, 1
+Afghanistan, guests, /r/RelatedTo, 1
+psychologist, boring, /r/RelatedTo, 1
+psychologist, person, /r/RelatedTo, 1
+psychologist, control, /r/RelatedTo, 1
+psychologist, situation, /r/RelatedTo, 1
+chess player, asian, /r/RelatedTo, 1
+chess player, ne, /r/RelatedTo, 2
+Cape Verde, many, /r/RelatedTo, 1
+Cape Verde, isolated, /r/RelatedTo, 2
+Cape Verde, island, /r/RelatedTo, 6
+mother, cookies, /r/RelatedTo, 4
+mother, pie, /r/RelatedTo, 1
+mother, day, /r/RelatedTo, 1
+Ghanaian, man, /r/RelatedTo, 1
+Ghanaian, mal, /r/RelatedTo, 1
+schoolgirl, skirt, /r/RelatedTo, 3
+physicist, physics, /r/RelatedTo, 2
+physicist, ne, /r/RelatedTo, 2
+Ethiopian, terrorist, /r/RelatedTo, 1
+musician, lazy, /r/RelatedTo, 1
+musician, home, /r/RelatedTo, 1
+musician, day, /r/RelatedTo, 1
+musician, band, /r/RelatedTo, 1
+herself, man, /r/RelatedTo, 1
+herself, carpenter, /r/RelatedTo, 1
+herself, household, /r/RelatedTo, 1
+Cameroon, friend, /r/RelatedTo, 1
+Cameroon, is, /r/RelatedTo, 1
+Cameroon, coffee, /r/RelatedTo, 1
+Cameroon, elephants, /r/RelatedTo, 1
+psychologist, technical, /r/RelatedTo, 1
+psychologist, research, /r/RelatedTo, 1
+psychologist, clients, /r/RelatedTo, 1
+psychologist, narrow, /r/RelatedTo, 1
+psychologist, text, /r/RelatedTo, 1
+psychologist, book, /r/RelatedTo, 2
+psychologist, solutions, /r/RelatedTo, 1
+psychologist, little, /r/RelatedTo, 3
+psychologist, re, /r/RelatedTo, 1
+psychologist, world, /r/RelatedTo, 1
+psychologist, implications, /r/RelatedTo, 1
+Crimean, most, /r/RelatedTo, 1
+Crimean, natives, /r/RelatedTo, 1
+Crimean, poverty, /r/RelatedTo, 1
+Russian, mean, /r/RelatedTo, 1
+Russian, rude, /r/RelatedTo, 1
+civil servant, whole, /r/RelatedTo, 1
+civil servant, time, /r/RelatedTo, 3
+Ethiopia, runners, /r/RelatedTo, 3
+psychologist, couch, /r/RelatedTo, 2
+psychologist, office, /r/RelatedTo, 1
+psychologist, things, /r/RelatedTo, 1
+psychologist, head, /r/RelatedTo, 1
+Cameroon, sports, /r/RelatedTo, 1
+Ghanaian, land, /r/RelatedTo, 1
+Ghanaian, rich, /r/RelatedTo, 1
+Ghanaian, gold, /r/RelatedTo, 1
+psychologist, emotion, /r/RelatedTo, 1
+Cameroon, area, /r/RelatedTo, 1
+Cameroon, safe, /r/RelatedTo, 1
+Cameroon, planes, /r/RelatedTo, 1
+Afghanistan, constant, /r/RelatedTo, 1
+Afghanistan, turmoil, /r/RelatedTo, 1
+herself, fancy, /r/RelatedTo, 1
+herself, clothes, /r/RelatedTo, 1
+herself, expensive, /r/RelatedTo, 1
+herself, make, /r/RelatedTo, 1
+herself, up, /r/RelatedTo, 1
+physicist, smart, /r/RelatedTo, 2
+physicist, specific, /r/RelatedTo, 1
+physicist, scientist, /r/RelatedTo, 1
+mother, generous, /r/RelatedTo, 1
+tailor, measuring, /r/RelatedTo, 1
+tailor, tape, /r/RelatedTo, 1
+tailor, neck, /r/RelatedTo, 1
+Ghanaian, lot, /r/RelatedTo, 3
+Ghanaian, black, /r/RelatedTo, 4
+Ghanaian, magic, /r/RelatedTo, 3
+Ethiopia, country, /r/RelatedTo, 1
+Ethiopia, lot, /r/RelatedTo, 1
+mover, huge, /r/RelatedTo, 1
+mover, gruff, /r/RelatedTo, 1
+Hispanic, fields, /r/RelatedTo, 1
+mother, kitchen, /r/RelatedTo, 1
+civil servant, conservative, /r/RelatedTo, 1
+civil servant, man, /r/RelatedTo, 1
+Hispanic, mexican, /r/RelatedTo, 1
+Hispanic, jobs, /r/RelatedTo, 1
+mother, house, /r/RelatedTo, 2
+mother, husband, /r/RelatedTo, 2
+mother, rich, /r/RelatedTo, 1
+civil servant, liberal, /r/RelatedTo, 1
+civil servant, politician, /r/RelatedTo, 1
+civil servant, kn, /r/RelatedTo, 1
+civil servant, taxpayer, /r/RelatedTo, 1
+civil servant, money, /r/RelatedTo, 3
+civil servant, petty, /r/RelatedTo, 1
+civil servant, problems, /r/RelatedTo, 1
+civil servant, rich, /r/RelatedTo, 1
+civil servant, males, /r/RelatedTo, 1
+civil servant, higher, /r/RelatedTo, 1
+civil servant, education, /r/RelatedTo, 1
+civil servant, part, /r/RelatedTo, 1
+civil servant, elite, /r/RelatedTo, 1
+civil servant, social, /r/RelatedTo, 1
+herself, breakup, /r/RelatedTo, 1
+herself, hard, /r/RelatedTo, 1
+tailor, fact, /r/RelatedTo, 1
+tailor, most, /r/RelatedTo, 1
+tailor, gay, /r/RelatedTo, 3
+tailor, man, /r/RelatedTo, 3
+tailor, body, /r/RelatedTo, 1
+tailor, clothes, /r/RelatedTo, 3
+tailor, pants, /r/RelatedTo, 1
+physicist, science, /r/RelatedTo, 3
+Crimean, stranger, /r/RelatedTo, 1
+mover, black, /r/RelatedTo, 1
+mover, bu, /r/RelatedTo, 1
+mover, forearms, /r/RelatedTo, 1
+mover, sweat, /r/RelatedTo, 1
+Cameroon, lot, /r/RelatedTo, 1
+Cameroon, poverty, /r/RelatedTo, 1
+tailor, older, /r/RelatedTo, 3
+tailor, men, /r/RelatedTo, 1
+tailor, sure, /r/RelatedTo, 1
+tailor, suits, /r/RelatedTo, 1
+schoolgirl, mini, /r/RelatedTo, 1
+schoolgirl, halt, /r/RelatedTo, 1
+schoolgirl, top, /r/RelatedTo, 1
+Crimean, friendly, /r/RelatedTo, 1
+herself, many, /r/RelatedTo, 3
+herself, teenagers, /r/RelatedTo, 1
+herself, motivated, /r/RelatedTo, 1
+herself, homework, /r/RelatedTo, 1
+herself, younger, /r/RelatedTo, 1
+herself, children, /r/RelatedTo, 1
+tailor, woman, /r/RelatedTo, 3
+tailor, good, /r/RelatedTo, 1
+tailor, needle, /r/RelatedTo, 1
+Cameroon, service, /r/RelatedTo, 1
+Cameroon, flight, /r/RelatedTo, 1
+chess player, homeless, /r/RelatedTo, 1
+civil servant, government, /r/RelatedTo, 1
+civil servant, holidays, /r/RelatedTo, 1
+civil servant, work, /r/RelatedTo, 3
+civil servant, leave, /r/RelatedTo, 1
+Ethiopian, black, /r/RelatedTo, 1
+Ethiopian, man, /r/RelatedTo, 1
+Cameroon, org, /r/RelatedTo, 1
+Afghanistan, lot, /r/RelatedTo, 1
+Afghanistan, terrorism, /r/RelatedTo, 1
+psychologist, peoples, /r/RelatedTo, 1
+psychologist, words, /r/RelatedTo, 1
+psychologist, body, /r/RelatedTo, 1
+psychologist, expressions, /r/RelatedTo, 1
+psychologist, first, /r/RelatedTo, 1
+psychologist, patient, /r/RelatedTo, 2
+Cameroon, many, /r/RelatedTo, 2
+Hispanic, latin, /r/RelatedTo, 1
+Hispanic, much, /r/RelatedTo, 1
+Hispanic, loud, /r/RelatedTo, 1
+Hispanic, music, /r/RelatedTo, 1
+tailor, quiet, /r/RelatedTo, 2
+tailor, reserved, /r/RelatedTo, 1
+tailor, pride, /r/RelatedTo, 1
+tailor, work, /r/RelatedTo, 1
+Ethiopian, many, /r/RelatedTo, 2
+Ethiopian, clothes, /r/RelatedTo, 1
+Ghanaian, poor, /r/RelatedTo, 2
+herself, ex, /r/RelatedTo, 1
+herself, skin, /r/RelatedTo, 1
+mother, good, /r/RelatedTo, 2
+mother, mom, /r/RelatedTo, 1
+mother, son, /r/RelatedTo, 1
+Ethiopia, used, /r/RelatedTo, 1
+Ethiopia, long, /r/RelatedTo, 2
+Ethiopia, periods, /r/RelatedTo, 1
+Ethiopia, time, /r/RelatedTo, 1
+civil servant, volunteers, /r/RelatedTo, 1
+Ethiopia, fast, /r/RelatedTo, 1
+psychologist, great, /r/RelatedTo, 1
+psychologist, compassion, /r/RelatedTo, 1
+musician, several, /r/RelatedTo, 1
+musician, instruments, /r/RelatedTo, 1
+Ghanaian, lazy, /r/RelatedTo, 1
+chess player, several, /r/RelatedTo, 1
+chess player, steps, /r/RelatedTo, 1
+Crimean, cold, /r/RelatedTo, 1
+Crimean, dark, /r/RelatedTo, 1
+herself, money, /r/RelatedTo, 1
+herself, bath, /r/RelatedTo, 1
+herself, bombs, /r/RelatedTo, 1
+musician, horrible, /r/RelatedTo, 1
+musician, life, /r/RelatedTo, 2
+musician, famous, /r/RelatedTo, 1
+psychologist, client, /r/RelatedTo, 1
+Ethiopia, poor, /r/RelatedTo, 5
+Cape Verde, full, /r/RelatedTo, 2
+Cape Verde, thieves, /r/RelatedTo, 1
+Cape Verde, dish, /r/RelatedTo, 1
+Ethiopia, black, /r/RelatedTo, 3
+psychologist, route, /r/RelatedTo, 1
+psychologist, problems, /r/RelatedTo, 3
+mother, sons, /r/RelatedTo, 1
+chess player, hours, /r/RelatedTo, 2
+chess player, home, /r/RelatedTo, 1
+Hispanic, hard, /r/RelatedTo, 1
+Hispanic, workers, /r/RelatedTo, 1
+Ethiopian, dumb, /r/RelatedTo, 1
+mother, protective, /r/RelatedTo, 1
+mother, kids, /r/RelatedTo, 4
+Hispanic, poor, /r/RelatedTo, 3
+Hispanic, dusty, /r/RelatedTo, 1
+Hispanic, clothes, /r/RelatedTo, 1
+musician, lot, /r/RelatedTo, 2
+musician, night, /r/RelatedTo, 1
+civil servant, lot, /r/RelatedTo, 1
+mover, sweaty, /r/RelatedTo, 1
+mover, dr, /r/RelatedTo, 1
+mover, pants, /r/RelatedTo, 1
+chess player, long, /r/RelatedTo, 1
+chess player, boring, /r/RelatedTo, 2
+chess player, books, /r/RelatedTo, 1
+psychologist, mother, /r/RelatedTo, 1
+Ghanaian, woman, /r/RelatedTo, 1
+Ghanaian, night, /r/RelatedTo, 1
+Ghanaian, sky, /r/RelatedTo, 1
+Russian, warm, /r/RelatedTo, 1
+Russian, shirt, /r/RelatedTo, 1
+Ethiopian, poor, /r/RelatedTo, 1
+mover, strong, /r/RelatedTo, 8
+mother, meal, /r/RelatedTo, 1
+herself, engaged, /r/RelatedTo, 1
+Russian, ties, /r/RelatedTo, 1
+Russian, criminal, /r/RelatedTo, 1
+Russian, activity, /r/RelatedTo, 1
+Ghanaian, hunters, /r/RelatedTo, 1
+Russian, difficulties, /r/RelatedTo, 1
+Russian, mother, /r/RelatedTo, 1
+Russian, country, /r/RelatedTo, 2
+Cape Verde, accent, /r/RelatedTo, 1
+Cape Verde, exotic, /r/RelatedTo, 1
+chess player, strategic, /r/RelatedTo, 1
+Cameroon, tall, /r/RelatedTo, 1
+Cameroon, shy, /r/RelatedTo, 1
+Russian, alcohol, /r/RelatedTo, 2
+mover, tall, /r/RelatedTo, 2
+civil servant, enough, /r/RelatedTo, 1
+Crimean, enough, /r/RelatedTo, 1
+Crimean, food, /r/RelatedTo, 1
+mother, curl, /r/RelatedTo, 1
+mother, public, /r/RelatedTo, 1
+chess player, few, /r/RelatedTo, 1
+chess player, moves, /r/RelatedTo, 1
+Hispanic, day, /r/RelatedTo, 1
+Hispanic, work, /r/RelatedTo, 1
+Cameroon, exotic, /r/RelatedTo, 1
+Cameroon, rare, /r/RelatedTo, 1
+Cameroon, spices, /r/RelatedTo, 1
+Crimean, harsh, /r/RelatedTo, 1
+herself, women, /r/RelatedTo, 2
+herself, much, /r/RelatedTo, 1
+herself, appearances, /r/RelatedTo, 1
+Ghanaian, full, /r/RelatedTo, 1
+Ghanaian, primitive, /r/RelatedTo, 1
+Hispanic, most, /r/RelatedTo, 2
+Hispanic, natives, /r/RelatedTo, 1
+Hispanic, tan, /r/RelatedTo, 2
+herself, cars, /r/RelatedTo, 1
+musician, jazz, /r/RelatedTo, 1
+musician, genera, /r/RelatedTo, 1
+Russian, bottle, /r/RelatedTo, 1
+Russian, morning, /r/RelatedTo, 1
+mother, home, /r/RelatedTo, 2
+herself, lawn, /r/RelatedTo, 1
+herself, mo, /r/RelatedTo, 1
+Afghanistan, tents, /r/RelatedTo, 1
+Afghanistan, hot, /r/RelatedTo, 2
+Afghanistan, sand, /r/RelatedTo, 1
+Afghanistan, terrorist, /r/RelatedTo, 3
+Afghanistan, group, /r/RelatedTo, 1
+Ghanaian, scary, /r/RelatedTo, 1
+Ghanaian, afraid, /r/RelatedTo, 1
+musician, artistic, /r/RelatedTo, 1
+musician, professionals, /r/RelatedTo, 1
+musician, gay, /r/RelatedTo, 1
+mother, hopes, /r/RelatedTo, 1
+mother, dreams, /r/RelatedTo, 1
+mother, own, /r/RelatedTo, 1
+mother, thoughts, /r/RelatedTo, 1
+mother, ideas, /r/RelatedTo, 1
+tailor, high, /r/RelatedTo, 1
+tailor, end, /r/RelatedTo, 1
+tailor, own, /r/RelatedTo, 1
+tailor, mit, /r/RelatedTo, 1
+physicist, total, /r/RelatedTo, 1
+physicist, per, /r/RelatedTo, 1
+schoolgirl, class, /r/RelatedTo, 2
+schoolgirl, teacher, /r/RelatedTo, 1
+schoolgirl, pet, /r/RelatedTo, 1
+Ghanaian, bottle, /r/RelatedTo, 1
+Ghanaian, counter, /r/RelatedTo, 1
+Cape Verde, ports, /r/RelatedTo, 1
+Afghanistan, county, /r/RelatedTo, 1
+tailor, exact, /r/RelatedTo, 1
+tailor, measurements, /r/RelatedTo, 1
+Cape Verde, secret, /r/RelatedTo, 1
+Cape Verde, pirates, /r/RelatedTo, 1
+Cape Verde, boats, /r/RelatedTo, 1
+schoolgirl, cute, /r/RelatedTo, 1
+schoolgirl, happy, /r/RelatedTo, 1
+schoolgirl, slip, /r/RelatedTo, 1
+schoolgirl, recess, /r/RelatedTo, 1
+Russian, women, /r/RelatedTo, 2
+Russian, over, /r/RelatedTo, 1
+Russian, men, /r/RelatedTo, 1
+Russian, bull, /r/RelatedTo, 1
+Cape Verde, poor, /r/RelatedTo, 2
+chess player, book, /r/RelatedTo, 1
+chess player, person, /r/RelatedTo, 1
+chess player, little, /r/RelatedTo, 1
+chess player, social, /r/RelatedTo, 1
+chess player, skill, /r/RelatedTo, 1
+musician, joint, /r/RelatedTo, 1
+schoolgirl, plaid, /r/RelatedTo, 1
+schoolgirl, white, /r/RelatedTo, 1
+schoolgirl, button, /r/RelatedTo, 1
+schoolgirl, shirt, /r/RelatedTo, 1
+civil servant, low, /r/RelatedTo, 1
+civil servant, salaries, /r/RelatedTo, 1
+Russian, stories, /r/RelatedTo, 1
+Russian, wild, /r/RelatedTo, 1
+Russian, dogs, /r/RelatedTo, 1
+Afghanistan, man, /r/RelatedTo, 2
+Afghanistan, controlling, /r/RelatedTo, 1
+Afghanistan, wife, /r/RelatedTo, 1
+Afghanistan, daughters, /r/RelatedTo, 1
+physicist, intelligent, /r/RelatedTo, 3
+schoolgirl, school, /r/RelatedTo, 2
+schoolgirl, uniform, /r/RelatedTo, 2
+schoolgirl, homework, /r/RelatedTo, 1
+musician, different, /r/RelatedTo, 1
+musician, issue, /r/RelatedTo, 1
+musician, lives, /r/RelatedTo, 1
+Ghanaian, mud, /r/RelatedTo, 1
+Ghanaian, houses, /r/RelatedTo, 1
+Russian, lot, /r/RelatedTo, 2
+Hispanic, truck, /r/RelatedTo, 1
+chess player, child, /r/RelatedTo, 1
+chess player, logic, /r/RelatedTo, 1
+chess player, games, /r/RelatedTo, 1
+chess player, reading, /r/RelatedTo, 1
+civil servant, passionate, /r/RelatedTo, 2
+civil servant, hours, /r/RelatedTo, 1
+civil servant, week, /r/RelatedTo, 1
+mover, back, /r/RelatedTo, 1
+mover, brace, /r/RelatedTo, 1
+mover, stature, /r/RelatedTo, 1
+Cameroon, slaves, /r/RelatedTo, 1
+psychologist, jewish, /r/RelatedTo, 1
+psychologist, ne, /r/RelatedTo, 1
+mover, careless, /r/RelatedTo, 1
+mover, costly, /r/RelatedTo, 1
+Cameroon, lo, /r/RelatedTo, 1
+Cameroon, cloth, /r/RelatedTo, 1
+Cameroon, term, /r/RelatedTo, 1
+chess player, blank, /r/RelatedTo, 1
+chess player, intelligent, /r/RelatedTo, 2
+Ghanaian, rituals, /r/RelatedTo, 1
+Russian, nuclear, /r/RelatedTo, 1
+Russian, weapons, /r/RelatedTo, 1
+Crimean, alcoholic, /r/RelatedTo, 1
+Crimean, waste, /r/RelatedTo, 2
+mother, concerned, /r/RelatedTo, 1
+mother, well, /r/RelatedTo, 1
+mother, being, /r/RelatedTo, 1
+physicist, academic, /r/RelatedTo, 1
+Afghanistan, country, /r/RelatedTo, 2
+Ghanaian, culture, /r/RelatedTo, 2
+Ghanaian, crude, /r/RelatedTo, 1
+Ghanaian, many, /r/RelatedTo, 1
+Ghanaian, little, /r/RelatedTo, 1
+Ghanaian, money, /r/RelatedTo, 1
+physicist, guest, /r/RelatedTo, 1
+physicist, speaker, /r/RelatedTo, 1
+physicist, space, /r/RelatedTo, 1
+physicist, department, /r/RelatedTo, 1
+Ethiopian, death, /r/RelatedTo, 2
+Afghanistan, many, /r/RelatedTo, 1
+Afghanistan, war, /r/RelatedTo, 1
+Afghanistan, tough, /r/RelatedTo, 1
+Afghanistan, great, /r/RelatedTo, 1
+Afghanistan, fighters, /r/RelatedTo, 1
+chess player, chess, /r/RelatedTo, 3
+Ethiopian, weeks, /r/RelatedTo, 1
+Hispanic, drama, /r/RelatedTo, 1
+Ethiopia, starvation, /r/RelatedTo, 1
+Ethiopian, food, /r/RelatedTo, 2
+Ethiopian, intense, /r/RelatedTo, 1
+Ethiopian, western, /r/RelatedTo, 1
+Ethiopian, sen, /r/RelatedTo, 1
+Cape Verde, nations, /r/RelatedTo, 1
+Cape Verde, brave, /r/RelatedTo, 1
+civil servant, bureaucracy, /r/RelatedTo, 2
+civil servant, patient, /r/RelatedTo, 1
+tailor, poor, /r/RelatedTo, 1
+tailor, family, /r/RelatedTo, 2
+tailor, proud, /r/RelatedTo, 1
+tailor, business, /r/RelatedTo, 1
+herself, sugar, /r/RelatedTo, 1
+herself, daddy, /r/RelatedTo, 1
+Ethiopia, skinny, /r/RelatedTo, 3
+Ethiopia, area, /r/RelatedTo, 1
+Ethiopia, goat, /r/RelatedTo, 1
+Ethiopia, meat, /r/RelatedTo, 1
+physicist, smarter, /r/RelatedTo, 1
+civil servant, job, /r/RelatedTo, 2
+civil servant, connections, /r/RelatedTo, 1
+Ethiopia, many, /r/RelatedTo, 3
+Ethiopia, shots, /r/RelatedTo, 1
+Ethiopia, diseases, /r/RelatedTo, 1
+civil servant, interests, /r/RelatedTo, 1
+civil servant, citizens, /r/RelatedTo, 1
+civil servant, caller, /r/RelatedTo, 1
+civil servant, hold, /r/RelatedTo, 1
+civil servant, chair, /r/RelatedTo, 1
+civil servant, ready, /r/RelatedTo, 1
+civil servant, notes, /r/RelatedTo, 1
+chess player, dude, /r/RelatedTo, 1
+chess player, extra, /r/RelatedTo, 1
+chess player, thick, /r/RelatedTo, 1
+chess player, glasses, /r/RelatedTo, 2
+chess player, serious, /r/RelatedTo, 1
+chess player, time, /r/RelatedTo, 2
+Russian, man, /r/RelatedTo, 1
+herself, selfish, /r/RelatedTo, 1
+Russian, much, /r/RelatedTo, 1
+Russian, noise, /r/RelatedTo, 1
+mover, person, /r/RelatedTo, 1
+mover, slow, /r/RelatedTo, 1
+Ethiopia, low, /r/RelatedTo, 1
+Ethiopia, clean, /r/RelatedTo, 1
+Ethiopia, standards, /r/RelatedTo, 1
+Ethiopian, exchange, /r/RelatedTo, 1
+Ethiopian, student, /r/RelatedTo, 1
+Cameroon, mud, /r/RelatedTo, 1
+Cameroon, huts, /r/RelatedTo, 1
+Cameroon, wilderness, /r/RelatedTo, 1
+chess player, mother, /r/RelatedTo, 1
+chess player, basement, /r/RelatedTo, 1
+mover, clumsy, /r/RelatedTo, 1
+mover, stupid, /r/RelatedTo, 1
+mover, box, /r/RelatedTo, 1
+mover, fit, /r/RelatedTo, 1
+mover, boxes, /r/RelatedTo, 2
+mover, day, /r/RelatedTo, 1
+physicist, experiments, /r/RelatedTo, 1
+Ethiopian, fast, /r/RelatedTo, 1
+Ethiopian, runners, /r/RelatedTo, 1
+Russian, armed, /r/RelatedTo, 1
+Russian, dangerous, /r/RelatedTo, 1
+civil servant, office, /r/RelatedTo, 1
+civil servant, next, /r/RelatedTo, 1
+civil servant, year, /r/RelatedTo, 1
+physicist, social, /r/RelatedTo, 1
+physicist, skills, /r/RelatedTo, 1
+Russian, strong, /r/RelatedTo, 1
+musician, addict, /r/RelatedTo, 1
+physicist, brilliant, /r/RelatedTo, 1
+physicist, difficult, /r/RelatedTo, 1
+Crimean, person, /r/RelatedTo, 1
+Crimean, vodka, /r/RelatedTo, 1
+Crimean, good, /r/RelatedTo, 1
+Cape Verde, ne, /r/RelatedTo, 1
+Cape Verde, characters, /r/RelatedTo, 1
+Ethiopian, thin, /r/RelatedTo, 4
+mover, job, /r/RelatedTo, 3
+mover, ', /r/RelatedTo, 1
+tailor, petite, /r/RelatedTo, 1
+tailor, clothing, /r/RelatedTo, 1
+Ghanaian, skinned, /r/RelatedTo, 1
+Ethiopia, sc, /r/RelatedTo, 1
+Ethiopia, swollen, /r/RelatedTo, 1
+Ethiopia, bell, /r/RelatedTo, 1
+Ethiopian, men, /r/RelatedTo, 1
+Ethiopian, fun, /r/RelatedTo, 1
+Ethiopian, places, /r/RelatedTo, 1
+schoolgirl, hair, /r/RelatedTo, 3
+schoolgirl, neat, /r/RelatedTo, 1
+schoolgirl, pig, /r/RelatedTo, 3
+schoolgirl, pretty, /r/RelatedTo, 1
+psychologist, several, /r/RelatedTo, 1
+psychologist, dollars, /r/RelatedTo, 1
+psychologist, hour, /r/RelatedTo, 1
+psychologist, behavior, /r/RelatedTo, 1
+Ghanaian, good, /r/RelatedTo, 3
+Ghanaian, sports, /r/RelatedTo, 1
+tailor, e, /r/RelatedTo, 1
+tailor, talented, /r/RelatedTo, 1
+tailor, elderly, /r/RelatedTo, 1
+tailor, asian, /r/RelatedTo, 2
+tailor, lady, /r/RelatedTo, 1
+tailor, weeks, /r/RelatedTo, 1
+schoolgirl, other, /r/RelatedTo, 1
+schoolgirl, girls, /r/RelatedTo, 1
+schoolgirl, age, /r/RelatedTo, 1
+schoolgirl, steps, /r/RelatedTo, 1
+schoolgirl, museum, /r/RelatedTo, 1
+schoolgirl, apple, /r/RelatedTo, 1
+schoolgirl, juice, /r/RelatedTo, 1
+schoolgirl, afternoon, /r/RelatedTo, 1
+musician, man, /r/RelatedTo, 1
+Cape Verde, climate, /r/RelatedTo, 1
+Cape Verde, accustomed, /r/RelatedTo, 1
+Cape Verde, tropical, /r/RelatedTo, 1
+Cape Verde, weather, /r/RelatedTo, 1
+Cape Verde, beaches, /r/RelatedTo, 1
+mother, romantic, /r/RelatedTo, 1
+mother, life, /r/RelatedTo, 1
+civil servant, cheap, /r/RelatedTo, 1
+civil servant, lunch, /r/RelatedTo, 1
+civil servant, much, /r/RelatedTo, 1
+musician, finances, /r/RelatedTo, 1
+mover, things, /r/RelatedTo, 1
+mover, dirty, /r/RelatedTo, 1
+mover, jeans, /r/RelatedTo, 1
+mover, ts, /r/RelatedTo, 1
+Cape Verde, life, /r/RelatedTo, 1
+Hispanic, mat, /r/RelatedTo, 1
+Hispanic, warm, /r/RelatedTo, 1
+Hispanic, type, /r/RelatedTo, 1
+Hispanic, person, /r/RelatedTo, 1
+herself, conversations, /r/RelatedTo, 1
+schoolgirl, sexy, /r/RelatedTo, 2
+schoolgirl, blonde, /r/RelatedTo, 1
+Ethiopia, runner, /r/RelatedTo, 1
+musician, one, /r/RelatedTo, 1
+musician, useless, /r/RelatedTo, 1
+musician, instrument, /r/RelatedTo, 1
+musician, friends, /r/RelatedTo, 1
+psychologist, drugs, /r/RelatedTo, 1
+Cameroon, warm, /r/RelatedTo, 1
+Cameroon, equator, /r/RelatedTo, 1
+Ethiopian, famine, /r/RelatedTo, 1
+physicist, glasses, /r/RelatedTo, 4
+physicist, nose, /r/RelatedTo, 2
+physicist, talk, /r/RelatedTo, 1
+physicist, audience, /r/RelatedTo, 1
+physicist, sleep, /r/RelatedTo, 1
+Hispanic, culture, /r/RelatedTo, 1
+schoolgirl, hand, /r/RelatedTo, 1
+schoolgirl, air, /r/RelatedTo, 1
+schoolgirl, big, /r/RelatedTo, 1
+schoolgirl, breasts, /r/RelatedTo, 1
+schoolgirl, blouse, /r/RelatedTo, 1
+Cape Verde, notorious, /r/RelatedTo, 1
+Cape Verde, place, /r/RelatedTo, 2
+Cape Verde, bad, /r/RelatedTo, 1
+Cape Verde, surfer, /r/RelatedTo, 1
+herself, nails, /r/RelatedTo, 1
+Russian, terrible, /r/RelatedTo, 1
+Russian, temper, /r/RelatedTo, 1
+Russian, job, /r/RelatedTo, 1
+civil servant, beginning, /r/RelatedTo, 1
+civil servant, career, /r/RelatedTo, 1
+civil servant, di, /r/RelatedTo, 1
+civil servant, pay, /r/RelatedTo, 1
+Ethiopia, part, /r/RelatedTo, 1
+mover, else, /r/RelatedTo, 1
+Crimean, sort, /r/RelatedTo, 1
+Crimean, warfare, /r/RelatedTo, 1
+herself, lipstick, /r/RelatedTo, 1
+Ethiopian, hands, /r/RelatedTo, 1
+physicist, familiar, /r/RelatedTo, 1
+physicist, laboratory, /r/RelatedTo, 1
+physicist, equipment, /r/RelatedTo, 1
+physicist, procedure, /r/RelatedTo, 1
+Ghanaian, charity, /r/RelatedTo, 1
+Crimean, many, /r/RelatedTo, 2
+Crimean, poor, /r/RelatedTo, 1
+Crimean, village, /r/RelatedTo, 1
+Hispanic, illegal, /r/RelatedTo, 1
+Hispanic, lazy, /r/RelatedTo, 2
+Afghanistan, poor, /r/RelatedTo, 2
+Hispanic, racist, /r/RelatedTo, 1
+Hispanic, free, /r/RelatedTo, 1
+Hispanic, good, /r/RelatedTo, 1
+Hispanic, dancers, /r/RelatedTo, 1
+mover, men, /r/RelatedTo, 2
+mover, work, /r/RelatedTo, 1
+mover, furniture, /r/RelatedTo, 1
+civil servant, water, /r/RelatedTo, 1
+civil servant, cats, /r/RelatedTo, 1
+mover, overall, /r/RelatedTo, 1
+mover, sailor, /r/RelatedTo, 1
+Crimean, countries, /r/RelatedTo, 1
+Crimean, wars, /r/RelatedTo, 1
+musician, trouble, /r/RelatedTo, 1
+musician, talent, /r/RelatedTo, 1
+Crimean, such, /r/RelatedTo, 1
+Crimean, immigrants, /r/RelatedTo, 1
+Crimean, communities, /r/RelatedTo, 1
+Crimean, sprawling, /r/RelatedTo, 1
+Crimean, family, /r/RelatedTo, 1
+Crimean, networks, /r/RelatedTo, 1
+physicist, interest, /r/RelatedTo, 1
+physicist, arts, /r/RelatedTo, 1
+Ethiopia, most, /r/RelatedTo, 1
+Ethiopia, natives, /r/RelatedTo, 1
+Ethiopia, skinned, /r/RelatedTo, 1
+Ethiopia, health, /r/RelatedTo, 1
+herself, working, /r/RelatedTo, 1
+herself, poor, /r/RelatedTo, 1
+musician, messy, /r/RelatedTo, 1
+musician, poor, /r/RelatedTo, 1
+Ghanaian, diamond, /r/RelatedTo, 1
+Ghanaian, trade, /r/RelatedTo, 1
+Ghanaian, brutal, /r/RelatedTo, 1
+musician, open, /r/RelatedTo, 1
+musician, mind, /r/RelatedTo, 1
+Ghanaian, mother, /r/RelatedTo, 1
+Ghanaian, goat, /r/RelatedTo, 1
+Ghanaian, stew, /r/RelatedTo, 1
+Ghanaian, better, /r/RelatedTo, 1
+Russian, hike, /r/RelatedTo, 1
+Russian, cold, /r/RelatedTo, 1
+Ethiopia, similar, /r/RelatedTo, 1
+Ethiopia, nigerian, /r/RelatedTo, 1
+Ethiopia, majority, /r/RelatedTo, 1
+Ethiopia, today, /r/RelatedTo, 1
+Ethiopian, reliable, /r/RelatedTo, 1
+Crimean, tar, /r/RelatedTo, 1
+Crimean, black, /r/RelatedTo, 1
+Crimean, sea, /r/RelatedTo, 1
+Crimean, beaches, /r/RelatedTo, 1
+Crimean, city, /r/RelatedTo, 1
+psychologist, mental, /r/RelatedTo, 1
+psychologist, issues, /r/RelatedTo, 1
+psychologist, big, /r/RelatedTo, 1
+psychologist, topic, /r/RelatedTo, 1
+psychologist, days, /r/RelatedTo, 1
+mother, school, /r/RelatedTo, 1
+civil servant, big, /r/RelatedTo, 1
+civil servant, responsibilities, /r/RelatedTo, 1
+chess player, fr, /r/RelatedTo, 1
+chess player, nose, /r/RelatedTo, 1
+chess player, spectacle, /r/RelatedTo, 1
+tailor, indian, /r/RelatedTo, 1
+tailor, little, /r/RelatedTo, 1
+Ethiopia, oldest, /r/RelatedTo, 1
+Ethiopia, christian, /r/RelatedTo, 1
+Ethiopia, communities, /r/RelatedTo, 1
+Ethiopia, world, /r/RelatedTo, 1
+Russian, power, /r/RelatedTo, 1
+Russian, elections, /r/RelatedTo, 1
+physicist, awkward, /r/RelatedTo, 1
+physicist, person, /r/RelatedTo, 1
+physicist, many, /r/RelatedTo, 1
+physicist, friends, /r/RelatedTo, 1
+Ghanaian, marathon, /r/RelatedTo, 1
+Ghanaian, runners, /r/RelatedTo, 1
+Crimean, country, /r/RelatedTo, 1
+Ethiopian, family, /r/RelatedTo, 1
+Ghanaian, stellar, /r/RelatedTo, 1
+Ghanaian, athlete, /r/RelatedTo, 1
+Ghanaian, best, /r/RelatedTo, 1
+Ghanaian, track, /r/RelatedTo, 1
+Ghanaian, team, /r/RelatedTo, 1
+mother, flowers, /r/RelatedTo, 1
+mother, birthday, /r/RelatedTo, 1
+psychologist, name, /r/RelatedTo, 1
+psychologist, rude, /r/RelatedTo, 1
+schoolgirl, gig, /r/RelatedTo, 1
+schoolgirl, silly, /r/RelatedTo, 1
+schoolgirl, hours, /r/RelatedTo, 1
+mother, loving, /r/RelatedTo, 1
+mother, sweet, /r/RelatedTo, 1
+Cape Verde, one, /r/RelatedTo, 1
+Cape Verde, entire, /r/RelatedTo, 1
+tailor, secrets, /r/RelatedTo, 1
+tailor, hostage, /r/RelatedTo, 1
+Ethiopia, dirty, /r/RelatedTo, 1
+Ethiopia, place, /r/RelatedTo, 1
+musician, adept, /r/RelatedTo, 1
+musician, piano, /r/RelatedTo, 1
+chess player, hard, /r/RelatedTo, 1
+chess player, opposite, /r/RelatedTo, 1
+chess player, sex, /r/RelatedTo, 1
+Ethiopian, tall, /r/RelatedTo, 1
+psychologist, lot, /r/RelatedTo, 2
+psychologist, questions, /r/RelatedTo, 1
+psychologist, medicine, /r/RelatedTo, 1
+Afghanistan, goats, /r/RelatedTo, 1
+Afghanistan, dirt, /r/RelatedTo, 1
+Afghanistan, roads, /r/RelatedTo, 1
+mother, nur, /r/RelatedTo, 1
+mother, lonely, /r/RelatedTo, 1
+mother, child, /r/RelatedTo, 1
+Cape Verde, most, /r/RelatedTo, 1
+Ethiopia, ton, /r/RelatedTo, 1
+Ethiopia, marathon, /r/RelatedTo, 1
+tailor, short, /r/RelatedTo, 1
+tailor, italian, /r/RelatedTo, 1
+tailor, several, /r/RelatedTo, 1
+tailor, prices, /r/RelatedTo, 1
+Ethiopian, religious, /r/RelatedTo, 1
+mover, stuff, /r/RelatedTo, 2
+Hispanic, many, /r/RelatedTo, 1
+Hispanic, laid, /r/RelatedTo, 1
+Hispanic, back, /r/RelatedTo, 1
+Hispanic, life, /r/RelatedTo, 1
+Hispanic, style, /r/RelatedTo, 1
+mother, baby, /r/RelatedTo, 1
+herself, image, /r/RelatedTo, 1
+herself, wedding, /r/RelatedTo, 1
+herself, dress, /r/RelatedTo, 1
+herself, someday, /r/RelatedTo, 1
+Cape Verde, lot, /r/RelatedTo, 1
+Cape Verde, tourism, /r/RelatedTo, 1
+Cape Verde, industry, /r/RelatedTo, 1
+tailor, fl, /r/RelatedTo, 1
+Cape Verde, dark, /r/RelatedTo, 1
+Cape Verde, skin, /r/RelatedTo, 1
+psychologist, smart, /r/RelatedTo, 1
+Russian, friend, /r/RelatedTo, 1
+schoolgirl, immature, /r/RelatedTo, 1
+schoolgirl, children, /r/RelatedTo, 1
+musician, bit, /r/RelatedTo, 1
+musician, di, /r/RelatedTo, 1
+schoolgirl, friends, /r/RelatedTo, 2
+schoolgirl, sun, /r/RelatedTo, 1
+schoolgirl, dress, /r/RelatedTo, 1
+Cape Verde, country, /r/RelatedTo, 1
+Cape Verde, ocean, /r/RelatedTo, 1
+musician, sex, /r/RelatedTo, 1
+Crimean, accent, /r/RelatedTo, 1
+Crimean, hungry, /r/RelatedTo, 1
+Afghanistan, way, /r/RelatedTo, 1
+Afghanistan, work, /r/RelatedTo, 1
+Afghanistan, habits, /r/RelatedTo, 1
+Afghanistan, education, /r/RelatedTo, 1
+Afghanistan, process, /r/RelatedTo, 1
+mover, daughters, /r/RelatedTo, 1
+Ethiopia, horrible, /r/RelatedTo, 1
+Ethiopia, economic, /r/RelatedTo, 1
+Ethiopia, problems, /r/RelatedTo, 1
+Ghanaian, african, /r/RelatedTo, 1
+Ghanaian, accent, /r/RelatedTo, 1
+mover, fragile, /r/RelatedTo, 1
+mover, stick, /r/RelatedTo, 1
+mover, mom, /r/RelatedTo, 1
+mover, vase, /r/RelatedTo, 1
+civil servant, rigid, /r/RelatedTo, 1
+Cameroon, skinned, /r/RelatedTo, 1
+psychologist, brilliant, /r/RelatedTo, 1
+psychologist, individuals, /r/RelatedTo, 1
+herself, direction, /r/RelatedTo, 1
+Russian, one, /r/RelatedTo, 1
+Russian, happy, /r/RelatedTo, 1
+Ethiopian, meal, /r/RelatedTo, 1
+Ethiopian, rice, /r/RelatedTo, 1
+Ethiopian, flies, /r/RelatedTo, 1
+psychologist, middle, /r/RelatedTo, 1
+psychologist, aged, /r/RelatedTo, 1
+psychologist, man, /r/RelatedTo, 1
+psychologist, lots, /r/RelatedTo, 1
+psychologist, photos, /r/RelatedTo, 1
+psychologist, wife, /r/RelatedTo, 1
+psychologist, children, /r/RelatedTo, 1
+psychologist, desk, /r/RelatedTo, 1
+Cameroon, worried, /r/RelatedTo, 1
+schoolgirl, weak, /r/RelatedTo, 1
+Cape Verde, fisherman, /r/RelatedTo, 1
+Ghanaian, search, /r/RelatedTo, 1
+Ghanaian, food, /r/RelatedTo, 1
+Ghanaian, hungry, /r/RelatedTo, 1
+physicist, one, /r/RelatedTo, 1
+physicist, specialized, /r/RelatedTo, 1
+physicist, degree, /r/RelatedTo, 1
+mover, crew, /r/RelatedTo, 1
+mover, hispanic, /r/RelatedTo, 1
+mover, lamp, /r/RelatedTo, 1
+civil servant, male, /r/RelatedTo, 1
+civil servant, bowler, /r/RelatedTo, 1
+civil servant, hat, /r/RelatedTo, 1
+civil servant, pins, /r/RelatedTo, 1
+civil servant, suit, /r/RelatedTo, 1
+civil servant, resistant, /r/RelatedTo, 1
+Afghanistan, prisoner, /r/RelatedTo, 1
+Russian, tough, /r/RelatedTo, 1
+Russian, guy, /r/RelatedTo, 1
+mother, party, /r/RelatedTo, 1
+mother, daughter, /r/RelatedTo, 1
+Russian, tall, /r/RelatedTo, 1
+Russian, blond, /r/RelatedTo, 1
+Russian, long, /r/RelatedTo, 1
+Russian, nails, /r/RelatedTo, 1
+Ethiopia, death, /r/RelatedTo, 1
+Crimean, polls, /r/RelatedTo, 1
+Ghanaian, soccer, /r/RelatedTo, 1
+chess player, genius, /r/RelatedTo, 2
+musician, fame, /r/RelatedTo, 1
+Crimean, happy, /r/RelatedTo, 1
+Crimean, lots, /r/RelatedTo, 1
+Crimean, life, /r/RelatedTo, 1
+Hispanic, educated, /r/RelatedTo, 1
+Hispanic, prone, /r/RelatedTo, 1
+Hispanic, criminal, /r/RelatedTo, 1
+Hispanic, behavior, /r/RelatedTo, 1
+Russian, spy, /r/RelatedTo, 1
+Russian, tactics, /r/RelatedTo, 1
+Russian, dish, /r/RelatedTo, 1
+mover, big, /r/RelatedTo, 1
+mover, truck, /r/RelatedTo, 1
+physicist, older, /r/RelatedTo, 1
+physicist, white, /r/RelatedTo, 1
+physicist, male, /r/RelatedTo, 1
+musician, long, /r/RelatedTo, 1
+musician, hair, /r/RelatedTo, 1
+musician, beard, /r/RelatedTo, 1
+musician, leather, /r/RelatedTo, 1
+musician, jacket, /r/RelatedTo, 1
+mover, car, /r/RelatedTo, 1
+mover, piano, /r/RelatedTo, 1
+Ethiopian, first, /r/RelatedTo, 1
+Ethiopian, thoughts, /r/RelatedTo, 1
+Ethiopian, money, /r/RelatedTo, 1
+Ethiopian, day, /r/RelatedTo, 1
+Ghanaian, area, /r/RelatedTo, 1
+Ghanaian, tropical, /r/RelatedTo, 1
+Ghanaian, hot, /r/RelatedTo, 1
+Afghanistan, bad, /r/RelatedTo, 1
+Afghanistan, relations, /r/RelatedTo, 1
+psychologist, money, /r/RelatedTo, 1
+Cape Verde, civilized, /r/RelatedTo, 1
+Crimean, mother, /r/RelatedTo, 1
+schoolgirl, video, /r/RelatedTo, 1
+schoolgirl, games, /r/RelatedTo, 1
+schoolgirl, tonight, /r/RelatedTo, 1
+chess player, shy, /r/RelatedTo, 1
+Cape Verde, songs, /r/RelatedTo, 1
+Cape Verde, day, /r/RelatedTo, 1
+Cape Verde, night, /r/RelatedTo, 1
+Afghanistan, groups, /r/RelatedTo, 1
+Afghanistan, savage, /r/RelatedTo, 1
+tailor, excellent, /r/RelatedTo, 1
+tailor, design, /r/RelatedTo, 1
+tailor, fashion, /r/RelatedTo, 2
+musician, attention, /r/RelatedTo, 1
+physicist, black, /r/RelatedTo, 1
+physicist, theories, /r/RelatedTo, 1
+mover, quick, /r/RelatedTo, 1
+Ethiopian, dirty, /r/RelatedTo, 1
+psychologist, extraordinary, /r/RelatedTo, 1
+psychologist, amount, /r/RelatedTo, 1
+psychologist, help, /r/RelatedTo, 1
+chess player, int, /r/RelatedTo, 1
+herself, men, /r/RelatedTo, 1
+herself, none, /r/RelatedTo, 1
+herself, chance, /r/RelatedTo, 1
+herself, career, /r/RelatedTo, 1
+herself, advancement, /r/RelatedTo, 1
+chess player, knowledge, /r/RelatedTo, 1
+chess player, d, /r/RelatedTo, 1
+chess player, minutes, /r/RelatedTo, 1
+chess player, competitors, /r/RelatedTo, 1
+chess player, tactics, /r/RelatedTo, 1
+Cameroon, hut, /r/RelatedTo, 1
+mother, wife, /r/RelatedTo, 1
+mother, happy, /r/RelatedTo, 1
+musician, radio, /r/RelatedTo, 1
+mother, other, /r/RelatedTo, 1
+mother, women, /r/RelatedTo, 1
+mother, busy, /r/RelatedTo, 1
+chess player, strangers, /r/RelatedTo, 1
+chess player, local, /r/RelatedTo, 1
+chess player, park, /r/RelatedTo, 1
+chess player, boards, /r/RelatedTo, 1
+tailor, best, /r/RelatedTo, 1
+tailor, sense, /r/RelatedTo, 1
+Afghanistan, different, /r/RelatedTo, 1
+Afghanistan, places, /r/RelatedTo, 1
+herself, terrible, /r/RelatedTo, 1
+herself, cooking, /r/RelatedTo, 1
+herself, take, /r/RelatedTo, 1
+herself, easy, /r/RelatedTo, 1
+herself, kitchen, /r/RelatedTo, 1
+herself, neat, /r/RelatedTo, 1
+schoolgirl, cheer, /r/RelatedTo, 1
+Afghanistan, families, /r/RelatedTo, 1
+Afghanistan, worried, /r/RelatedTo, 1
+Afghanistan, violence, /r/RelatedTo, 1
+Crimean, russian, /r/RelatedTo, 1
+Eritrean, brunette, /r/RelatedTo, 1
+Eritrean, black, /r/RelatedTo, 3
+Eritrean, hair, /r/RelatedTo, 1
+Muslim, history, /r/RelatedTo, 1
+Muslim, kids, /r/RelatedTo, 1
+Britain, much, /r/RelatedTo, 1
+Britain, tea, /r/RelatedTo, 6
+Britain, veins, /r/RelatedTo, 1
+Eriteria, few, /r/RelatedTo, 2
+Eriteria, white, /r/RelatedTo, 1
+Eriteria, parts, /r/RelatedTo, 1
+Eritrean, money, /r/RelatedTo, 1
+Italy, pasta, /r/RelatedTo, 9
+Italy, meal, /r/RelatedTo, 1
+Syria, angry, /r/RelatedTo, 1
+Syria, skin, /r/RelatedTo, 1
+Syria, color, /r/RelatedTo, 1
+Britain, shop, /r/RelatedTo, 1
+Britain, teeth, /r/RelatedTo, 8
+Britain, horrible, /r/RelatedTo, 1
+himself, cleaning, /r/RelatedTo, 1
+himself, company, /r/RelatedTo, 1
+producer, lot, /r/RelatedTo, 3
+producer, particular, /r/RelatedTo, 1
+Ukrainian, dangerous, /r/RelatedTo, 1
+Ukrainian, thug, /r/RelatedTo, 1
+African, exotic, /r/RelatedTo, 2
+African, dish, /r/RelatedTo, 1
+African, strange, /r/RelatedTo, 1
+African, other, /r/RelatedTo, 1
+African, passengers, /r/RelatedTo, 1
+entrepreneur, business, /r/RelatedTo, 6
+entrepreneur, instincts, /r/RelatedTo, 1
+performing artist, poor, /r/RelatedTo, 1
+performing artist, man, /r/RelatedTo, 1
+Muslim, hate, /r/RelatedTo, 1
+Muslim, women, /r/RelatedTo, 2
+Muslim, children, /r/RelatedTo, 1
+himself, alone, /r/RelatedTo, 2
+himself, weird, /r/RelatedTo, 1
+producer, selfish, /r/RelatedTo, 1
+producer, greedy, /r/RelatedTo, 1
+producer, man, /r/RelatedTo, 2
+commander, middle, /r/RelatedTo, 1
+commander, aged, /r/RelatedTo, 1
+commander, white, /r/RelatedTo, 1
+commander, man, /r/RelatedTo, 3
+Ukrainian, drink, /r/RelatedTo, 2
+Iraq, government, /r/RelatedTo, 1
+Iraq, corrupt, /r/RelatedTo, 1
+mathematician, most, /r/RelatedTo, 1
+mathematician, field, /r/RelatedTo, 1
+mathematician, study, /r/RelatedTo, 1
+mathematician, men, /r/RelatedTo, 1
+sister, boss, /r/RelatedTo, 2
+sister, controlling, /r/RelatedTo, 1
+policeman, white, /r/RelatedTo, 7
+policeman, man, /r/RelatedTo, 7
+producer, money, /r/RelatedTo, 3
+grandfather, old, /r/RelatedTo, 4
+grandfather, fashioned, /r/RelatedTo, 1
+chemist, white, /r/RelatedTo, 6
+chemist, males, /r/RelatedTo, 1
+chemist, lab, /r/RelatedTo, 6
+chemist, coat, /r/RelatedTo, 5
+policeman, smart, /r/RelatedTo, 1
+Japanese, time, /r/RelatedTo, 1
+guitarist, show, /r/RelatedTo, 1
+guitarist, sex, /r/RelatedTo, 1
+guitarist, fan, /r/RelatedTo, 1
+gentlemen, major, /r/RelatedTo, 1
+gentlemen, parties, /r/RelatedTo, 1
+manager, speech, /r/RelatedTo, 1
+Iraq, law, /r/RelatedTo, 1
+software developer, time, /r/RelatedTo, 1
+software developer, music, /r/RelatedTo, 1
+software developer, computer, /r/RelatedTo, 2
+football player, player, /r/RelatedTo, 1
+football player, goal, /r/RelatedTo, 1
+performing artist, thin, /r/RelatedTo, 1
+performing artist, attractive, /r/RelatedTo, 1
+Syria, bombs, /r/RelatedTo, 2
+Syria, wars, /r/RelatedTo, 1
+grandfather, slow, /r/RelatedTo, 1
+Columbian, coffee, /r/RelatedTo, 2
+Spain, crazy, /r/RelatedTo, 1
+Spain, soccer, /r/RelatedTo, 1
+Ecuador, many, /r/RelatedTo, 6
+Ecuador, countries, /r/RelatedTo, 1
+Ecuador, criminals, /r/RelatedTo, 1
+entrepreneur, brilliant, /r/RelatedTo, 1
+entrepreneur, wealthy, /r/RelatedTo, 2
+Bengali, poor, /r/RelatedTo, 2
+Norway, filthy, /r/RelatedTo, 1
+Norway, communist, /r/RelatedTo, 1
+Sierra Leon, poor, /r/RelatedTo, 5
+Sierra Leon, country, /r/RelatedTo, 7
+Ukrainian, blunt, /r/RelatedTo, 1
+Ukrainian, harsh, /r/RelatedTo, 1
+Syria, surprised, /r/RelatedTo, 1
+Syria, dead, /r/RelatedTo, 1
+Saudi Arabian, women, /r/RelatedTo, 4
+Saudi Arabian, house, /r/RelatedTo, 1
+gentlemen, way, /r/RelatedTo, 1
+gentlemen, elderly, /r/RelatedTo, 1
+gentlemen, women, /r/RelatedTo, 4
+gentlemen, street, /r/RelatedTo, 1
+prisoner, guilty, /r/RelatedTo, 2
+commander, broad, /r/RelatedTo, 1
+commander, shoulders, /r/RelatedTo, 1
+commander, voice, /r/RelatedTo, 1
+commander, room, /r/RelatedTo, 1
+Ukrainian, man, /r/RelatedTo, 1
+Ukrainian, crowded, /r/RelatedTo, 1
+Ukrainian, city, /r/RelatedTo, 1
+Italy, many, /r/RelatedTo, 1
+Italy, variety, /r/RelatedTo, 1
+Italy, spaghetti, /r/RelatedTo, 1
+Italy, ', /r/RelatedTo, 1
+Italy, s, /r/RelatedTo, 1
+Italy, men, /r/RelatedTo, 2
+Italy, names, /r/RelatedTo, 1
+politician, power, /r/RelatedTo, 1
+politician, hungry, /r/RelatedTo, 2
+African, many, /r/RelatedTo, 3
+African, continent, /r/RelatedTo, 3
+African, hot, /r/RelatedTo, 3
+African, climates, /r/RelatedTo, 1
+Arab, terrorist, /r/RelatedTo, 2
+Eritrean, entire, /r/RelatedTo, 1
+Eritrean, family, /r/RelatedTo, 1
+Eritrean, hit, /r/RelatedTo, 2
+Eritrean, men, /r/RelatedTo, 2
+Vietnam, independence, /r/RelatedTo, 1
+Bible, fan, /r/RelatedTo, 1
+nurse, eyes, /r/RelatedTo, 1
+Eritrean, most, /r/RelatedTo, 2
+Eritrean, natives, /r/RelatedTo, 1
+Eritrean, dark, /r/RelatedTo, 4
+Ecuador, place, /r/RelatedTo, 1
+Ecuador, hot, /r/RelatedTo, 5
+Norway, good, /r/RelatedTo, 2
+Norway, winter, /r/RelatedTo, 1
+Norway, sports, /r/RelatedTo, 1
+assistant, g, /r/RelatedTo, 1
+assistant, maid, /r/RelatedTo, 1
+Italy, restaurants, /r/RelatedTo, 1
+Italy, amazing, /r/RelatedTo, 1
+Italy, dishes, /r/RelatedTo, 1
+Bengali, sure, /r/RelatedTo, 1
+Bengali, call, /r/RelatedTo, 1
+Bengali, center, /r/RelatedTo, 1
+commander, orders, /r/RelatedTo, 3
+commander, respect, /r/RelatedTo, 1
+commander, feelings, /r/RelatedTo, 1
+Vietnam, hot, /r/RelatedTo, 1
+Vietnam, dirty, /r/RelatedTo, 4
+Vietnam, poor, /r/RelatedTo, 2
+Arab, convenience, /r/RelatedTo, 1
+Arab, store, /r/RelatedTo, 1
+software developer, geek, /r/RelatedTo, 3
+software developer, genius, /r/RelatedTo, 1
+mathematician, cal, /r/RelatedTo, 2
+mathematician, advanced, /r/RelatedTo, 1
+mathematician, formulas, /r/RelatedTo, 1
+mathematician, complex, /r/RelatedTo, 1
+mathematician, problems, /r/RelatedTo, 1
+male, habit, /r/RelatedTo, 1
+male, obvious, /r/RelatedTo, 1
+male, things, /r/RelatedTo, 1
+Eriteria, food, /r/RelatedTo, 1
+Eriteria, pot, /r/RelatedTo, 1
+Eriteria, rug, /r/RelatedTo, 1
+Britain, cultural, /r/RelatedTo, 1
+Britain, influence, /r/RelatedTo, 1
+Britain, result, /r/RelatedTo, 1
+Britain, tendency, /r/RelatedTo, 1
+Britain, colonial, /r/RelatedTo, 1
+Britain, occupations, /r/RelatedTo, 1
+Britain, other, /r/RelatedTo, 1
+Britain, countries, /r/RelatedTo, 1
+Britain, others, /r/RelatedTo, 1
+Britain, way, /r/RelatedTo, 1
+Britain, life, /r/RelatedTo, 1
+Iraq, violent, /r/RelatedTo, 1
+Iraq, poor, /r/RelatedTo, 1
+Iraq, fighters, /r/RelatedTo, 1
+researcher, sure, /r/RelatedTo, 1
+researcher, statistics, /r/RelatedTo, 1
+researcher, res, /r/RelatedTo, 1
+researcher, previous, /r/RelatedTo, 1
+researcher, studies, /r/RelatedTo, 1
+software developer, young, /r/RelatedTo, 1
+software developer, white, /r/RelatedTo, 1
+software developer, man, /r/RelatedTo, 1
+delivery man, stuff, /r/RelatedTo, 1
+Somalia, many, /r/RelatedTo, 3
+Somalia, attack, /r/RelatedTo, 1
+Somalia, major, /r/RelatedTo, 1
+Somalia, city, /r/RelatedTo, 3
+mommy, kitchen, /r/RelatedTo, 1
+mommy, floral, /r/RelatedTo, 1
+mommy, apron, /r/RelatedTo, 1
+Muslim, most, /r/RelatedTo, 2
+producer, s, /r/RelatedTo, 1
+Jordan, war, /r/RelatedTo, 1
+Jordan, zone, /r/RelatedTo, 1
+Jordan, dangerous, /r/RelatedTo, 3
+Somalia, sweaty, /r/RelatedTo, 1
+Somalia, barefoot, /r/RelatedTo, 1
+Somalia, church, /r/RelatedTo, 1
+butcher, white, /r/RelatedTo, 3
+butcher, apron, /r/RelatedTo, 3
+butcher, towel, /r/RelatedTo, 1
+butcher, next, /r/RelatedTo, 1
+butcher, present, /r/RelatedTo, 1
+manager, crude, /r/RelatedTo, 1
+manager, older, /r/RelatedTo, 1
+manager, man, /r/RelatedTo, 2
+manager, little, /r/RelatedTo, 1
+manager, forgiveness, /r/RelatedTo, 1
+producer, actresses, /r/RelatedTo, 3
+Iranian, country, /r/RelatedTo, 1
+Bible, book, /r/RelatedTo, 7
+Bible, boring, /r/RelatedTo, 1
+nurse, kind, /r/RelatedTo, 1
+nurse, gentle, /r/RelatedTo, 1
+Bible, hotel, /r/RelatedTo, 1
+Bible, owner, /r/RelatedTo, 1
+Bible, gay, /r/RelatedTo, 1
+gentlemen, whiskey, /r/RelatedTo, 1
+gentlemen, politics, /r/RelatedTo, 1
+Norway, cold, /r/RelatedTo, 3
+Spain, bull, /r/RelatedTo, 2
+commander, hate, /r/RelatedTo, 1
+commander, server, /r/RelatedTo, 1
+commander, number, /r/RelatedTo, 1
+Syria, full, /r/RelatedTo, 4
+Syria, terrorists, /r/RelatedTo, 4
+schoolboy, row, /r/RelatedTo, 1
+schoolboy, dirty, /r/RelatedTo, 1
+chemist, test, /r/RelatedTo, 1
+chemist, tube, /r/RelatedTo, 1
+Bible, thick, /r/RelatedTo, 1
+Bible, leather, /r/RelatedTo, 1
+Bible, gold, /r/RelatedTo, 1
+Bible, pages, /r/RelatedTo, 2
+Spain, country, /r/RelatedTo, 4
+football player, good, /r/RelatedTo, 2
+football player, college, /r/RelatedTo, 1
+football player, sports, /r/RelatedTo, 1
+performing artist, obe, /r/RelatedTo, 1
+performing artist, clown, /r/RelatedTo, 1
+Iranian, cab, /r/RelatedTo, 1
+Iranian, drivers, /r/RelatedTo, 1
+male, way, /r/RelatedTo, 1
+Spain, hot, /r/RelatedTo, 3
+Spain, lot, /r/RelatedTo, 2
+Italy, famous, /r/RelatedTo, 1
+Italy, ability, /r/RelatedTo, 1
+Italy, delicious, /r/RelatedTo, 2
+Italy, foods, /r/RelatedTo, 1
+prosecutor, best, /r/RelatedTo, 1
+prosecutor, attorney, /r/RelatedTo, 1
+prosecutor, room, /r/RelatedTo, 1
+prosecutor, witness, /r/RelatedTo, 1
+Brahmin, expert, /r/RelatedTo, 1
+football player, more, /r/RelatedTo, 2
+football player, most, /r/RelatedTo, 4
+Lebanon, multiple, /r/RelatedTo, 1
+Lebanon, wives, /r/RelatedTo, 1
+Iranian, men, /r/RelatedTo, 1
+Iranian, violent, /r/RelatedTo, 2
+Iranian, temper, /r/RelatedTo, 1
+Iranian, partner, /r/RelatedTo, 1
+Arab, quiet, /r/RelatedTo, 2
+Arab, meek, /r/RelatedTo, 1
+Eriteria, obscure, /r/RelatedTo, 1
+Eriteria, countries, /r/RelatedTo, 1
+Eriteria, dangerous, /r/RelatedTo, 1
+producer, things, /r/RelatedTo, 1
+producer, real, /r/RelatedTo, 1
+producer, work, /r/RelatedTo, 1
+commander, strict, /r/RelatedTo, 1
+commander, tough, /r/RelatedTo, 3
+commander, time, /r/RelatedTo, 1
+Ukrainian, party, /r/RelatedTo, 1
+Ukrainian, vodka, /r/RelatedTo, 3
+Saudi Arabian, secretive, /r/RelatedTo, 1
+prosecutor, em, /r/RelatedTo, 1
+prosecutor, truth, /r/RelatedTo, 1
+Iraq, bu, /r/RelatedTo, 1
+Iraq, husband, /r/RelatedTo, 1
+Iraq, school, /r/RelatedTo, 1
+assistant, organized, /r/RelatedTo, 3
+assistant, efficient, /r/RelatedTo, 1
+entrepreneur, lot, /r/RelatedTo, 3
+entrepreneur, money, /r/RelatedTo, 4
+mommy, loving, /r/RelatedTo, 2
+mommy, kind, /r/RelatedTo, 1
+prosecutor, absent, /r/RelatedTo, 1
+Spain, dirty, /r/RelatedTo, 2
+Eritrean, poor, /r/RelatedTo, 3
+performing artist, white, /r/RelatedTo, 1
+performing artist, male, /r/RelatedTo, 1
+performing artist, long, /r/RelatedTo, 1
+performing artist, hair, /r/RelatedTo, 1
+African, bed, /r/RelatedTo, 1
+African, violence, /r/RelatedTo, 1
+African, terrorism, /r/RelatedTo, 1
+assistant, day, /r/RelatedTo, 1
+assistant, things, /r/RelatedTo, 1
+Italy, most, /r/RelatedTo, 1
+Italy, short, /r/RelatedTo, 1
+Italy, large, /r/RelatedTo, 1
+Italy, noses, /r/RelatedTo, 1
+chemist, able, /r/RelatedTo, 1
+chemist, table, /r/RelatedTo, 1
+chemist, memory, /r/RelatedTo, 1
+Iraq, ill, /r/RelatedTo, 1
+Iranian, heads, /r/RelatedTo, 1
+Morocco, poor, /r/RelatedTo, 3
+Morocco, location, /r/RelatedTo, 1
+sister, hook, /r/RelatedTo, 1
+sister, girl, /r/RelatedTo, 2
+Yemen, terrorist, /r/RelatedTo, 3
+researcher, quiet, /r/RelatedTo, 1
+Columbian, many, /r/RelatedTo, 2
+Columbian, articles, /r/RelatedTo, 1
+Columbian, politics, /r/RelatedTo, 1
+researcher, many, /r/RelatedTo, 1
+researcher, things, /r/RelatedTo, 1
+researcher, more, /r/RelatedTo, 1
+Ukrainian, part, /r/RelatedTo, 1
+Italy, good, /r/RelatedTo, 2
+Italy, cooking, /r/RelatedTo, 1
+schoolboy, reference, /r/RelatedTo, 1
+schoolboy, mind, /r/RelatedTo, 1
+schoolboy, child, /r/RelatedTo, 2
+schoolboy, school, /r/RelatedTo, 3
+schoolboy, uniform, /r/RelatedTo, 3
+Saudi Arabian, terrorist, /r/RelatedTo, 1
+researcher, cow, /r/RelatedTo, 1
+Columbian, drug, /r/RelatedTo, 5
+Columbian, cartel, /r/RelatedTo, 1
+plumber, man, /r/RelatedTo, 2
+butcher, italian, /r/RelatedTo, 1
+butcher, wife, /r/RelatedTo, 1
+butcher, beat, /r/RelatedTo, 1
+Bangladesh, poor, /r/RelatedTo, 9
+Bangladesh, country, /r/RelatedTo, 5
+Bangladesh, sq, /r/RelatedTo, 1
+producer, phone, /r/RelatedTo, 1
+producer, rude, /r/RelatedTo, 2
+producer, drink, /r/RelatedTo, 1
+nurse, smoke, /r/RelatedTo, 1
+nurse, break, /r/RelatedTo, 1
+Bengali, important, /r/RelatedTo, 1
+commander, black, /r/RelatedTo, 1
+African, poor, /r/RelatedTo, 4
+African, hungry, /r/RelatedTo, 1
+African, part, /r/RelatedTo, 1
+African, indigenous, /r/RelatedTo, 1
+African, tribe, /r/RelatedTo, 1
+African, dark, /r/RelatedTo, 2
+African, skin, /r/RelatedTo, 1
+Vietnam, rude, /r/RelatedTo, 1
+Vietnam, conversation, /r/RelatedTo, 1
+performing artist, moody, /r/RelatedTo, 1
+performing artist, difficult, /r/RelatedTo, 1
+Brahmin, good, /r/RelatedTo, 1
+Columbian, drugs, /r/RelatedTo, 5
+bartender, order, /r/RelatedTo, 1
+bartender, bigger, /r/RelatedTo, 1
+bartender, tip, /r/RelatedTo, 2
+butcher, meat, /r/RelatedTo, 3
+Ukrainian, thick, /r/RelatedTo, 1
+Ukrainian, accent, /r/RelatedTo, 1
+Ukrainian, lot, /r/RelatedTo, 3
+commander, older, /r/RelatedTo, 1
+commander, gentleman, /r/RelatedTo, 1
+commander, uniform, /r/RelatedTo, 1
+commander, lots, /r/RelatedTo, 1
+commander, medals, /r/RelatedTo, 1
+Ukrainian, russian, /r/RelatedTo, 2
+Ukrainian, complicated, /r/RelatedTo, 1
+historian, gray, /r/RelatedTo, 1
+historian, suit, /r/RelatedTo, 1
+historian, glasses, /r/RelatedTo, 4
+historian, nose, /r/RelatedTo, 2
+historian, talk, /r/RelatedTo, 1
+football player, fat, /r/RelatedTo, 1
+football player, men, /r/RelatedTo, 1
+chemist, beak, /r/RelatedTo, 1
+chemist, hand, /r/RelatedTo, 1
+chemist, evil, /r/RelatedTo, 1
+chemist, scientist, /r/RelatedTo, 1
+Columbian, surprised, /r/RelatedTo, 1
+Columbian, dad, /r/RelatedTo, 1
+Columbian, nice, /r/RelatedTo, 1
+Columbian, car, /r/RelatedTo, 1
+African, black, /r/RelatedTo, 6
+assistant, coffee, /r/RelatedTo, 5
+assistant, entire, /r/RelatedTo, 1
+assistant, board, /r/RelatedTo, 1
+assistant, meeting, /r/RelatedTo, 1
+mommy, affection, /r/RelatedTo, 1
+mommy, caring, /r/RelatedTo, 2
+mommy, kids, /r/RelatedTo, 2
+manager, boss, /r/RelatedTo, 3
+Morocco, whole, /r/RelatedTo, 1
+Morocco, country, /r/RelatedTo, 3
+Morocco, strange, /r/RelatedTo, 1
+Morocco, rug, /r/RelatedTo, 2
+Morocco, markets, /r/RelatedTo, 2
+himself, racist, /r/RelatedTo, 1
+Jordan, chick, /r/RelatedTo, 1
+Bible, contradiction, /r/RelatedTo, 1
+Bible, discrimination, /r/RelatedTo, 1
+policeman, rude, /r/RelatedTo, 2
+policeman, hard, /r/RelatedTo, 1
+policeman, time, /r/RelatedTo, 1
+Norweigan, movies, /r/RelatedTo, 1
+Norweigan, accurate, /r/RelatedTo, 1
+Norweigan, depiction, /r/RelatedTo, 1
+bartender, attractive, /r/RelatedTo, 2
+bartender, outgoing, /r/RelatedTo, 1
+Brahmin, rich, /r/RelatedTo, 3
+Brahmin, oil, /r/RelatedTo, 2
+software developer, sad, /r/RelatedTo, 1
+software developer, awkward, /r/RelatedTo, 2
+butcher, big, /r/RelatedTo, 3
+butcher, man, /r/RelatedTo, 6
+butcher, cl, /r/RelatedTo, 1
+nurse, smart, /r/RelatedTo, 1
+nurse, doctor, /r/RelatedTo, 2
+Yemen, war, /r/RelatedTo, 3
+Saudi Arabian, times, /r/RelatedTo, 1
+Saudi Arabian, day, /r/RelatedTo, 1
+Saudi Arabian, wife, /r/RelatedTo, 4
+Japanese, short, /r/RelatedTo, 3
+Japanese, small, /r/RelatedTo, 1
+Japanese, apartments, /r/RelatedTo, 1
+football player, stupid, /r/RelatedTo, 2
+Yemen, terrorism, /r/RelatedTo, 1
+Morocco, nations, /r/RelatedTo, 1
+Morocco, low, /r/RelatedTo, 2
+Morocco, economic, /r/RelatedTo, 1
+Morocco, values, /r/RelatedTo, 1
+Morocco, citizen, /r/RelatedTo, 1
+Morocco, men, /r/RelatedTo, 1
+Morocco, women, /r/RelatedTo, 1
+Lebanon, hostile, /r/RelatedTo, 1
+Lebanon, oppressive, /r/RelatedTo, 1
+Lebanon, place, /r/RelatedTo, 4
+Spain, romantic, /r/RelatedTo, 2
+Spain, beautiful, /r/RelatedTo, 2
+Spain, beaches, /r/RelatedTo, 1
+Spain, diversity, /r/RelatedTo, 1
+Iraq, country, /r/RelatedTo, 3
+Iraq, fine, /r/RelatedTo, 1
+Iraq, hand, /r/RelatedTo, 1
+Iraq, such, /r/RelatedTo, 1
+Iraq, rug, /r/RelatedTo, 1
+Iraq, carpets, /r/RelatedTo, 1
+Ecuador, clean, /r/RelatedTo, 1
+Ecuador, bathrooms, /r/RelatedTo, 1
+Ukrainian, rich, /r/RelatedTo, 1
+Ukrainian, foreigners, /r/RelatedTo, 1
+policeman, black, /r/RelatedTo, 6
+policeman, driver, /r/RelatedTo, 1
+software developer, good, /r/RelatedTo, 1
+software developer, technology, /r/RelatedTo, 1
+African, high, /r/RelatedTo, 1
+African, class, /r/RelatedTo, 1
+African, events, /r/RelatedTo, 1
+African, criminal, /r/RelatedTo, 1
+Morocco, jungle, /r/RelatedTo, 1
+researcher, most, /r/RelatedTo, 1
+researcher, scientists, /r/RelatedTo, 1
+Morocco, muslim, /r/RelatedTo, 1
+Brahmin, terrorist, /r/RelatedTo, 1
+Ecuador, poor, /r/RelatedTo, 3
+Ecuador, country, /r/RelatedTo, 5
+Ecuador, ocean, /r/RelatedTo, 1
+prosecutor, innocent, /r/RelatedTo, 2
+prosecutor, regret, /r/RelatedTo, 1
+Brahmin, wealthy, /r/RelatedTo, 1
+Brahmin, elegant, /r/RelatedTo, 1
+Brahmin, lovely, /r/RelatedTo, 1
+Brahmin, manners, /r/RelatedTo, 1
+Syria, constant, /r/RelatedTo, 1
+Syria, political, /r/RelatedTo, 1
+Syria, turmoil, /r/RelatedTo, 1
+himself, help, /r/RelatedTo, 1
+Bible, full, /r/RelatedTo, 2
+Bible, sound, /r/RelatedTo, 1
+Bible, advice, /r/RelatedTo, 1
+Bible, honest, /r/RelatedTo, 1
+Bible, living, /r/RelatedTo, 1
+mathematician, fr, /r/RelatedTo, 1
+mathematician, such, /r/RelatedTo, 1
+mathematician, ugly, /r/RelatedTo, 1
+mathematician, glasses, /r/RelatedTo, 3
+Britain, many, /r/RelatedTo, 1
+Britain, british, /r/RelatedTo, 2
+Britain, american, /r/RelatedTo, 1
+Vietnam, noodles, /r/RelatedTo, 1
+Vietnam, rice, /r/RelatedTo, 3
+Vietnam, flour, /r/RelatedTo, 1
+Vietnam, sandwiches, /r/RelatedTo, 1
+politician, white, /r/RelatedTo, 4
+politician, men, /r/RelatedTo, 2
+researcher, agenda, /r/RelatedTo, 1
+researcher, objective, /r/RelatedTo, 1
+engineer, quiet, /r/RelatedTo, 1
+engineer, serious, /r/RelatedTo, 1
+mommy, nur, /r/RelatedTo, 2
+mommy, patient, /r/RelatedTo, 1
+mommy, infant, /r/RelatedTo, 1
+Persian people, pre, /r/RelatedTo, 1
+Iraq, wars, /r/RelatedTo, 3
+Saudi Arabian, wealthiest, /r/RelatedTo, 1
+Saudi Arabian, world, /r/RelatedTo, 1
+Saudi Arabian, s, /r/RelatedTo, 1
+nurse, caring, /r/RelatedTo, 1
+nurse, mother, /r/RelatedTo, 1
+Arab, friend, /r/RelatedTo, 1
+Arab, garbage, /r/RelatedTo, 1
+Italy, catholic, /r/RelatedTo, 1
+engineer, conde, /r/RelatedTo, 1
+Vietnam, mosquito, /r/RelatedTo, 1
+Vietnam, patti, /r/RelatedTo, 1
+commander, new, /r/RelatedTo, 1
+commander, sign, /r/RelatedTo, 1
+commander, ups, /r/RelatedTo, 1
+commander, attention, /r/RelatedTo, 2
+Spain, bulls, /r/RelatedTo, 3
+Spain, town, /r/RelatedTo, 1
+Eriteria, full, /r/RelatedTo, 1
+Eriteria, poor, /r/RelatedTo, 3
+Britain, wars, /r/RelatedTo, 1
+Britain, violent, /r/RelatedTo, 1
+Bangladesh, area, /r/RelatedTo, 1
+Sierra Leon, dangerous, /r/RelatedTo, 3
+grandfather, help, /r/RelatedTo, 1
+grandfather, email, /r/RelatedTo, 1
+Sierra Leon, full, /r/RelatedTo, 3
+Sierra Leon, black, /r/RelatedTo, 3
+Italy, italian, /r/RelatedTo, 1
+Italy, religious, /r/RelatedTo, 1
+himself, gym, /r/RelatedTo, 2
+himself, girls, /r/RelatedTo, 1
+manager, mba, /r/RelatedTo, 2
+manager, years, /r/RelatedTo, 1
+manager, experience, /r/RelatedTo, 1
+plumber, cabinet, /r/RelatedTo, 1
+plumber, pants, /r/RelatedTo, 7
+plumber, signature, /r/RelatedTo, 1
+plumber, crack, /r/RelatedTo, 7
+Morocco, countryside, /r/RelatedTo, 1
+Morocco, beautiful, /r/RelatedTo, 1
+Morocco, rural, /r/RelatedTo, 1
+software developer, skinny, /r/RelatedTo, 1
+software developer, pale, /r/RelatedTo, 1
+software developer, thick, /r/RelatedTo, 1
+software developer, glasses, /r/RelatedTo, 3
+African, most, /r/RelatedTo, 2
+African, natives, /r/RelatedTo, 1
+guitarist, long, /r/RelatedTo, 9
+guitarist, hair, /r/RelatedTo, 10
+guitarist, black, /r/RelatedTo, 1
+bartender, old, /r/RelatedTo, 1
+bartender, man, /r/RelatedTo, 2
+bartender, better, /r/RelatedTo, 1
+Lebanon, enough, /r/RelatedTo, 1
+Lebanon, food, /r/RelatedTo, 2
+manager, strict, /r/RelatedTo, 1
+manager, rules, /r/RelatedTo, 2
+Muslim, violent, /r/RelatedTo, 2
+Saudi Arabian, rich, /r/RelatedTo, 1
+Eriteria, most, /r/RelatedTo, 1
+Eriteria, residents, /r/RelatedTo, 1
+Eriteria, christian, /r/RelatedTo, 1
+mathematician, practical, /r/RelatedTo, 1
+mathematician, career, /r/RelatedTo, 1
+Bible, long, /r/RelatedTo, 1
+Bible, tough, /r/RelatedTo, 1
+Bible, read, /r/RelatedTo, 1
+producer, paced, /r/RelatedTo, 1
+producer, industry, /r/RelatedTo, 1
+researcher, studio, /r/RelatedTo, 1
+researcher, person, /r/RelatedTo, 1
+researcher, strong, /r/RelatedTo, 1
+researcher, attention, /r/RelatedTo, 1
+researcher, minute, /r/RelatedTo, 1
+researcher, details, /r/RelatedTo, 1
+researcher, smart, /r/RelatedTo, 3
+researcher, paper, /r/RelatedTo, 1
+researcher, work, /r/RelatedTo, 1
+sister, person, /r/RelatedTo, 1
+sister, weaker, /r/RelatedTo, 1
+sister, brothers, /r/RelatedTo, 1
+himself, men, /r/RelatedTo, 1
+himself, stubborn, /r/RelatedTo, 1
+Yemen, many, /r/RelatedTo, 2
+Yemen, women, /r/RelatedTo, 1
+Yemen, children, /r/RelatedTo, 1
+policeman, other, /r/RelatedTo, 1
+policeman, day, /r/RelatedTo, 1
+Arab, american, /r/RelatedTo, 3
+Arab, women, /r/RelatedTo, 3
+Arab, liberal, /r/RelatedTo, 1
+Britain, bunch, /r/RelatedTo, 1
+Britain, pri, /r/RelatedTo, 1
+Eritrean, blank, /r/RelatedTo, 1
+Eritrean, ignorant, /r/RelatedTo, 1
+Eritrean, first, /r/RelatedTo, 1
+Eritrean, world, /r/RelatedTo, 1
+engineer, social, /r/RelatedTo, 2
+engineer, skills, /r/RelatedTo, 1
+software developer, front, /r/RelatedTo, 1
+Ukrainian, scared, /r/RelatedTo, 1
+Ukrainian, government, /r/RelatedTo, 1
+chemist, street, /r/RelatedTo, 1
+chemist, drugs, /r/RelatedTo, 2
+plumber, late, /r/RelatedTo, 2
+plumber, usual, /r/RelatedTo, 2
+politician, common, /r/RelatedTo, 1
+politician, best, /r/RelatedTo, 1
+nurse, ugly, /r/RelatedTo, 1
+nurse, rude, /r/RelatedTo, 1
+nurse, great, /r/RelatedTo, 1
+nurse, attention, /r/RelatedTo, 1
+nurse, detail, /r/RelatedTo, 1
+Brahmin, religious, /r/RelatedTo, 1
+entrepreneur, self, /r/RelatedTo, 1
+entrepreneur, starters, /r/RelatedTo, 1
+Bengali, fish, /r/RelatedTo, 5
+Bengali, rice, /r/RelatedTo, 2
+Bengali, dinner, /r/RelatedTo, 1
+Brahmin, better, /r/RelatedTo, 1
+Brahmin, else, /r/RelatedTo, 1
+Saudi Arabian, place, /r/RelatedTo, 1
+Saudi Arabian, full, /r/RelatedTo, 1
+Saudi Arabian, terrorists, /r/RelatedTo, 2
+Italy, full, /r/RelatedTo, 2
+Italy, criminals, /r/RelatedTo, 1
+Italy, mafia, /r/RelatedTo, 1
+African, fast, /r/RelatedTo, 2
+African, runner, /r/RelatedTo, 1
+Italy, soccer, /r/RelatedTo, 1
+Italy, pizza, /r/RelatedTo, 5
+Syria, members, /r/RelatedTo, 1
+nurse, petite, /r/RelatedTo, 1
+nurse, long, /r/RelatedTo, 1
+nurse, hair, /r/RelatedTo, 1
+bartender, lady, /r/RelatedTo, 1
+bartender, awe, /r/RelatedTo, 1
+bartender, ve, /r/RelatedTo, 1
+bartender, biceps, /r/RelatedTo, 1
+bartender, black, /r/RelatedTo, 1
+bartender, shirt, /r/RelatedTo, 1
+bartender, mixed, /r/RelatedTo, 1
+bartender, martial, /r/RelatedTo, 1
+bartender, artist, /r/RelatedTo, 1
+bartender, sort, /r/RelatedTo, 1
+Somalia, pirates, /r/RelatedTo, 6
+Syria, misery, /r/RelatedTo, 1
+Syria, crime, /r/RelatedTo, 2
+Syria, countries, /r/RelatedTo, 1
+performing artist, performers, /r/RelatedTo, 1
+performing artist, conventional, /r/RelatedTo, 1
+performing artist, day, /r/RelatedTo, 3
+performing artist, job, /r/RelatedTo, 1
+assistant, much, /r/RelatedTo, 3
+assistant, time, /r/RelatedTo, 1
+assistant, makeup, /r/RelatedTo, 1
+guitarist, messy, /r/RelatedTo, 1
+policeman, youth, /r/RelatedTo, 1
+policeman, dead, /r/RelatedTo, 1
+policeman, young, /r/RelatedTo, 1
+policeman, signs, /r/RelatedTo, 1
+policeman, aggression, /r/RelatedTo, 1
+male, good, /r/RelatedTo, 1
+male, job, /r/RelatedTo, 1
+Ukrainian, poor, /r/RelatedTo, 3
+Ukrainian, impoverished, /r/RelatedTo, 1
+entrepreneur, many, /r/RelatedTo, 1
+entrepreneur, lack, /r/RelatedTo, 1
+entrepreneur, steady, /r/RelatedTo, 1
+entrepreneur, income, /r/RelatedTo, 1
+entrepreneur, previous, /r/RelatedTo, 1
+entrepreneur, months, /r/RelatedTo, 1
+male, drinks, /r/RelatedTo, 1
+male, food, /r/RelatedTo, 1
+male, girlfriend, /r/RelatedTo, 1
+chemist, mathematics, /r/RelatedTo, 1
+chemist, science, /r/RelatedTo, 1
+chemist, courses, /r/RelatedTo, 1
+researcher, trouble, /r/RelatedTo, 1
+researcher, social, /r/RelatedTo, 1
+Muslim, christian, /r/RelatedTo, 1
+Norway, quiet, /r/RelatedTo, 1
+Norway, reserved, /r/RelatedTo, 1
+Japanese, ge, /r/RelatedTo, 1
+butcher, scary, /r/RelatedTo, 1
+assistant, ob, /r/RelatedTo, 1
+Iraq, dangerous, /r/RelatedTo, 4
+software developer, days, /r/RelatedTo, 2
+software developer, other, /r/RelatedTo, 1
+himself, full, /r/RelatedTo, 1
+himself, confidence, /r/RelatedTo, 1
+himself, abilities, /r/RelatedTo, 1
+delivery man, package, /r/RelatedTo, 3
+delivery man, porch, /r/RelatedTo, 3
+engineer, friends, /r/RelatedTo, 1
+engineer, same, /r/RelatedTo, 1
+engineer, profession, /r/RelatedTo, 2
+engineer, glasses, /r/RelatedTo, 1
+commander, angry, /r/RelatedTo, 1
+plumber, sight, /r/RelatedTo, 1
+plumber, sewer, /r/RelatedTo, 1
+mommy, care, /r/RelatedTo, 3
+mommy, day, /r/RelatedTo, 1
+Somalia, lot, /r/RelatedTo, 2
+Somalia, fighting, /r/RelatedTo, 1
+nurse, school, /r/RelatedTo, 1
+nurse, better, /r/RelatedTo, 1
+Japanese, great, /r/RelatedTo, 1
+Japanese, deal, /r/RelatedTo, 1
+Japanese, nervous, /r/RelatedTo, 1
+Syria, violence, /r/RelatedTo, 2
+grandfather, cane, /r/RelatedTo, 1
+nurse, degree, /r/RelatedTo, 1
+nurse, biology, /r/RelatedTo, 1
+mommy, evil, /r/RelatedTo, 1
+mommy, woman, /r/RelatedTo, 1
+Britain, rude, /r/RelatedTo, 2
+Britain, bad, /r/RelatedTo, 6
+plumber, butt, /r/RelatedTo, 4
+Morocco, dangerous, /r/RelatedTo, 2
+Morocco, shady, /r/RelatedTo, 1
+sister, fights, /r/RelatedTo, 1
+sister, trouble, /r/RelatedTo, 1
+Saudi Arabian, anti, /r/RelatedTo, 1
+Saudi Arabian, american, /r/RelatedTo, 1
+Saudi Arabian, sentiment, /r/RelatedTo, 1
+Saudi Arabian, terrorism, /r/RelatedTo, 2
+performing artist, used, /r/RelatedTo, 1
+performing artist, animals, /r/RelatedTo, 1
+performing artist, tricks, /r/RelatedTo, 1
+football player, real, /r/RelatedTo, 1
+football player, meath, /r/RelatedTo, 1
+football player, do, /r/RelatedTo, 1
+Bible, sacred, /r/RelatedTo, 1
+Bible, judgment, /r/RelatedTo, 1
+Bible, mean, /r/RelatedTo, 1
+Bible, right, /r/RelatedTo, 1
+Bible, thing, /r/RelatedTo, 1
+Japanese, native, /r/RelatedTo, 1
+Japanese, foods, /r/RelatedTo, 1
+Japanese, su, /r/RelatedTo, 3
+African, tales, /r/RelatedTo, 1
+African, tigers, /r/RelatedTo, 1
+African, animals, /r/RelatedTo, 1
+African, today, /r/RelatedTo, 1
+gentlemen, court, /r/RelatedTo, 1
+gentlemen, lovely, /r/RelatedTo, 1
+gentlemen, manners, /r/RelatedTo, 3
+football player, practice, /r/RelatedTo, 1
+football player, dirty, /r/RelatedTo, 1
+Syria, warfare, /r/RelatedTo, 1
+Syria, border, /r/RelatedTo, 1
+bartender, guys, /r/RelatedTo, 1
+bartender, bar, /r/RelatedTo, 2
+guitarist, artist, /r/RelatedTo, 1
+guitarist, musician, /r/RelatedTo, 1
+chemist, intelligent, /r/RelatedTo, 2
+chemist, fields, /r/RelatedTo, 1
+prosecutor, maxi, /r/RelatedTo, 1
+prosecutor, punishment, /r/RelatedTo, 1
+manager, ineffective, /r/RelatedTo, 1
+guitarist, eyes, /r/RelatedTo, 1
+Lebanon, country, /r/RelatedTo, 2
+Lebanon, terrorists, /r/RelatedTo, 3
+Somalia, dangerous, /r/RelatedTo, 1
+Somalia, place, /r/RelatedTo, 2
+policeman, racist, /r/RelatedTo, 2
+policeman, male, /r/RelatedTo, 3
+butcher, large, /r/RelatedTo, 2
+butcher, strong, /r/RelatedTo, 2
+butcher, accent, /r/RelatedTo, 1
+Britain, royal, /r/RelatedTo, 2
+Britain, family, /r/RelatedTo, 2
+commander, educated, /r/RelatedTo, 1
+commander, respected, /r/RelatedTo, 1
+software developer, developer, /r/RelatedTo, 1
+software developer, muscle, /r/RelatedTo, 1
+Norweigan, white, /r/RelatedTo, 3
+guitarist, real, /r/RelatedTo, 2
+guitarist, jobs, /r/RelatedTo, 1
+guitarist, normal, /r/RelatedTo, 1
+guitarist, hours, /r/RelatedTo, 1
+male, young, /r/RelatedTo, 1
+male, age, /r/RelatedTo, 1
+entrepreneur, such, /r/RelatedTo, 1
+entrepreneur, persons, /r/RelatedTo, 1
+entrepreneur, good, /r/RelatedTo, 1
+prosecutor, earnest, /r/RelatedTo, 1
+prosecutor, young, /r/RelatedTo, 2
+prosecutor, man, /r/RelatedTo, 3
+prosecutor, passion, /r/RelatedTo, 1
+prosecutor, civil, /r/RelatedTo, 1
+prosecutor, rights, /r/RelatedTo, 1
+prosecutor, guilty, /r/RelatedTo, 1
+Norway, lot, /r/RelatedTo, 2
+Norway, snow, /r/RelatedTo, 1
+bartender, good, /r/RelatedTo, 3
+bartender, drinks, /r/RelatedTo, 2
+Saudi Arabian, used, /r/RelatedTo, 1
+Saudi Arabian, life, /r/RelatedTo, 1
+Saudi Arabian, op, /r/RelatedTo, 1
+plumber, time, /r/RelatedTo, 1
+plumber, kitchen, /r/RelatedTo, 1
+plumber, sink, /r/RelatedTo, 1
+plumber, dirty, /r/RelatedTo, 3
+plumber, old, /r/RelatedTo, 2
+plumber, jeans, /r/RelatedTo, 2
+plumber, t, /r/RelatedTo, 2
+plumber, shirt, /r/RelatedTo, 2
+butcher, tough, /r/RelatedTo, 1
+commander, big, /r/RelatedTo, 1
+commander, bu, /r/RelatedTo, 1
+commander, scowl, /r/RelatedTo, 1
+producer, fat, /r/RelatedTo, 1
+producer, old, /r/RelatedTo, 1
+producer, efforts, /r/RelatedTo, 1
+Lebanon, women, /r/RelatedTo, 2
+Lebanon, fat, /r/RelatedTo, 1
+football player, jail, /r/RelatedTo, 1
+football player, last, /r/RelatedTo, 1
+football player, month, /r/RelatedTo, 1
+football player, dog, /r/RelatedTo, 1
+engineer, many, /r/RelatedTo, 1
+engineer, awkward, /r/RelatedTo, 3
+Iraq, muslim, /r/RelatedTo, 2
+football player, man, /r/RelatedTo, 1
+football player, masculine, /r/RelatedTo, 1
+football player, nature, /r/RelatedTo, 1
+delivery man, marijuana, /r/RelatedTo, 1
+Norweigan, blonde, /r/RelatedTo, 3
+Norweigan, hair, /r/RelatedTo, 5
+Norweigan, blue, /r/RelatedTo, 4
+Norweigan, eyes, /r/RelatedTo, 4
+Brahmin, highest, /r/RelatedTo, 1
+Brahmin, caste, /r/RelatedTo, 1
+mathematician, person, /r/RelatedTo, 1
+mathematician, good, /r/RelatedTo, 3
+mathematician, numbers, /r/RelatedTo, 4
+mathematician, geek, /r/RelatedTo, 2
+mathematician, ne, /r/RelatedTo, 4
+nurse, women, /r/RelatedTo, 3
+nurse, profession, /r/RelatedTo, 1
+entrepreneur, educated, /r/RelatedTo, 1
+Vietnam, many, /r/RelatedTo, 1
+Vietnam, war, /r/RelatedTo, 3
+Morocco, de, /r/RelatedTo, 1
+Arab, noisy, /r/RelatedTo, 1
+Arab, classroom, /r/RelatedTo, 1
+Somalia, criminal, /r/RelatedTo, 1
+Yemen, shame, /r/RelatedTo, 1
+Yemen, terrorists, /r/RelatedTo, 5
+Yemen, marvelous, /r/RelatedTo, 1
+Yemen, scenery, /r/RelatedTo, 1
+schoolboy, studio, /r/RelatedTo, 1
+male, strong, /r/RelatedTo, 3
+male, tall, /r/RelatedTo, 1
+Ecuador, short, /r/RelatedTo, 1
+Muslim, natives, /r/RelatedTo, 1
+Muslim, head, /r/RelatedTo, 1
+Muslim, ga, /r/RelatedTo, 1
+Vietnam, good, /r/RelatedTo, 3
+Vietnam, nails, /r/RelatedTo, 2
+assistant, needs, /r/RelatedTo, 1
+assistant, work, /r/RelatedTo, 1
+Arab, many, /r/RelatedTo, 2
+Arab, region, /r/RelatedTo, 1
+Arab, muslim, /r/RelatedTo, 1
+policeman, middle, /r/RelatedTo, 2
+policeman, class, /r/RelatedTo, 1
+policeman, full, /r/RelatedTo, 1
+performing artist, diva, /r/RelatedTo, 2
+performing artist, auto, /r/RelatedTo, 1
+performing artist, seekers, /r/RelatedTo, 1
+Bangladesh, dirty, /r/RelatedTo, 3
+producer, creepy, /r/RelatedTo, 1
+producer, movie, /r/RelatedTo, 2
+producer, business, /r/RelatedTo, 1
+Yemen, country, /r/RelatedTo, 4
+Yemen, dangerous, /r/RelatedTo, 2
+Yemen, full, /r/RelatedTo, 1
+sister, real, /r/RelatedTo, 1
+sister, pain, /r/RelatedTo, 1
+engineer, white, /r/RelatedTo, 1
+engineer, male, /r/RelatedTo, 1
+politician, big, /r/RelatedTo, 2
+politician, companies, /r/RelatedTo, 1
+politician, legislation, /r/RelatedTo, 1
+football player, dumb, /r/RelatedTo, 2
+football player, ne, /r/RelatedTo, 1
+Sierra Leon, dirty, /r/RelatedTo, 2
+Sierra Leon, living, /r/RelatedTo, 1
+Sierra Leon, quarters, /r/RelatedTo, 1
+Sierra Leon, houses, /r/RelatedTo, 1
+Sierra Leon, best, /r/RelatedTo, 1
+Sierra Leon, impoverished, /r/RelatedTo, 1
+Sierra Leon, residents, /r/RelatedTo, 1
+Ecuador, poverty, /r/RelatedTo, 1
+Ecuador, gang, /r/RelatedTo, 1
+Ecuador, culture, /r/RelatedTo, 1
+nurse, chart, /r/RelatedTo, 1
+nurse, perfect, /r/RelatedTo, 1
+mommy, responsible, /r/RelatedTo, 1
+mommy, time, /r/RelatedTo, 1
+software developer, math, /r/RelatedTo, 1
+software developer, years, /r/RelatedTo, 1
+software developer, d, /r/RelatedTo, 1
+manager, day, /r/RelatedTo, 1
+Morocco, dirty, /r/RelatedTo, 1
+African, lots, /r/RelatedTo, 1
+Britain, superficial, /r/RelatedTo, 1
+Britain, bi, /r/RelatedTo, 1
+Jordan, crazy, /r/RelatedTo, 1
+Jordan, soccer, /r/RelatedTo, 1
+Bangladesh, hungry, /r/RelatedTo, 1
+Iranian, chef, /r/RelatedTo, 1
+Iranian, terrorist, /r/RelatedTo, 1
+Saudi Arabian, mu, /r/RelatedTo, 1
+Saudi Arabian, violence, /r/RelatedTo, 1
+Norweigan, man, /r/RelatedTo, 1
+Bangladesh, civil, /r/RelatedTo, 1
+Bangladesh, strife, /r/RelatedTo, 1
+Japanese, hard, /r/RelatedTo, 3
+historian, boring, /r/RelatedTo, 1
+historian, technology, /r/RelatedTo, 1
+Eritrean, skinned, /r/RelatedTo, 1
+Eritrean, other, /r/RelatedTo, 2
+Vietnam, place, /r/RelatedTo, 2
+Vietnam, wide, /r/RelatedTo, 1
+Vietnam, flat, /r/RelatedTo, 1
+Vietnam, straw, /r/RelatedTo, 1
+Vietnam, hats, /r/RelatedTo, 1
+Vietnam, dog, /r/RelatedTo, 1
+Vietnam, del, /r/RelatedTo, 1
+politician, folks, /r/RelatedTo, 1
+politician, attendance, /r/RelatedTo, 1
+politician, ready, /r/RelatedTo, 1
+politician, gag, /r/RelatedTo, 1
+politician, promises, /r/RelatedTo, 1
+politician, tax, /r/RelatedTo, 2
+politician, cuts, /r/RelatedTo, 1
+politician, infrastructure, /r/RelatedTo, 1
+politician, bills, /r/RelatedTo, 1
+Iraq, shocked, /r/RelatedTo, 1
+Iraq, own, /r/RelatedTo, 1
+Iraq, leaders, /r/RelatedTo, 2
+Bangladesh, child, /r/RelatedTo, 1
+Bangladesh, small, /r/RelatedTo, 1
+Bangladesh, hut, /r/RelatedTo, 1
+Saudi Arabian, lot, /r/RelatedTo, 1
+Saudi Arabian, money, /r/RelatedTo, 2
+Saudi Arabian, luxurious, /r/RelatedTo, 1
+Saudi Arabian, things, /r/RelatedTo, 1
+researcher, day, /r/RelatedTo, 1
+researcher, lab, /r/RelatedTo, 2
+researcher, friends, /r/RelatedTo, 1
+Columbian, hot, /r/RelatedTo, 2
+Columbian, temper, /r/RelatedTo, 1
+manager, better, /r/RelatedTo, 1
+manager, others, /r/RelatedTo, 1
+producer, push, /r/RelatedTo, 1
+historian, old, /r/RelatedTo, 5
+Vietnam, clothing, /r/RelatedTo, 1
+Vietnam, manufacturing, /r/RelatedTo, 1
+Vietnam, portion, /r/RelatedTo, 1
+Vietnam, economy, /r/RelatedTo, 1
+entrepreneur, owners, /r/RelatedTo, 1
+Yemen, rough, /r/RelatedTo, 1
+Vietnam, american, /r/RelatedTo, 2
+Vietnam, big, /r/RelatedTo, 1
+Vietnam, jungle, /r/RelatedTo, 1
+Vietnam, little, /r/RelatedTo, 1
+Vietnam, sq, /r/RelatedTo, 1
+Vietnam, men, /r/RelatedTo, 1
+Iraq, products, /r/RelatedTo, 1
+Iraq, weapons, /r/RelatedTo, 1
+Iraq, mass, /r/RelatedTo, 1
+Iraq, destruction, /r/RelatedTo, 1
+Vietnam, mean, /r/RelatedTo, 1
+Vietnam, spirited, /r/RelatedTo, 1
+Somalia, fast, /r/RelatedTo, 1
+Somalia, runner, /r/RelatedTo, 1
+performing artist, upbeat, /r/RelatedTo, 1
+performing artist, enthusiastic, /r/RelatedTo, 1
+Italy, rude, /r/RelatedTo, 1
+Eriteria, country, /r/RelatedTo, 5
+Eriteria, comfortable, /r/RelatedTo, 1
+Eriteria, jungle, /r/RelatedTo, 1
+Eriteria, animals, /r/RelatedTo, 1
+Eriteria, streets, /r/RelatedTo, 1
+Syria, car, /r/RelatedTo, 1
+grandfather, war, /r/RelatedTo, 2
+Bible, holy, /r/RelatedTo, 1
+mathematician, lab, /r/RelatedTo, 1
+Ecuador, kids, /r/RelatedTo, 1
+Norweigan, tall, /r/RelatedTo, 5
+Norweigan, aggressive, /r/RelatedTo, 1
+producer, notes, /r/RelatedTo, 1
+producer, character, /r/RelatedTo, 1
+Brahmin, life, /r/RelatedTo, 1
+Arab, tu, /r/RelatedTo, 2
+Arab, office, /r/RelatedTo, 1
+Arab, nervous, /r/RelatedTo, 1
+Ukrainian, women, /r/RelatedTo, 2
+Ukrainian, beautiful, /r/RelatedTo, 3
+Saudi Arabian, nice, /r/RelatedTo, 1
+Arab, white, /r/RelatedTo, 1
+Arab, woman, /r/RelatedTo, 1
+Arab, way, /r/RelatedTo, 3
+performing artist, volatile, /r/RelatedTo, 1
+performing artist, interview, /r/RelatedTo, 1
+Japanese, good, /r/RelatedTo, 2
+Japanese, math, /r/RelatedTo, 1
+Japanese, college, /r/RelatedTo, 1
+Iraq, desert, /r/RelatedTo, 1
+Iraq, oil, /r/RelatedTo, 1
+Iraq, fields, /r/RelatedTo, 1
+guitarist, audience, /r/RelatedTo, 1
+guitarist, former, /r/RelatedTo, 1
+guitarist, junk, /r/RelatedTo, 1
+guitarist, alcoholic, /r/RelatedTo, 1
+guitarist, such, /r/RelatedTo, 1
+guitarist, beautiful, /r/RelatedTo, 1
+guitarist, music, /r/RelatedTo, 2
+Eriteria, insignificant, /r/RelatedTo, 1
+manager, new, /r/RelatedTo, 1
+manager, hire, /r/RelatedTo, 1
+manager, jerk, /r/RelatedTo, 1
+prisoner, person, /r/RelatedTo, 1
+prisoner, black, /r/RelatedTo, 3
+prisoner, prison, /r/RelatedTo, 3
+policeman, aged, /r/RelatedTo, 1
+policeman, blue, /r/RelatedTo, 1
+policeman, uniform, /r/RelatedTo, 1
+Muslim, dangerous, /r/RelatedTo, 1
+Muslim, bearded, /r/RelatedTo, 1
+Muslim, terrorist, /r/RelatedTo, 6
+Bible, humans, /r/RelatedTo, 1
+Bangladesh, une, /r/RelatedTo, 1
+grandfather, loving, /r/RelatedTo, 1
+grandfather, distant, /r/RelatedTo, 1
+grandfather, times, /r/RelatedTo, 1
+Japanese, stature, /r/RelatedTo, 1
+football player, ready, /r/RelatedTo, 1
+football player, entire, /r/RelatedTo, 1
+football player, ke, /r/RelatedTo, 1
+football player, bros, /r/RelatedTo, 1
+Somalia, curious, /r/RelatedTo, 1
+Somalia, desert, /r/RelatedTo, 1
+Somalia, landscape, /r/RelatedTo, 1
+Somalia, wild, /r/RelatedTo, 1
+Somalia, animals, /r/RelatedTo, 1
+Somalia, large, /r/RelatedTo, 2
+Somalia, number, /r/RelatedTo, 1
+Somalia, poor, /r/RelatedTo, 4
+Somalia, black, /r/RelatedTo, 2
+producer, personal, /r/RelatedTo, 1
+producer, lives, /r/RelatedTo, 1
+butcher, animals, /r/RelatedTo, 4
+Lebanon, old, /r/RelatedTo, 1
+Lebanon, modern, /r/RelatedTo, 1
+Iraq, suspicious, /r/RelatedTo, 1
+Italy, place, /r/RelatedTo, 1
+Italy, beautiful, /r/RelatedTo, 2
+Italy, architecture, /r/RelatedTo, 1
+assistant, many, /r/RelatedTo, 1
+assistant, men, /r/RelatedTo, 1
+assistant, woman, /r/RelatedTo, 4
+assistant, voice, /r/RelatedTo, 1
+assistant, offended, /r/RelatedTo, 1
+assistant, ceo, /r/RelatedTo, 1
+assistant, secretary, /r/RelatedTo, 1
+producer, asshole, /r/RelatedTo, 1
+producer, set, /r/RelatedTo, 1
+Iranian, only, /r/RelatedTo, 1
+Iranian, thing, /r/RelatedTo, 1
+Iranian, rice, /r/RelatedTo, 1
+Iranian, lamb, /r/RelatedTo, 1
+gentlemen, weekend, /r/RelatedTo, 1
+gentlemen, drinking, /r/RelatedTo, 1
+gentlemen, woman, /r/RelatedTo, 2
+male, ne, /r/RelatedTo, 1
+Bangladesh, struggling, /r/RelatedTo, 1
+Bangladesh, nation, /r/RelatedTo, 1
+Persian people, most, /r/RelatedTo, 1
+Lebanon, many, /r/RelatedTo, 2
+politician, greedy, /r/RelatedTo, 2
+politician, guy, /r/RelatedTo, 1
+politician, rich, /r/RelatedTo, 2
+manager, carp, /r/RelatedTo, 1
+manager, high, /r/RelatedTo, 1
+manager, status, /r/RelatedTo, 1
+manager, job, /r/RelatedTo, 2
+Brahmin, black, /r/RelatedTo, 2
+Brahmin, men, /r/RelatedTo, 1
+Brahmin, gross, /r/RelatedTo, 1
+Japanese, skinny, /r/RelatedTo, 1
+Yemen, rude, /r/RelatedTo, 1
+chemist, top, /r/RelatedTo, 1
+chemist, class, /r/RelatedTo, 1
+Jordan, great, /r/RelatedTo, 1
+Jordan, person, /r/RelatedTo, 1
+Iranian, several, /r/RelatedTo, 1
+Iranian, children, /r/RelatedTo, 1
+Iranian, mother, /r/RelatedTo, 1
+Iranian, father, /r/RelatedTo, 1
+Italy, food, /r/RelatedTo, 2
+Iraq, war, /r/RelatedTo, 1
+Iraq, politicians, /r/RelatedTo, 1
+butcher, rough, /r/RelatedTo, 2
+butcher, blunt, /r/RelatedTo, 1
+butcher, movements, /r/RelatedTo, 1
+butcher, things, /r/RelatedTo, 1
+butcher, worse, /r/RelatedTo, 1
+bartender, woman, /r/RelatedTo, 1
+Norweigan, blond, /r/RelatedTo, 5
+Norweigan, fishing, /r/RelatedTo, 1
+Norweigan, boats, /r/RelatedTo, 1
+Morocco, rich, /r/RelatedTo, 1
+Morocco, place, /r/RelatedTo, 1
+Eriteria, military, /r/RelatedTo, 1
+Eriteria, dictator, /r/RelatedTo, 1
+Eriteria, many, /r/RelatedTo, 4
+Eriteria, years, /r/RelatedTo, 1
+researcher, good, /r/RelatedTo, 1
+researcher, information, /r/RelatedTo, 1
+assistant, ag, /r/RelatedTo, 1
+Bengali, funny, /r/RelatedTo, 1
+Bengali, nickname, /r/RelatedTo, 1
+Bengali, other, /r/RelatedTo, 1
+Bengali, students, /r/RelatedTo, 1
+himself, sports, /r/RelatedTo, 1
+himself, american, /r/RelatedTo, 1
+himself, football, /r/RelatedTo, 1
+Eritrean, many, /r/RelatedTo, 2
+Eritrean, citizens, /r/RelatedTo, 1
+Eritrean, muslim, /r/RelatedTo, 1
+Brahmin, world, /r/RelatedTo, 1
+Brahmin, person, /r/RelatedTo, 1
+football player, strong, /r/RelatedTo, 1
+delivery man, blue, /r/RelatedTo, 1
+delivery man, collar, /r/RelatedTo, 1
+delivery man, workers, /r/RelatedTo, 1
+delivery man, likely, /r/RelatedTo, 1
+delivery man, careless, /r/RelatedTo, 1
+delivery man, work, /r/RelatedTo, 1
+butcher, violent, /r/RelatedTo, 1
+Ecuador, attire, /r/RelatedTo, 1
+Ecuador, casual, /r/RelatedTo, 1
+football player, concussion, /r/RelatedTo, 1
+football player, athletic, /r/RelatedTo, 2
+Italy, country, /r/RelatedTo, 2
+Italy, lot, /r/RelatedTo, 4
+Italy, history, /r/RelatedTo, 1
+Italy, monuments, /r/RelatedTo, 1
+Italy, proud, /r/RelatedTo, 1
+Norweigan, dec, /r/RelatedTo, 1
+gentlemen, dates, /r/RelatedTo, 1
+football player, black, /r/RelatedTo, 1
+football player, order, /r/RelatedTo, 1
+football player, game, /r/RelatedTo, 1
+Vietnam, west, /r/RelatedTo, 1
+Ecuador, weather, /r/RelatedTo, 1
+producer, most, /r/RelatedTo, 1
+producer, cast, /r/RelatedTo, 1
+producer, members, /r/RelatedTo, 1
+Sierra Leon, children, /r/RelatedTo, 1
+Sierra Leon, soldiers, /r/RelatedTo, 1
+Muslim, religion, /r/RelatedTo, 2
+Muslim, violence, /r/RelatedTo, 3
+Norway, tall, /r/RelatedTo, 3
+Norway, tan, /r/RelatedTo, 1
+Norway, blonde, /r/RelatedTo, 3
+delivery man, packages, /r/RelatedTo, 6
+delivery man, respect, /r/RelatedTo, 1
+himself, anger, /r/RelatedTo, 1
+commander, charge, /r/RelatedTo, 1
+commander, strong, /r/RelatedTo, 2
+commander, group, /r/RelatedTo, 1
+Jordan, muslim, /r/RelatedTo, 3
+Jordan, religion, /r/RelatedTo, 1
+historian, discovery, /r/RelatedTo, 1
+historian, videos, /r/RelatedTo, 1
+entrepreneur, tight, /r/RelatedTo, 1
+chemist, articles, /r/RelatedTo, 1
+chemist, related, /r/RelatedTo, 1
+chemist, field, /r/RelatedTo, 2
+chemist, free, /r/RelatedTo, 1
+chemist, time, /r/RelatedTo, 2
+male, aggressive, /r/RelatedTo, 6
+male, dominant, /r/RelatedTo, 1
+male, species, /r/RelatedTo, 1
+Eriteria, diseases, /r/RelatedTo, 1
+Eriteria, famine, /r/RelatedTo, 1
+plumber, fat, /r/RelatedTo, 3
+plumber, behind, /r/RelatedTo, 1
+engineer, work, /r/RelatedTo, 1
+Bengali, lots, /r/RelatedTo, 1
+African, country, /r/RelatedTo, 1
+African, full, /r/RelatedTo, 1
+African, violent, /r/RelatedTo, 2
+historian, smart, /r/RelatedTo, 4
+historian, person, /r/RelatedTo, 1
+Sierra Leon, beautiful, /r/RelatedTo, 2
+Sierra Leon, diamonds, /r/RelatedTo, 3
+entrepreneur, career, /r/RelatedTo, 1
+entrepreneur, path, /r/RelatedTo, 1
+entrepreneur, successful, /r/RelatedTo, 2
+sister, home, /r/RelatedTo, 1
+sister, mothers, /r/RelatedTo, 1
+nurse, flirt, /r/RelatedTo, 1
+Bengali, day, /r/RelatedTo, 1
+software developer, computers, /r/RelatedTo, 2
+software developer, video, /r/RelatedTo, 1
+software developer, games, /r/RelatedTo, 1
+Vietnam, lot, /r/RelatedTo, 1
+Vietnam, bad, /r/RelatedTo, 1
+Vietnam, driving, /r/RelatedTo, 1
+mathematician, shy, /r/RelatedTo, 1
+mathematician, much, /r/RelatedTo, 1
+mathematician, social, /r/RelatedTo, 1
+mathematician, interaction, /r/RelatedTo, 1
+mathematician, math, /r/RelatedTo, 1
+Bengali, monkey, /r/RelatedTo, 1
+Bengali, caps, /r/RelatedTo, 1
+Bengali, winter, /r/RelatedTo, 1
+politician, man, /r/RelatedTo, 2
+politician, smile, /r/RelatedTo, 1
+politician, thumbs, /r/RelatedTo, 1
+politician, up, /r/RelatedTo, 1
+Sierra Leon, politicians, /r/RelatedTo, 1
+Persian people, gender, /r/RelatedTo, 1
+Persian people, norms, /r/RelatedTo, 1
+Persian people, women, /r/RelatedTo, 2
+Jordan, men, /r/RelatedTo, 2
+Jordan, angry, /r/RelatedTo, 1
+Jordan, politics, /r/RelatedTo, 1
+Jordan, dinner, /r/RelatedTo, 1
+entrepreneur, woman, /r/RelatedTo, 1
+entrepreneur, idea, /r/RelatedTo, 2
+entrepreneur, ho, /r/RelatedTo, 1
+entrepreneur, driven, /r/RelatedTo, 1
+entrepreneur, motivated, /r/RelatedTo, 1
+entrepreneur, potential, /r/RelatedTo, 1
+entrepreneur, contacts, /r/RelatedTo, 1
+Norway, country, /r/RelatedTo, 1
+Norway, homogeneous, /r/RelatedTo, 1
+mommy, distracted, /r/RelatedTo, 1
+mommy, today, /r/RelatedTo, 1
+mommy, fine, /r/RelatedTo, 1
+plumber, high, /r/RelatedTo, 2
+plumber, school, /r/RelatedTo, 2
+Arab, menacing, /r/RelatedTo, 1
+plumber, drop, /r/RelatedTo, 1
+Morocco, spices, /r/RelatedTo, 1
+Morocco, dia, /r/RelatedTo, 1
+chemist, many, /r/RelatedTo, 2
+chemist, hours, /r/RelatedTo, 1
+plumber, over, /r/RelatedTo, 1
+Iranian, leader, /r/RelatedTo, 1
+Iranian, nuclear, /r/RelatedTo, 1
+Iranian, warfare, /r/RelatedTo, 2
+Iranian, peace, /r/RelatedTo, 1
+Iranian, agreement, /r/RelatedTo, 1
+Jordan, country, /r/RelatedTo, 5
+Bengali, deadly, /r/RelatedTo, 1
+Bengali, close, /r/RelatedTo, 1
+Bengali, quarters, /r/RelatedTo, 1
+chemist, math, /r/RelatedTo, 1
+chemist, ne, /r/RelatedTo, 1
+himself, many, /r/RelatedTo, 2
+himself, metal, /r/RelatedTo, 1
+himself, concerts, /r/RelatedTo, 1
+himself, insane, /r/RelatedTo, 1
+Vietnam, sweat, /r/RelatedTo, 1
+Somalia, women, /r/RelatedTo, 2
+Somalia, criminals, /r/RelatedTo, 1
+gentlemen, attractive, /r/RelatedTo, 2
+Persian people, rug, /r/RelatedTo, 1
+Persian people, making, /r/RelatedTo, 1
+Persian people, company, /r/RelatedTo, 1
+historian, sweater, /r/RelatedTo, 1
+historian, vest, /r/RelatedTo, 1
+historian, thick, /r/RelatedTo, 2
+historian, bridge, /r/RelatedTo, 1
+Vietnam, white, /r/RelatedTo, 1
+prosecutor, benefit, /r/RelatedTo, 1
+prosecutor, doubt, /r/RelatedTo, 1
+prosecutor, corrupt, /r/RelatedTo, 1
+Ecuador, little, /r/RelatedTo, 1
+Ecuador, education, /r/RelatedTo, 1
+Persian people, material, /r/RelatedTo, 1
+football player, huge, /r/RelatedTo, 1
+football player, muscular, /r/RelatedTo, 1
+football player, uniform, /r/RelatedTo, 1
+prisoner, criminals, /r/RelatedTo, 2
+prisoner, violent, /r/RelatedTo, 4
+prisoner, action, /r/RelatedTo, 1
+Yemen, short, /r/RelatedTo, 1
+Jordan, first, /r/RelatedTo, 1
+Jordan, day, /r/RelatedTo, 1
+Jordan, camel, /r/RelatedTo, 1
+Jordan, school, /r/RelatedTo, 1
+performing artist, women, /r/RelatedTo, 1
+performing artist, stage, /r/RelatedTo, 1
+performing artist, men, /r/RelatedTo, 1
+Somalia, pirate, /r/RelatedTo, 2
+prisoner, bad, /r/RelatedTo, 2
+prisoner, sneak, /r/RelatedTo, 1
+prisoner, dish, /r/RelatedTo, 1
+prisoner, man, /r/RelatedTo, 3
+performing artist, fake, /r/RelatedTo, 1
+African, skinned, /r/RelatedTo, 1
+guitarist, peace, /r/RelatedTo, 1
+guitarist, pipe, /r/RelatedTo, 1
+guitarist, time, /r/RelatedTo, 2
+delivery man, high, /r/RelatedTo, 1
+delivery man, school, /r/RelatedTo, 1
+delivery man, education, /r/RelatedTo, 1
+himself, touch, /r/RelatedTo, 1
+himself, emotions, /r/RelatedTo, 1
+Jordan, terrorist, /r/RelatedTo, 1
+Japanese, favorite, /r/RelatedTo, 1
+Japanese, food, /r/RelatedTo, 1
+schoolboy, young, /r/RelatedTo, 2
+schoolboy, boys, /r/RelatedTo, 1
+schoolboy, ang, /r/RelatedTo, 1
+schoolboy, girls, /r/RelatedTo, 2
+sister, girls, /r/RelatedTo, 2
+sister, other, /r/RelatedTo, 2
+prisoner, sentence, /r/RelatedTo, 1
+gentlemen, waitress, /r/RelatedTo, 1
+Somalia, wars, /r/RelatedTo, 1
+African, elephants, /r/RelatedTo, 1
+African, savanna, /r/RelatedTo, 1
+bartender, crude, /r/RelatedTo, 1
+bartender, rude, /r/RelatedTo, 1
+bartender, un, /r/RelatedTo, 1
+schoolboy, park, /r/RelatedTo, 1
+schoolboy, work, /r/RelatedTo, 1
+grandfather, logo, /r/RelatedTo, 1
+grandfather, favorite, /r/RelatedTo, 1
+grandfather, team, /r/RelatedTo, 1
+grandfather, different, /r/RelatedTo, 1
+grandfather, sports, /r/RelatedTo, 1
+grandfather, season, /r/RelatedTo, 1
+mommy, most, /r/RelatedTo, 1
+mommy, young, /r/RelatedTo, 1
+mommy, mothers, /r/RelatedTo, 1
+mommy, child, /r/RelatedTo, 2
+mommy, saying, /r/RelatedTo, 1
+policeman, busy, /r/RelatedTo, 1
+policeman, speed, /r/RelatedTo, 1
+policeman, tickets, /r/RelatedTo, 1
+Iranian, many, /r/RelatedTo, 1
+Iranian, laws, /r/RelatedTo, 1
+Iranian, religion, /r/RelatedTo, 1
+Britain, wealthy, /r/RelatedTo, 1
+Ukrainian, winters, /r/RelatedTo, 1
+Ukrainian, mild, /r/RelatedTo, 1
+Ukrainian, walks, /r/RelatedTo, 1
+Ukrainian, snow, /r/RelatedTo, 1
+sister, night, /r/RelatedTo, 1
+entrepreneur, loud, /r/RelatedTo, 1
+entrepreneur, room, /r/RelatedTo, 1
+Britain, lot, /r/RelatedTo, 1
+historian, tweed, /r/RelatedTo, 2
+historian, suits, /r/RelatedTo, 1
+historian, pipe, /r/RelatedTo, 1
+Jordan, good, /r/RelatedTo, 1
+Jordan, sports, /r/RelatedTo, 1
+Eriteria, collection, /r/RelatedTo, 1
+historian, bow, /r/RelatedTo, 2
+historian, mustache, /r/RelatedTo, 1
+Iranian, dictator, /r/RelatedTo, 1
+researcher, study, /r/RelatedTo, 1
+researcher, masters, /r/RelatedTo, 1
+researcher, class, /r/RelatedTo, 1
+researcher, university, /r/RelatedTo, 1
+Sierra Leon, african, /r/RelatedTo, 1
+Sierra Leon, mining, /r/RelatedTo, 2
+Sierra Leon, market, /r/RelatedTo, 1
+Sierra Leon, criminal, /r/RelatedTo, 1
+Sierra Leon, diamond, /r/RelatedTo, 2
+Sierra Leon, underground, /r/RelatedTo, 1
+policeman, person, /r/RelatedTo, 1
+prosecutor, prison, /r/RelatedTo, 1
+Morocco, food, /r/RelatedTo, 2
+Morocco, exquisite, /r/RelatedTo, 1
+grandfather, man, /r/RelatedTo, 2
+grandfather, best, /r/RelatedTo, 1
+grandfather, stories, /r/RelatedTo, 1
+himself, attitude, /r/RelatedTo, 1
+himself, bullying, /r/RelatedTo, 1
+himself, hard, /r/RelatedTo, 1
+himself, friends, /r/RelatedTo, 1
+prisoner, time, /r/RelatedTo, 1
+prisoner, bars, /r/RelatedTo, 1
+Norweigan, cold, /r/RelatedTo, 1
+Norweigan, weather, /r/RelatedTo, 1
+Spain, spanish, /r/RelatedTo, 1
+Spain, tons, /r/RelatedTo, 1
+Spain, wine, /r/RelatedTo, 1
+Brahmin, bad, /r/RelatedTo, 1
+Brahmin, man, /r/RelatedTo, 1
+Brahmin, children, /r/RelatedTo, 1
+politician, agenda, /r/RelatedTo, 1
+politician, own, /r/RelatedTo, 4
+politician, self, /r/RelatedTo, 1
+politician, interest, /r/RelatedTo, 1
+Muslim, terrorists, /r/RelatedTo, 2
+prosecutor, stern, /r/RelatedTo, 1
+Syria, dangerous, /r/RelatedTo, 4
+Syria, place, /r/RelatedTo, 3
+commander, captain, /r/RelatedTo, 1
+commander, team, /r/RelatedTo, 1
+commander, member, /r/RelatedTo, 1
+commander, honors, /r/RelatedTo, 1
+commander, ap, /r/RelatedTo, 1
+commander, courses, /r/RelatedTo, 1
+Lebanon, civil, /r/RelatedTo, 1
+Lebanon, war, /r/RelatedTo, 4
+researcher, results, /r/RelatedTo, 1
+Somalia, country, /r/RelatedTo, 2
+Somalia, violent, /r/RelatedTo, 1
+Somalia, crime, /r/RelatedTo, 2
+Lebanon, thug, /r/RelatedTo, 1
+Lebanon, russian, /r/RelatedTo, 1
+Lebanon, gangster, /r/RelatedTo, 1
+grandfather, aggressive, /r/RelatedTo, 1
+grandfather, opinions, /r/RelatedTo, 1
+mommy, worried, /r/RelatedTo, 1
+mommy, girl, /r/RelatedTo, 1
+African, culture, /r/RelatedTo, 1
+African, vibrant, /r/RelatedTo, 1
+African, clothing, /r/RelatedTo, 1
+commander, demeanor, /r/RelatedTo, 1
+commander, powerful, /r/RelatedTo, 3
+commander, poised, /r/RelatedTo, 1
+commander, cold, /r/RelatedTo, 1
+gentlemen, many, /r/RelatedTo, 1
+gentlemen, rich, /r/RelatedTo, 1
+gentlemen, powerful, /r/RelatedTo, 1
+gentlemen, men, /r/RelatedTo, 3
+gentlemen, attendance, /r/RelatedTo, 1
+gentlemen, night, /r/RelatedTo, 1
+gentlemen, fancy, /r/RelatedTo, 1
+gentlemen, cars, /r/RelatedTo, 2
+gentlemen, valet, /r/RelatedTo, 1
+Persian people, amazing, /r/RelatedTo, 1
+Persian people, artists, /r/RelatedTo, 1
+sister, bugs, /r/RelatedTo, 1
+sister, snakes, /r/RelatedTo, 1
+Muslim, eastern, /r/RelatedTo, 1
+butcher, bad, /r/RelatedTo, 1
+butcher, job, /r/RelatedTo, 2
+politician, cold, /r/RelatedTo, 1
+politician, money, /r/RelatedTo, 4
+African, weeks, /r/RelatedTo, 1
+nurse, scrub, /r/RelatedTo, 2
+nurse, ste, /r/RelatedTo, 1
+nurse, neck, /r/RelatedTo, 1
+bartender, short, /r/RelatedTo, 2
+bartender, sweet, /r/RelatedTo, 1
+bartender, pleasant, /r/RelatedTo, 1
+producer, demanding, /r/RelatedTo, 1
+Norway, friendly, /r/RelatedTo, 1
+Norway, tourists, /r/RelatedTo, 1
+Brahmin, perfect, /r/RelatedTo, 1
+Brahmin, class, /r/RelatedTo, 1
+male, loud, /r/RelatedTo, 2
+male, arrogant, /r/RelatedTo, 1
+male, evening, /r/RelatedTo, 1
+delivery man, clean, /r/RelatedTo, 1
+delivery man, cut, /r/RelatedTo, 1
+delivery man, moment, /r/RelatedTo, 1
+Muslim, destruction, /r/RelatedTo, 1
+Britain, fancy, /r/RelatedTo, 1
+Columbian, familiar, /r/RelatedTo, 1
+Columbian, trade, /r/RelatedTo, 1
+Sierra Leon, troubled, /r/RelatedTo, 1
+Sierra Leon, violent, /r/RelatedTo, 2
+Iranian, women, /r/RelatedTo, 1
+Iranian, area, /r/RelatedTo, 1
+Iranian, bu, /r/RelatedTo, 1
+Iranian, faces, /r/RelatedTo, 1
+delivery man, care, /r/RelatedTo, 1
+Britain, s, /r/RelatedTo, 2
+Britain, country, /r/RelatedTo, 2
+Saudi Arabian, plane, /r/RelatedTo, 1
+Sierra Leon, dream, /r/RelatedTo, 1
+Sierra Leon, rich, /r/RelatedTo, 1
+Italy, car, /r/RelatedTo, 1
+Italy, fat, /r/RelatedTo, 1
+Somalia, dirty, /r/RelatedTo, 1
+Somalia, war, /r/RelatedTo, 1
+Somalia, zones, /r/RelatedTo, 1
+researcher, fact, /r/RelatedTo, 1
+policeman, suspicious, /r/RelatedTo, 1
+policeman, minorities, /r/RelatedTo, 3
+Japanese, language, /r/RelatedTo, 1
+Japanese, complicated, /r/RelatedTo, 1
+Japanese, characters, /r/RelatedTo, 1
+Eriteria, occurrences, /r/RelatedTo, 1
+Eriteria, international, /r/RelatedTo, 1
+Eriteria, news, /r/RelatedTo, 1
+Eriteria, it, /r/RelatedTo, 1
+Eriteria, rest, /r/RelatedTo, 1
+Eriteria, world, /r/RelatedTo, 1
+software developer, dim, /r/RelatedTo, 1
+software developer, room, /r/RelatedTo, 1
+software developer, fast, /r/RelatedTo, 1
+software developer, food, /r/RelatedTo, 1
+software developer, surroundings, /r/RelatedTo, 1
+Sierra Leon, bunch, /r/RelatedTo, 1
+Sierra Leon, criminals, /r/RelatedTo, 1
+football player, brightest, /r/RelatedTo, 1
+football player, bulb, /r/RelatedTo, 1
+assistant, boss, /r/RelatedTo, 2
+assistant, wife, /r/RelatedTo, 1
+Norway, norwegian, /r/RelatedTo, 3
+Norway, famous, /r/RelatedTo, 1
+Norway, metal, /r/RelatedTo, 1
+Norway, music, /r/RelatedTo, 1
+Somalia, drugs, /r/RelatedTo, 1
+butcher, sad, /r/RelatedTo, 1
+butcher, gross, /r/RelatedTo, 1
+Jordan, safe, /r/RelatedTo, 1
+Jordan, women, /r/RelatedTo, 1
+prisoner, poor, /r/RelatedTo, 1
+prisoner, communities, /r/RelatedTo, 1
+Eritrean, man, /r/RelatedTo, 1
+Eritrean, good, /r/RelatedTo, 1
+football player, success, /r/RelatedTo, 1
+football player, field, /r/RelatedTo, 1
+football player, peers, /r/RelatedTo, 1
+football player, classroom, /r/RelatedTo, 1
+Ecuador, spicy, /r/RelatedTo, 1
+Ecuador, foods, /r/RelatedTo, 1
+prosecutor, several, /r/RelatedTo, 1
+prosecutor, assistants, /r/RelatedTo, 1
+Vietnam, short, /r/RelatedTo, 1
+himself, strong, /r/RelatedTo, 2
+himself, confident, /r/RelatedTo, 1
+manager, longer, /r/RelatedTo, 1
+manager, hours, /r/RelatedTo, 1
+policeman, large, /r/RelatedTo, 1
+policeman, many, /r/RelatedTo, 2
+policeman, dough, /r/RelatedTo, 1
+commander, athletic, /r/RelatedTo, 1
+commander, stick, /r/RelatedTo, 1
+commander, details, /r/RelatedTo, 1
+male, store, /r/RelatedTo, 1
+male, merchandise, /r/RelatedTo, 1
+mathematician, smart, /r/RelatedTo, 1
+Iranian, supporter, /r/RelatedTo, 1
+Iranian, law, /r/RelatedTo, 1
+Eritrean, islamic, /r/RelatedTo, 2
+Eritrean, faith, /r/RelatedTo, 1
+Eritrean, only, /r/RelatedTo, 1
+Eritrean, one, /r/RelatedTo, 1
+prisoner, gang, /r/RelatedTo, 2
+prisoner, lots, /r/RelatedTo, 1
+prisoner, tattoos, /r/RelatedTo, 1
+Ecuador, lazy, /r/RelatedTo, 1
+Morocco, excited, /r/RelatedTo, 1
+Morocco, outdoor, /r/RelatedTo, 1
+Morocco, snake, /r/RelatedTo, 1
+Morocco, charm, /r/RelatedTo, 1
+himself, irritating, /r/RelatedTo, 1
+himself, right, /r/RelatedTo, 1
+Iranian, fluent, /r/RelatedTo, 1
+Bible, congregation, /r/RelatedTo, 1
+Bible, bored, /r/RelatedTo, 1
+Bible, irrelevant, /r/RelatedTo, 1
+Columbian, country, /r/RelatedTo, 1
+Columbian, cocaine, /r/RelatedTo, 4
+Columbian, countries, /r/RelatedTo, 1
+performing artist, creative, /r/RelatedTo, 1
+performing artist, emotional, /r/RelatedTo, 1
+Japanese, waitress, /r/RelatedTo, 1
+Japanese, last, /r/RelatedTo, 1
+Japanese, restaurant, /r/RelatedTo, 1
+Japanese, women, /r/RelatedTo, 1
+Japanese, quiet, /r/RelatedTo, 1
+Japanese, meek, /r/RelatedTo, 1
+Japanese, shy, /r/RelatedTo, 1
+Lebanon, state, /r/RelatedTo, 1
+Lebanon, constant, /r/RelatedTo, 1
+Lebanon, turmoil, /r/RelatedTo, 1
+Columbian, type, /r/RelatedTo, 1
+Norweigan, ancient, /r/RelatedTo, 1
+Norweigan, traditions, /r/RelatedTo, 1
+Norweigan, alive, /r/RelatedTo, 1
+Norweigan, today, /r/RelatedTo, 1
+entrepreneur, taste, /r/RelatedTo, 1
+entrepreneur, risk, /r/RelatedTo, 1
+Muslim, scary, /r/RelatedTo, 1
+Muslim, evil, /r/RelatedTo, 1
+Iranian, western, /r/RelatedTo, 1
+Iranian, store, /r/RelatedTo, 1
+himself, self, /r/RelatedTo, 1
+himself, image, /r/RelatedTo, 1
+commander, boss, /r/RelatedTo, 2
+commander, aggressive, /r/RelatedTo, 1
+butcher, sure, /r/RelatedTo, 1
+engineer, terms, /r/RelatedTo, 1
+policeman, gun, /r/RelatedTo, 1
+policeman, badge, /r/RelatedTo, 1
+policeman, boots, /r/RelatedTo, 1
+Bible, lots, /r/RelatedTo, 1
+Bible, suggestions, /r/RelatedTo, 1
+Bible, good, /r/RelatedTo, 2
+Bible, behavior, /r/RelatedTo, 1
+performing artist, massive, /r/RelatedTo, 1
+performing artist, following, /r/RelatedTo, 1
+performing artist, famous, /r/RelatedTo, 1
+Saudi Arabian, dark, /r/RelatedTo, 1
+Saudi Arabian, skin, /r/RelatedTo, 1
+Saudi Arabian, tu, /r/RelatedTo, 1
+Iraq, lot, /r/RelatedTo, 1
+Iraq, violence, /r/RelatedTo, 1
+Bangladesh, grim, /r/RelatedTo, 1
+politician, candidates, /r/RelatedTo, 1
+politician, others, /r/RelatedTo, 1
+politician, throat, /r/RelatedTo, 1
+delivery man, lot, /r/RelatedTo, 1
+delivery man, delivery, /r/RelatedTo, 1
+delivery man, men, /r/RelatedTo, 1
+delivery man, uniforms, /r/RelatedTo, 1
+delivery man, company, /r/RelatedTo, 1
+delivery man, trucks, /r/RelatedTo, 1
+Japanese, raw, /r/RelatedTo, 1
+Japanese, fish, /r/RelatedTo, 1
+assistant, good, /r/RelatedTo, 1
+bartender, bottles, /r/RelatedTo, 1
+bartender, air, /r/RelatedTo, 1
+bartender, tips, /r/RelatedTo, 1
+Bengali, darker, /r/RelatedTo, 1
+Bengali, skin, /r/RelatedTo, 1
+Bengali, smoky, /r/RelatedTo, 1
+Bengali, eyes, /r/RelatedTo, 1
+Lebanon, rich, /r/RelatedTo, 1
+Lebanon, oil, /r/RelatedTo, 1
+mommy, wrong, /r/RelatedTo, 1
+mommy, children, /r/RelatedTo, 1
+Ecuador, afraid, /r/RelatedTo, 1
+Ecuador, heat, /r/RelatedTo, 1
+chemist, photo, /r/RelatedTo, 1
+chemist, safety, /r/RelatedTo, 1
+chemist, glasses, /r/RelatedTo, 5
+African, better, /r/RelatedTo, 1
+African, athletes, /r/RelatedTo, 1
+Bengali, one, /r/RelatedTo, 1
+assistant, bosses, /r/RelatedTo, 1
+assistant, ass, /r/RelatedTo, 1
+entrepreneur, lazy, /r/RelatedTo, 1
+entrepreneur, rebellious, /r/RelatedTo, 1
+Bible, scripture, /r/RelatedTo, 1
+Bible, perfect, /r/RelatedTo, 1
+Bible, word, /r/RelatedTo, 1
+producer, good, /r/RelatedTo, 1
+producer, new, /r/RelatedTo, 1
+producer, ideas, /r/RelatedTo, 1
+schoolboy, cap, /r/RelatedTo, 1
+commander, meeting, /r/RelatedTo, 1
+Bangladesh, women, /r/RelatedTo, 1
+Bangladesh, pride, /r/RelatedTo, 1
+Bangladesh, long, /r/RelatedTo, 1
+Bangladesh, brunette, /r/RelatedTo, 1
+Bangladesh, hair, /r/RelatedTo, 1
+Bangladesh, jewelry, /r/RelatedTo, 1
+historian, lady, /r/RelatedTo, 1
+historian, strong, /r/RelatedTo, 1
+historian, background, /r/RelatedTo, 1
+historian, genealogy, /r/RelatedTo, 1
+researcher, question, /r/RelatedTo, 1
+researcher, months, /r/RelatedTo, 1
+Lebanon, groups, /r/RelatedTo, 1
+Lebanon, ties, /r/RelatedTo, 1
+Lebanon, terrorism, /r/RelatedTo, 1
+Vietnam, dad, /r/RelatedTo, 1
+Vietnam, lover, /r/RelatedTo, 1
+Iranian, conservative, /r/RelatedTo, 1
+producer, women, /r/RelatedTo, 1
+delivery man, skinny, /r/RelatedTo, 1
+delivery man, guy, /r/RelatedTo, 1
+delivery man, intelligent, /r/RelatedTo, 1
+Eritrean, hard, /r/RelatedTo, 1
+gentlemen, mature, /r/RelatedTo, 1
+Somalia, poverty, /r/RelatedTo, 1
+Somalia, stricken, /r/RelatedTo, 1
+Somalia, homemade, /r/RelatedTo, 1
+Somalia, huts, /r/RelatedTo, 1
+engineer, shirt, /r/RelatedTo, 1
+engineer, top, /r/RelatedTo, 2
+engineer, button, /r/RelatedTo, 1
+engineer, pro, /r/RelatedTo, 1
+engineer, breast, /r/RelatedTo, 1
+engineer, pocket, /r/RelatedTo, 1
+guitarist, tight, /r/RelatedTo, 3
+guitarist, pants, /r/RelatedTo, 3
+gentlemen, polite, /r/RelatedTo, 1
+gentlemen, nice, /r/RelatedTo, 1
+gentlemen, suits, /r/RelatedTo, 2
+mathematician, detached, /r/RelatedTo, 1
+mathematician, personalities, /r/RelatedTo, 1
+nurse, short, /r/RelatedTo, 1
+nurse, skirt, /r/RelatedTo, 1
+nurse, iv, /r/RelatedTo, 1
+historian, much, /r/RelatedTo, 1
+historian, knowledge, /r/RelatedTo, 2
+historian, subject, /r/RelatedTo, 1
+prosecutor, sincere, /r/RelatedTo, 1
+prosecutor, delivery, /r/RelatedTo, 1
+himself, heavy, /r/RelatedTo, 1
+himself, weights, /r/RelatedTo, 1
+assistant, rude, /r/RelatedTo, 1
+assistant, rushed, /r/RelatedTo, 1
+delivery man, mad, /r/RelatedTo, 1
+delivery man, customers, /r/RelatedTo, 1
+grandfather, years, /r/RelatedTo, 1
+Persian people, wives, /r/RelatedTo, 1
+Persian people, daughters, /r/RelatedTo, 1
+engineer, iq, /r/RelatedTo, 1
+male, masculine, /r/RelatedTo, 1
+Eriteria, main, /r/RelatedTo, 1
+Eriteria, drug, /r/RelatedTo, 1
+Eriteria, choice, /r/RelatedTo, 1
+Iraq, one, /r/RelatedTo, 2
+engineer, smart, /r/RelatedTo, 3
+male, images, /r/RelatedTo, 1
+male, sports, /r/RelatedTo, 1
+male, attractive, /r/RelatedTo, 1
+male, women, /r/RelatedTo, 2
+male, television, /r/RelatedTo, 1
+male, ads, /r/RelatedTo, 1
+Sierra Leon, place, /r/RelatedTo, 2
+historian, great, /r/RelatedTo, 1
+historian, events, /r/RelatedTo, 1
+Columbian, poor, /r/RelatedTo, 1
+Columbian, monetary, /r/RelatedTo, 1
+Columbian, goods, /r/RelatedTo, 1
+Columbian, rich, /r/RelatedTo, 1
+Columbian, culture, /r/RelatedTo, 1
+Columbian, fest, /r/RelatedTo, 1
+Columbian, spirit, /r/RelatedTo, 1
+Syria, dark, /r/RelatedTo, 1
+Syria, hair, /r/RelatedTo, 1
+Syria, eyes, /r/RelatedTo, 1
+Iraq, oppressive, /r/RelatedTo, 1
+Iraq, aggressive, /r/RelatedTo, 1
+performing artist, lip, /r/RelatedTo, 1
+performing artist, most, /r/RelatedTo, 2
+performing artist, time, /r/RelatedTo, 1
+performing artist, dancers, /r/RelatedTo, 1
+performing artist, work, /r/RelatedTo, 1
+Eritrean, countries, /r/RelatedTo, 1
+Eritrean, regions, /r/RelatedTo, 1
+bartender, job, /r/RelatedTo, 3
+bartender, alcoholic, /r/RelatedTo, 2
+prisoner, dangerous, /r/RelatedTo, 1
+prisoner, menacing, /r/RelatedTo, 1
+plumber, lots, /r/RelatedTo, 1
+plumber, tools, /r/RelatedTo, 1
+plumber, low, /r/RelatedTo, 1
+plumber, riding, /r/RelatedTo, 1
+Sierra Leon, pieces, /r/RelatedTo, 1
+Ukrainian, oil, /r/RelatedTo, 1
+Ukrainian, company, /r/RelatedTo, 2
+Ukrainian, ceo, /r/RelatedTo, 1
+Ukrainian, state, /r/RelatedTo, 1
+Ukrainian, energy, /r/RelatedTo, 1
+Iranian, child, /r/RelatedTo, 1
+Iranian, marriage, /r/RelatedTo, 1
+Japanese, residents, /r/RelatedTo, 1
+himself, exams, /r/RelatedTo, 1
+guitarist, rock, /r/RelatedTo, 1
+delivery man, late, /r/RelatedTo, 1
+commander, civilians, /r/RelatedTo, 1
+commander, foreign, /r/RelatedTo, 1
+commander, countries, /r/RelatedTo, 1
+commander, troops, /r/RelatedTo, 1
+commander, towns, /r/RelatedTo, 1
+commander, homes, /r/RelatedTo, 1
+manager, good, /r/RelatedTo, 1
+manager, schedules, /r/RelatedTo, 1
+manager, budgets, /r/RelatedTo, 1
+Arab, rich, /r/RelatedTo, 1
+Arab, wives, /r/RelatedTo, 1
+delivery man, strong, /r/RelatedTo, 2
+delivery man, bored, /r/RelatedTo, 1
+Spain, most, /r/RelatedTo, 1
+Spain, natives, /r/RelatedTo, 1
+Spain, hard, /r/RelatedTo, 1
+Ukrainian, des, /r/RelatedTo, 1
+researcher, judgment, /r/RelatedTo, 1
+Muslim, only, /r/RelatedTo, 1
+Muslim, white, /r/RelatedTo, 1
+Muslim, robe, /r/RelatedTo, 1
+Muslim, guilt, /r/RelatedTo, 1
+Muslim, shame, /r/RelatedTo, 1
+software developer, weird, /r/RelatedTo, 1
+himself, man, /r/RelatedTo, 1
+himself, house, /r/RelatedTo, 1
+sister, annoying, /r/RelatedTo, 1
+assistant, addition, /r/RelatedTo, 1
+assistant, short, /r/RelatedTo, 1
+Bangladesh, cheap, /r/RelatedTo, 1
+Bangladesh, cloth, /r/RelatedTo, 1
+guitarist, weed, /r/RelatedTo, 1
+grandfather, pictures, /r/RelatedTo, 1
+grandfather, grandmother, /r/RelatedTo, 1
+grandfather, woman, /r/RelatedTo, 1
+manager, late, /r/RelatedTo, 1
+mommy, best, /r/RelatedTo, 1
+mommy, interests, /r/RelatedTo, 1
+Spain, salsa, /r/RelatedTo, 1
+Spain, dancing, /r/RelatedTo, 1
+Spain, flame, /r/RelatedTo, 2
+assistant, phone, /r/RelatedTo, 1
+assistant, calls, /r/RelatedTo, 1
+assistant, tasks, /r/RelatedTo, 1
+African, sc, /r/RelatedTo, 1
+Eriteria, loud, /r/RelatedTo, 1
+Eriteria, annoying, /r/RelatedTo, 1
+gentlemen, helpful, /r/RelatedTo, 1
+gentlemen, spouse, /r/RelatedTo, 1
+politician, snakes, /r/RelatedTo, 1
+politician, party, /r/RelatedTo, 1
+schoolboy, things, /r/RelatedTo, 1
+Bangladesh, eye, /r/RelatedTo, 1
+Bangladesh, contact, /r/RelatedTo, 1
+Bangladesh, men, /r/RelatedTo, 1
+Norweigan, personal, /r/RelatedTo, 1
+Norweigan, space, /r/RelatedTo, 1
+Norweigan, selfish, /r/RelatedTo, 1
+Jordan, kind, /r/RelatedTo, 1
+Jordan, quiet, /r/RelatedTo, 1
+software developer, little, /r/RelatedTo, 1
+software developer, weak, /r/RelatedTo, 1
+Lebanon, dangerous, /r/RelatedTo, 3
+prisoner, member, /r/RelatedTo, 1
+prisoner, outside, /r/RelatedTo, 1
+producer, lots, /r/RelatedTo, 1
+Syria, brutal, /r/RelatedTo, 1
+Syria, dictatorship, /r/RelatedTo, 1
+Syria, em, /r/RelatedTo, 1
+Syria, long, /r/RelatedTo, 1
+Syria, civil, /r/RelatedTo, 2
+Syria, war, /r/RelatedTo, 6
+Ukrainian, day, /r/RelatedTo, 1
+butcher, high, /r/RelatedTo, 1
+butcher, school, /r/RelatedTo, 1
+butcher, graduate, /r/RelatedTo, 1
+himself, time, /r/RelatedTo, 1
+himself, mirror, /r/RelatedTo, 1
+performing artist, little, /r/RelatedTo, 1
+performing artist, bit, /r/RelatedTo, 1
+performing artist, weird, /r/RelatedTo, 1
+prosecutor, aggressive, /r/RelatedTo, 1
+prosecutor, serious, /r/RelatedTo, 1
+prosecutor, loud, /r/RelatedTo, 1
+prosecutor, voice, /r/RelatedTo, 1
+mathematician, clumsy, /r/RelatedTo, 1
+mathematician, awkward, /r/RelatedTo, 2
+mathematician, bright, /r/RelatedTo, 1
+performing artist, top, /r/RelatedTo, 1
+gentlemen, volunteers, /r/RelatedTo, 1
+gentlemen, strong, /r/RelatedTo, 1
+gentlemen, courageous, /r/RelatedTo, 1
+Persian people, other, /r/RelatedTo, 1
+Eritrean, poverty, /r/RelatedTo, 1
+Eritrean, stricken, /r/RelatedTo, 1
+policeman, policemen, /r/RelatedTo, 1
+grandfather, nice, /r/RelatedTo, 1
+grandfather, children, /r/RelatedTo, 2
+manager, workers, /r/RelatedTo, 1
+plumber, obe, /r/RelatedTo, 1
+plumber, rude, /r/RelatedTo, 1
+Eritrean, bad, /r/RelatedTo, 2
+Somalia, refugee, /r/RelatedTo, 1
+Somalia, ex, /r/RelatedTo, 1
+Somalia, warlord, /r/RelatedTo, 1
+gentlemen, expensive, /r/RelatedTo, 1
+gentlemen, toys, /r/RelatedTo, 1
+Eriteria, existence, /r/RelatedTo, 1
+Eriteria, sparse, /r/RelatedTo, 1
+Eriteria, resources, /r/RelatedTo, 1
+politician, old, /r/RelatedTo, 1
+politician, middle, /r/RelatedTo, 1
+politician, class, /r/RelatedTo, 1
+Bengali, culture, /r/RelatedTo, 1
+Bengali, hard, /r/RelatedTo, 2
+Bengali, most, /r/RelatedTo, 1
+Bengali, time, /r/RelatedTo, 1
+Bengali, nice, /r/RelatedTo, 1
+Bengali, places, /r/RelatedTo, 1
+schoolboy, smart, /r/RelatedTo, 1
+schoolboy, innocent, /r/RelatedTo, 1
+male, authority, /r/RelatedTo, 1
+male, closest, /r/RelatedTo, 1
+male, available, /r/RelatedTo, 1
+male, ur, /r/RelatedTo, 1
+himself, computers, /r/RelatedTo, 1
+schoolboy, boy, /r/RelatedTo, 2
+schoolboy, large, /r/RelatedTo, 1
+schoolboy, books, /r/RelatedTo, 1
+Saudi Arabian, di, /r/RelatedTo, 1
+guitarist, young, /r/RelatedTo, 1
+guitarist, white, /r/RelatedTo, 1
+guitarist, man, /r/RelatedTo, 1
+delivery man, slow, /r/RelatedTo, 1
+mommy, bag, /r/RelatedTo, 1
+mommy, dinner, /r/RelatedTo, 1
+mommy, deserts, /r/RelatedTo, 1
+policeman, anxious, /r/RelatedTo, 1
+policeman, power, /r/RelatedTo, 1
+software developer, screen, /r/RelatedTo, 2
+software developer, hours, /r/RelatedTo, 1
+politician, lot, /r/RelatedTo, 2
+politician, campaign, /r/RelatedTo, 1
+bartender, into, /r/RelatedTo, 1
+Saudi Arabian, dictator, /r/RelatedTo, 1
+Saudi Arabian, royal, /r/RelatedTo, 1
+Saudi Arabian, family, /r/RelatedTo, 1
+Saudi Arabian, strict, /r/RelatedTo, 1
+Saudi Arabian, religious, /r/RelatedTo, 1
+Saudi Arabian, laws, /r/RelatedTo, 1
+Jordan, large, /r/RelatedTo, 1
+Jordan, amount, /r/RelatedTo, 1
+Jordan, residents, /r/RelatedTo, 1
+mathematician, great, /r/RelatedTo, 1
+mathematician, conversation, /r/RelatedTo, 1
+Eriteria, little, /r/RelatedTo, 1
+bartender, smart, /r/RelatedTo, 1
+bartender, real, /r/RelatedTo, 1
+bartender, sl, /r/RelatedTo, 1
+Morocco, night, /r/RelatedTo, 1
+assistant, young, /r/RelatedTo, 2
+assistant, blonde, /r/RelatedTo, 2
+assistant, per, /r/RelatedTo, 1
+butcher, fat, /r/RelatedTo, 1
+butcher, middle, /r/RelatedTo, 1
+butcher, class, /r/RelatedTo, 1
+male, beard, /r/RelatedTo, 1
+male, tough, /r/RelatedTo, 1
+Britain, smug, /r/RelatedTo, 1
+Sierra Leon, internet, /r/RelatedTo, 1
+Sierra Leon, sc, /r/RelatedTo, 1
+entrepreneur, rich, /r/RelatedTo, 2
+entrepreneur, start, /r/RelatedTo, 1
+entrepreneur, up, /r/RelatedTo, 1
+Vietnam, few, /r/RelatedTo, 1
+Vietnam, places, /r/RelatedTo, 1
+Vietnam, electricity, /r/RelatedTo, 1
+Vietnam, phone, /r/RelatedTo, 1
+mommy, end, /r/RelatedTo, 1
+Somalia, problem, /r/RelatedTo, 1
+Vietnam, produce, /r/RelatedTo, 1
+engineer, lot, /r/RelatedTo, 1
+engineer, money, /r/RelatedTo, 1
+Ecuador, maid, /r/RelatedTo, 1
+Yemen, intelligent, /r/RelatedTo, 1
+guitarist, leather, /r/RelatedTo, 2
+guitarist, head, /r/RelatedTo, 1
+prosecutor, ruthless, /r/RelatedTo, 2
+prosecutor, competitor, /r/RelatedTo, 1
+prosecutor, case, /r/RelatedTo, 1
+Syria, horrific, /r/RelatedTo, 1
+Syria, many, /r/RelatedTo, 1
+Syria, country, /r/RelatedTo, 2
+Syria, havoc, /r/RelatedTo, 1
+Syria, globe, /r/RelatedTo, 1
+Bengali, women, /r/RelatedTo, 1
+football player, dance, /r/RelatedTo, 1
+football player, end, /r/RelatedTo, 1
+prisoner, troubled, /r/RelatedTo, 1
+chemist, chemicals, /r/RelatedTo, 2
+schoolboy, neat, /r/RelatedTo, 1
+schoolboy, tidy, /r/RelatedTo, 1
+prisoner, mean, /r/RelatedTo, 1
+plumber, lot, /r/RelatedTo, 1
+plumber, money, /r/RelatedTo, 1
+bartender, conversations, /r/RelatedTo, 1
+software developer, experienced, /r/RelatedTo, 1
+software developer, training, /r/RelatedTo, 1
+male, tight, /r/RelatedTo, 1
+male, muscles, /r/RelatedTo, 1
+performing artist, dinner, /r/RelatedTo, 1
+performing artist, crack, /r/RelatedTo, 1
+performing artist, peanut, /r/RelatedTo, 1
+performing artist, butter, /r/RelatedTo, 1
+performing artist, money, /r/RelatedTo, 2
+chemist, stains, /r/RelatedTo, 1
+guitarist, loud, /r/RelatedTo, 1
+guitarist, wild, /r/RelatedTo, 1
+performing artist, musicians, /r/RelatedTo, 1
+performing artist, stone, /r/RelatedTo, 1
+performing artist, weed, /r/RelatedTo, 1
+Iraq, faith, /r/RelatedTo, 1
+Vietnam, women, /r/RelatedTo, 1
+sister, baby, /r/RelatedTo, 2
+sister, dolls, /r/RelatedTo, 1
+Spain, lazy, /r/RelatedTo, 1
+Spain, bunch, /r/RelatedTo, 1
+manager, person, /r/RelatedTo, 2
+manager, building, /r/RelatedTo, 1
+politician, shady, /r/RelatedTo, 1
+politician, good, /r/RelatedTo, 2
+grandfather, white, /r/RelatedTo, 1
+grandfather, hair, /r/RelatedTo, 1
+assistant, followers, /r/RelatedTo, 1
+mathematician, intro, /r/RelatedTo, 1
+schoolboy, short, /r/RelatedTo, 1
+schoolboy, pants, /r/RelatedTo, 1
+schoolboy, saddle, /r/RelatedTo, 1
+schoolboy, shoes, /r/RelatedTo, 1
+grandfather, lot, /r/RelatedTo, 1
+grandfather, money, /r/RelatedTo, 2
+Sierra Leon, citizens, /r/RelatedTo, 1
+Sierra Leon, capital, /r/RelatedTo, 1
+Sierra Leon, city, /r/RelatedTo, 1
+grandfather, poor, /r/RelatedTo, 1
+grandfather, land, /r/RelatedTo, 1
+policeman, don, /r/RelatedTo, 1
+politician, sl, /r/RelatedTo, 1
+politician, bribes, /r/RelatedTo, 2
+manager, firm, /r/RelatedTo, 1
+grandfather, toy, /r/RelatedTo, 1
+grandfather, trains, /r/RelatedTo, 1
+mathematician, ideas, /r/RelatedTo, 1
+mathematician, mind, /r/RelatedTo, 1
+mathematician, other, /r/RelatedTo, 1
+mathematician, things, /r/RelatedTo, 1
+manager, work, /r/RelatedTo, 1
+manager, employees, /r/RelatedTo, 2
+policeman, trigger, /r/RelatedTo, 1
+policeman, happy, /r/RelatedTo, 1
+policeman, hot, /r/RelatedTo, 1
+policeman, head, /r/RelatedTo, 1
+performing artist, mouth, /r/RelatedTo, 1
+performing artist, center, /r/RelatedTo, 2
+performing artist, attention, /r/RelatedTo, 2
+sister, rude, /r/RelatedTo, 1
+sister, inc, /r/RelatedTo, 1
+software developer, unable, /r/RelatedTo, 1
+software developer, women, /r/RelatedTo, 1
+software developer, cl, /r/RelatedTo, 1
+software developer, anxiety, /r/RelatedTo, 1
+prosecutor, wild, /r/RelatedTo, 1
+prosecutor, ex, /r/RelatedTo, 1
+himself, schizophrenia, /r/RelatedTo, 1
+guitarist, homes, /r/RelatedTo, 1
+guitarist, children, /r/RelatedTo, 1
+guitarist, guitar, /r/RelatedTo, 1
+Norweigan, norwegian, /r/RelatedTo, 2
+Norweigan, day, /r/RelatedTo, 1
+Norweigan, pun, /r/RelatedTo, 1
+prisoner, things, /r/RelatedTo, 1
+Norweigan, hands, /r/RelatedTo, 1
+Norweigan, same, /r/RelatedTo, 1
+Norweigan, time, /r/RelatedTo, 1
+engineer, geek, /r/RelatedTo, 1
+engineer, good, /r/RelatedTo, 1
+engineer, interaction, /r/RelatedTo, 1
+chemist, go, /r/RelatedTo, 1
+Persian people, men, /r/RelatedTo, 1
+Persian people, silent, /r/RelatedTo, 1
+nurse, professional, /r/RelatedTo, 1
+nurse, leaders, /r/RelatedTo, 1
+assistant, bust, /r/RelatedTo, 1
+Lebanon, evil, /r/RelatedTo, 1
+Ecuador, center, /r/RelatedTo, 1
+Ecuador, earth, /r/RelatedTo, 1
+Ecuador, dark, /r/RelatedTo, 1
+Ecuador, violent, /r/RelatedTo, 1
+politician, wife, /r/RelatedTo, 1
+performing artist, drama, /r/RelatedTo, 1
+performing artist, queen, /r/RelatedTo, 1
+policeman, parents, /r/RelatedTo, 1
+policeman, walk, /r/RelatedTo, 1
+policeman, talk, /r/RelatedTo, 1
+Brahmin, professional, /r/RelatedTo, 1
+Brahmin, educated, /r/RelatedTo, 1
+Eritrean, darkest, /r/RelatedTo, 1
+Eritrean, skin, /r/RelatedTo, 3
+Persian people, many, /r/RelatedTo, 2
+Persian people, wars, /r/RelatedTo, 1
+Lebanon, american, /r/RelatedTo, 1
+Lebanon, tourists, /r/RelatedTo, 1
+Ukrainian, hard, /r/RelatedTo, 1
+delivery man, white, /r/RelatedTo, 1
+delivery man, doorbell, /r/RelatedTo, 1
+Lebanon, lot, /r/RelatedTo, 2
+delivery man, tall, /r/RelatedTo, 1
+Britain, tourists, /r/RelatedTo, 1
+Morocco, human, /r/RelatedTo, 1
+sister, nails, /r/RelatedTo, 1
+football player, dangerous, /r/RelatedTo, 1
+football player, sport, /r/RelatedTo, 1
+football player, many, /r/RelatedTo, 2
+bartender, attention, /r/RelatedTo, 1
+bartender, orders, /r/RelatedTo, 2
+bartender, customers, /r/RelatedTo, 2
+bartender, shot, /r/RelatedTo, 1
+bartender, amounts, /r/RelatedTo, 1
+Spain, lovely, /r/RelatedTo, 1
+Spain, safe, /r/RelatedTo, 1
+Persian people, racist, /r/RelatedTo, 1
+butcher, muscles, /r/RelatedTo, 1
+butcher, beard, /r/RelatedTo, 1
+mathematician, brilliant, /r/RelatedTo, 1
+mathematician, dry, /r/RelatedTo, 1
+mathematician, speech, /r/RelatedTo, 1
+historian, book, /r/RelatedTo, 1
+historian, white, /r/RelatedTo, 1
+historian, hair, /r/RelatedTo, 1
+Sierra Leon, tribes, /r/RelatedTo, 1
+Eritrean, lazy, /r/RelatedTo, 1
+Jordan, full, /r/RelatedTo, 1
+entrepreneur, computers, /r/RelatedTo, 1
+Britain, place, /r/RelatedTo, 1
+Britain, rain, /r/RelatedTo, 1
+Britain, fish, /r/RelatedTo, 1
+Britain, chips, /r/RelatedTo, 1
+engineer, man, /r/RelatedTo, 1
+engineer, math, /r/RelatedTo, 1
+Jordan, sovereignty, /r/RelatedTo, 1
+Jordan, malicious, /r/RelatedTo, 1
+Jordan, attacks, /r/RelatedTo, 1
+Muslim, aba, /r/RelatedTo, 1
+Italy, cheese, /r/RelatedTo, 1
+Japanese, anime, /r/RelatedTo, 1
+Japanese, shows, /r/RelatedTo, 1
+Ukrainian, rights, /r/RelatedTo, 1
+assistant, attractive, /r/RelatedTo, 2
+bartender, college, /r/RelatedTo, 1
+bartender, drop, /r/RelatedTo, 1
+bartender, profession, /r/RelatedTo, 1
+Bible, lies, /r/RelatedTo, 1
+Bible, stories, /r/RelatedTo, 1
+Columbian, man, /r/RelatedTo, 1
+Columbian, none, /r/RelatedTo, 1
+Columbian, person, /r/RelatedTo, 1
+Columbian, brown, /r/RelatedTo, 1
+Brahmin, woman, /r/RelatedTo, 1
+Brahmin, hundreds, /r/RelatedTo, 1
+Brahmin, bags, /r/RelatedTo, 1
+Brahmin, brand, /r/RelatedTo, 1
+Iraq, bombing, /r/RelatedTo, 1
+Iraq, way, /r/RelatedTo, 1
+Iraq, life, /r/RelatedTo, 1
+Somalia, ransom, /r/RelatedTo, 2
+delivery man, young, /r/RelatedTo, 1
+delivery man, man, /r/RelatedTo, 2
+Bengali, spies, /r/RelatedTo, 1
+Bengali, government, /r/RelatedTo, 1
+mathematician, short, /r/RelatedTo, 1
+mathematician, side, /r/RelatedTo, 1
+mathematician, spectacle, /r/RelatedTo, 1
+commander, used, /r/RelatedTo, 1
+commander, loss, /r/RelatedTo, 1
+commander, power, /r/RelatedTo, 2
+researcher, student, /r/RelatedTo, 1
+Bangladesh, food, /r/RelatedTo, 1
+Bangladesh, upset, /r/RelatedTo, 1
+Bangladesh, digest, /r/RelatedTo, 1
+Bible, many, /r/RelatedTo, 1
+schoolboy, amazing, /r/RelatedTo, 1
+schoolboy, most, /r/RelatedTo, 1
+schoolboy, buddy, /r/RelatedTo, 1
+schoolboy, pot, /r/RelatedTo, 1
+schoolboy, fire, /r/RelatedTo, 1
+politician, trust, /r/RelatedTo, 1
+politician, vote, /r/RelatedTo, 1
+mathematician, loser, /r/RelatedTo, 1
+mathematician, books, /r/RelatedTo, 1
+prisoner, aggressive, /r/RelatedTo, 1
+Arab, belly, /r/RelatedTo, 1
+Arab, dancers, /r/RelatedTo, 1
+football player, path, /r/RelatedTo, 1
+football player, fame, /r/RelatedTo, 1
+football player, glory, /r/RelatedTo, 1
+politician, crook, /r/RelatedTo, 1
+politician, liar, /r/RelatedTo, 1
+politician, cheat, /r/RelatedTo, 1
+Iranian, mean, /r/RelatedTo, 1
+engineer, degree, /r/RelatedTo, 1
+engineer, better, /r/RelatedTo, 1
+engineer, else, /r/RelatedTo, 1
+engineer, friendly, /r/RelatedTo, 1
+engineer, pleasant, /r/RelatedTo, 1
+football player, tall, /r/RelatedTo, 1
+football player, heavy, /r/RelatedTo, 1
+football player, special, /r/RelatedTo, 1
+football player, seat, /r/RelatedTo, 1
+football player, door, /r/RelatedTo, 1
+Persian people, dirty, /r/RelatedTo, 1
+Persian people, loud, /r/RelatedTo, 1
+Persian people, time, /r/RelatedTo, 1
+grandfather, several, /r/RelatedTo, 1
+grandfather, hours, /r/RelatedTo, 1
+grandfather, day, /r/RelatedTo, 2
+grandfather, couch, /r/RelatedTo, 1
+Britain, class, /r/RelatedTo, 1
+Syria, neighbors, /r/RelatedTo, 1
+Syria, law, /r/RelatedTo, 1
+Vietnam, rat, /r/RelatedTo, 1
+chemist, degrees, /r/RelatedTo, 1
+commander, assert, /r/RelatedTo, 1
+software developer, go, /r/RelatedTo, 1
+software developer, slip, /r/RelatedTo, 1
+software developer, oil, /r/RelatedTo, 1
+software developer, ac, /r/RelatedTo, 1
+software developer, face, /r/RelatedTo, 1
+Spain, mexican, /r/RelatedTo, 1
+Spain, person, /r/RelatedTo, 1
+plumber, top, /r/RelatedTo, 1
+politician, list, /r/RelatedTo, 1
+politician, legislators, /r/RelatedTo, 1
+politician, crimes, /r/RelatedTo, 1
+politician, year, /r/RelatedTo, 1
+politician, crazy, /r/RelatedTo, 1
+engineer, overall, /r/RelatedTo, 1
+engineer, hat, /r/RelatedTo, 1
+grandfather, strict, /r/RelatedTo, 2
+grandfather, authoritarian, /r/RelatedTo, 1
+grandfather, own, /r/RelatedTo, 1
+grandfather, son, /r/RelatedTo, 1
+Columbian, thief, /r/RelatedTo, 1
+Sierra Leon, peaceful, /r/RelatedTo, 1
+Sierra Leon, most, /r/RelatedTo, 1
+Muslim, country, /r/RelatedTo, 1
+Muslim, same, /r/RelatedTo, 1
+Muslim, religious, /r/RelatedTo, 1
+Muslim, beliefs, /r/RelatedTo, 1
+Saudi Arabian, prevalent, /r/RelatedTo, 1
+Saudi Arabian, forms, /r/RelatedTo, 1
+Saudi Arabian, motorsport, /r/RelatedTo, 1
+Saudi Arabian, automotive, /r/RelatedTo, 1
+Saudi Arabian, related, /r/RelatedTo, 1
+Saudi Arabian, past, /r/RelatedTo, 1
+Saudi Arabian, kingdom, /r/RelatedTo, 1
+bartender, life, /r/RelatedTo, 1
+bartender, story, /r/RelatedTo, 1
+bartender, impatient, /r/RelatedTo, 1
+Norweigan, awful, /r/RelatedTo, 1
+Norweigan, bland, /r/RelatedTo, 1
+guitarist, tattoos, /r/RelatedTo, 1
+guitarist, jeans, /r/RelatedTo, 1
+guitarist, jacket, /r/RelatedTo, 1
+gentlemen, jobs, /r/RelatedTo, 1
+Arab, terrorists, /r/RelatedTo, 1
+Arab, western, /r/RelatedTo, 1
+Arab, life, /r/RelatedTo, 2
+Bible, order, /r/RelatedTo, 1
+Bible, scroll, /r/RelatedTo, 1
+Bible, writing, /r/RelatedTo, 1
+Vietnam, full, /r/RelatedTo, 1
+Vietnam, fighters, /r/RelatedTo, 1
+Columbian, most, /r/RelatedTo, 1
+Columbian, area, /r/RelatedTo, 1
+Iranian, things, /r/RelatedTo, 1
+mommy, lot, /r/RelatedTo, 1
+mommy, household, /r/RelatedTo, 1
+mommy, chores, /r/RelatedTo, 1
+Persian people, brown, /r/RelatedTo, 2
+butcher, blood, /r/RelatedTo, 2
+Japanese, cruel, /r/RelatedTo, 1
+Japanese, enemies, /r/RelatedTo, 1
+Yemen, devout, /r/RelatedTo, 1
+commander, guy, /r/RelatedTo, 1
+mathematician, individuals, /r/RelatedTo, 1
+nurse, doctors, /r/RelatedTo, 1
+Sierra Leon, civil, /r/RelatedTo, 1
+Sierra Leon, wars, /r/RelatedTo, 1
+Morocco, decorative, /r/RelatedTo, 1
+Morocco, garage, /r/RelatedTo, 1
+Morocco, sale, /r/RelatedTo, 1
+plumber, dish, /r/RelatedTo, 1
+prisoner, incarcerated, /r/RelatedTo, 1
+prisoner, african, /r/RelatedTo, 1
+prisoner, american, /r/RelatedTo, 1
+politician, dental, /r/RelatedTo, 1
+politician, work, /r/RelatedTo, 1
+Spain, temper, /r/RelatedTo, 1
+Persian people, serious, /r/RelatedTo, 1
+Ukrainian, much, /r/RelatedTo, 2
+Ukrainian, make, /r/RelatedTo, 1
+Ukrainian, up, /r/RelatedTo, 1
+Ukrainian, vain, /r/RelatedTo, 1
+commander, chief, /r/RelatedTo, 1
+male, gender, /r/RelatedTo, 1
+male, football, /r/RelatedTo, 1
+schoolboy, mess, /r/RelatedTo, 1
+schoolboy, other, /r/RelatedTo, 1
+schoolboy, kids, /r/RelatedTo, 1
+schoolboy, toys, /r/RelatedTo, 1
+engineer, ne, /r/RelatedTo, 1
+engineer, things, /r/RelatedTo, 1
+engineer, perfect, /r/RelatedTo, 1
+engineer, first, /r/RelatedTo, 1
+engineer, time, /r/RelatedTo, 1
+schoolboy, life, /r/RelatedTo, 1
+schoolboy, hard, /r/RelatedTo, 1
+plumber, last, /r/RelatedTo, 1
+plumber, hour, /r/RelatedTo, 1
+plumber, shower, /r/RelatedTo, 1
+plumber, drain, /r/RelatedTo, 1
+manager, rude, /r/RelatedTo, 1
+gentlemen, great, /r/RelatedTo, 1
+guitarist, drugs, /r/RelatedTo, 2
+guitarist, job, /r/RelatedTo, 1
+African, afro, /r/RelatedTo, 1
+African, beard, /r/RelatedTo, 1
+historian, students, /r/RelatedTo, 1
+historian, asleep, /r/RelatedTo, 1
+historian, previous, /r/RelatedTo, 1
+historian, seminar, /r/RelatedTo, 1
+historian, roman, /r/RelatedTo, 1
+historian, politics, /r/RelatedTo, 1
+historian, s, /r/RelatedTo, 1
+Ukrainian, patience, /r/RelatedTo, 1
+guitarist, st, /r/RelatedTo, 1
+guitarist, instrument, /r/RelatedTo, 1
+plumber, long, /r/RelatedTo, 1
+plumber, shift, /r/RelatedTo, 1
+Eriteria, black, /r/RelatedTo, 1
+historian, bearded, /r/RelatedTo, 1
+historian, w, /r/RelatedTo, 1
+historian, expert, /r/RelatedTo, 1
+historian, history, /r/RelatedTo, 2
+historian, paper, /r/RelatedTo, 1
+Persian people, bride, /r/RelatedTo, 1
+Persian people, groom, /r/RelatedTo, 1
+Persian people, same, /r/RelatedTo, 1
+Persian people, race, /r/RelatedTo, 2
+Persian people, own, /r/RelatedTo, 1
+Bengali, zoo, /r/RelatedTo, 1
+football player, fraternity, /r/RelatedTo, 1
+football player, business, /r/RelatedTo, 1
+male, heavy, /r/RelatedTo, 1
+male, box, /r/RelatedTo, 1
+male, books, /r/RelatedTo, 1
+Bangladesh, many, /r/RelatedTo, 1
+Bangladesh, red, /r/RelatedTo, 1
+Bangladesh, dot, /r/RelatedTo, 1
+Bangladesh, forehead, /r/RelatedTo, 1
+plumber, beer, /r/RelatedTo, 1
+manager, tough, /r/RelatedTo, 1
+gentlemen, situation, /r/RelatedTo, 1
+Yemen, violent, /r/RelatedTo, 1
+Yemen, oppressive, /r/RelatedTo, 1
+mathematician, long, /r/RelatedTo, 1
+mathematician, equations, /r/RelatedTo, 1
+mathematician, more, /r/RelatedTo, 1
+mathematician, chalk, /r/RelatedTo, 1
+mathematician, time, /r/RelatedTo, 1
+Ukrainian, hu, /r/RelatedTo, 1
+Ukrainian, national, /r/RelatedTo, 1
+Ukrainian, pride, /r/RelatedTo, 1
+Ukrainian, separation, /r/RelatedTo, 1
+nurse, dual, /r/RelatedTo, 1
+nurse, income, /r/RelatedTo, 1
+nurse, family, /r/RelatedTo, 1
+Bengali, place, /r/RelatedTo, 1
+Bengali, economy, /r/RelatedTo, 1
+himself, vain, /r/RelatedTo, 1
+mathematician, educated, /r/RelatedTo, 1
+mathematician, master, /r/RelatedTo, 1
+mathematician, degree, /r/RelatedTo, 1
+Morocco, lot, /r/RelatedTo, 1
+researcher, scientific, /r/RelatedTo, 1
+researcher, journal, /r/RelatedTo, 1
+researcher, articles, /r/RelatedTo, 1
+researcher, experiments, /r/RelatedTo, 1
+Norweigan, nasty, /r/RelatedTo, 1
+Norweigan, food, /r/RelatedTo, 1
+Norweigan, herring, /r/RelatedTo, 1
+manager, site, /r/RelatedTo, 1
+manager, call, /r/RelatedTo, 1
+manager, handy, /r/RelatedTo, 1
+grandfather, grandchildren, /r/RelatedTo, 1
+grandfather, candy, /r/RelatedTo, 1
+grandfather, daughter, /r/RelatedTo, 1
+butcher, tall, /r/RelatedTo, 2
+delivery man, uniform, /r/RelatedTo, 1
+Muslim, late, /r/RelatedTo, 1
+performing artist, many, /r/RelatedTo, 2
+performing artist, big, /r/RelatedTo, 1
+performing artist, talent, /r/RelatedTo, 1
+politician, lobby, /r/RelatedTo, 1
+Bangladesh, single, /r/RelatedTo, 1
+Bangladesh, medal, /r/RelatedTo, 1
+Yemen, environment, /r/RelatedTo, 1
+Yemen, danger, /r/RelatedTo, 1
+Yemen, violence, /r/RelatedTo, 1
+plumber, problem, /r/RelatedTo, 1
+plumber, pipe, /r/RelatedTo, 1
+Syria, ton, /r/RelatedTo, 1
+Italy, ph, /r/RelatedTo, 1
+Italy, such, /r/RelatedTo, 1
+guitarist, rubber, /r/RelatedTo, 1
+guitarist, greasy, /r/RelatedTo, 2
+guitarist, face, /r/RelatedTo, 1
+delivery man, brown, /r/RelatedTo, 1
+delivery man, shorts, /r/RelatedTo, 1
+Japanese, suicide, /r/RelatedTo, 1
+schoolboy, class, /r/RelatedTo, 1
+schoolboy, day, /r/RelatedTo, 1
+entrepreneur, white, /r/RelatedTo, 2
+entrepreneur, man, /r/RelatedTo, 2
+entrepreneur, mid, /r/RelatedTo, 1
+entrepreneur, thirties, /r/RelatedTo, 1
+entrepreneur, outs, /r/RelatedTo, 1
+entrepreneur, sense, /r/RelatedTo, 1
+entrepreneur, confidence, /r/RelatedTo, 1
+entrepreneur, med, /r/RelatedTo, 1
+Vietnam, friend, /r/RelatedTo, 1
+Vietnam, same, /r/RelatedTo, 1
+Columbian, criminals, /r/RelatedTo, 1
+plumber, situation, /r/RelatedTo, 1
+plumber, list, /r/RelatedTo, 1
+plumber, expensive, /r/RelatedTo, 2
+plumber, parts, /r/RelatedTo, 1
+plumber, costly, /r/RelatedTo, 1
+plumber, labor, /r/RelatedTo, 1
+plumber, issue, /r/RelatedTo, 1
+Jordan, strict, /r/RelatedTo, 1
+prisoner, fight, /r/RelatedTo, 1
+delivery man, middle, /r/RelatedTo, 1
+delivery man, aged, /r/RelatedTo, 1
+delivery man, flat, /r/RelatedTo, 1
+delivery man, feet, /r/RelatedTo, 1
+Persian people, much, /r/RelatedTo, 1
+Persian people, jewelry, /r/RelatedTo, 1
+politician, glad, /r/RelatedTo, 1
+politician, different, /r/RelatedTo, 1
+politician, story, /r/RelatedTo, 1
+politician, crowd, /r/RelatedTo, 1
+Eritrean, reputation, /r/RelatedTo, 1
+Eritrean, barbarians, /r/RelatedTo, 1
+Ecuador, american, /r/RelatedTo, 1
+Ecuador, tourists, /r/RelatedTo, 1
+assistant, worker, /r/RelatedTo, 1
+assistant, career, /r/RelatedTo, 1
+assistant, school, /r/RelatedTo, 1
+assistant, experience, /r/RelatedTo, 1
+historian, concerned, /r/RelatedTo, 1
+historian, past, /r/RelatedTo, 1
+historian, present, /r/RelatedTo, 1
+schoolboy, many, /r/RelatedTo, 1
+schoolboy, children, /r/RelatedTo, 1
+schoolboy, homework, /r/RelatedTo, 1
+chemist, quiet, /r/RelatedTo, 1
+Spain, full, /r/RelatedTo, 1
+Spain, culture, /r/RelatedTo, 1
+Spain, great, /r/RelatedTo, 1
+Spain, food, /r/RelatedTo, 1
+Eriteria, religion, /r/RelatedTo, 1
+grandfather, computer, /r/RelatedTo, 1
+Morocco, moroccan, /r/RelatedTo, 1
+Morocco, desert, /r/RelatedTo, 1
+Morocco, no, /r/RelatedTo, 1
+researcher, boring, /r/RelatedTo, 1
+Columbian, involved, /r/RelatedTo, 1
+Columbian, trafficking, /r/RelatedTo, 1
+Ukrainian, family, /r/RelatedTo, 1
+Ukrainian, money, /r/RelatedTo, 1
+Syria, sand, /r/RelatedTo, 1
+Syria, desert, /r/RelatedTo, 1
+assistant, pun, /r/RelatedTo, 1
+football player, off, /r/RelatedTo, 1
+football player, season, /r/RelatedTo, 1
+Eritrean, car, /r/RelatedTo, 1
+commander, stern, /r/RelatedTo, 1
+commander, patriotic, /r/RelatedTo, 1
+prisoner, guard, /r/RelatedTo, 2
+Iraq, many, /r/RelatedTo, 4
+Yemen, civil, /r/RelatedTo, 1
+Yemen, unrest, /r/RelatedTo, 1
+Yemen, years, /r/RelatedTo, 1
+assistant, tall, /r/RelatedTo, 1
+assistant, beautiful, /r/RelatedTo, 1
+Bengali, sanitation, /r/RelatedTo, 1
+Bengali, issues, /r/RelatedTo, 1
+Bengali, country, /r/RelatedTo, 2
+historian, long, /r/RelatedTo, 1
+historian, hours, /r/RelatedTo, 1
+historian, research, /r/RelatedTo, 1
+Lebanon, worried, /r/RelatedTo, 1
+Lebanon, religious, /r/RelatedTo, 1
+historian, intelligent, /r/RelatedTo, 2
+historian, quiet, /r/RelatedTo, 1
+historian, man, /r/RelatedTo, 1
+Vietnam, chinese, /r/RelatedTo, 1
+Vietnam, communists, /r/RelatedTo, 1
+Jordan, worried, /r/RelatedTo, 1
+Columbian, dealer, /r/RelatedTo, 1
+Columbian, weapons, /r/RelatedTo, 1
+himself, little, /r/RelatedTo, 1
+himself, food, /r/RelatedTo, 1
+himself, refrigerator, /r/RelatedTo, 1
+himself, posters, /r/RelatedTo, 1
+himself, wall, /r/RelatedTo, 1
+assistant, calendar, /r/RelatedTo, 1
+assistant, times, /r/RelatedTo, 1
+assistant, flirt, /r/RelatedTo, 1
+assistant, perfume, /r/RelatedTo, 1
+chemist, thick, /r/RelatedTo, 1
+chemist, smart, /r/RelatedTo, 1
+mathematician, skinny, /r/RelatedTo, 1
+mathematician, sc, /r/RelatedTo, 1
+Syria, rap, /r/RelatedTo, 1
+assistant, hot, /r/RelatedTo, 1
+Bible, own, /r/RelatedTo, 1
+Bible, sick, /r/RelatedTo, 1
+Bible, agenda, /r/RelatedTo, 1
+butcher, disgusting, /r/RelatedTo, 1
+plumber, clothes, /r/RelatedTo, 1
+software developer, lonely, /r/RelatedTo, 1
+software developer, ne, /r/RelatedTo, 2
+Italy, sex, /r/RelatedTo, 1
+Italy, flirt, /r/RelatedTo, 1
+bartender, cynical, /r/RelatedTo, 1
+bartender, guy, /r/RelatedTo, 2
+bartender, years, /r/RelatedTo, 1
+bartender, saloon, /r/RelatedTo, 1
+male, row, /r/RelatedTo, 1
+Arab, rude, /r/RelatedTo, 1
+Arab, comments, /r/RelatedTo, 1
+male, successful, /r/RelatedTo, 1
+male, mechanic, /r/RelatedTo, 1
+Iraq, terrorists, /r/RelatedTo, 1
+sister, family, /r/RelatedTo, 1
+sister, loyalty, /r/RelatedTo, 1
+sister, care, /r/RelatedTo, 1
+Yemen, woman, /r/RelatedTo, 1
+Jordan, woman, /r/RelatedTo, 1
+Jordan, robe, /r/RelatedTo, 1
+Jordan, eye, /r/RelatedTo, 1
+Jordan, contact, /r/RelatedTo, 1
+Norway, region, /r/RelatedTo, 1
+Norway, fish, /r/RelatedTo, 1
+Lebanon, lebanese, /r/RelatedTo, 2
+Lebanon, poor, /r/RelatedTo, 1
+Lebanon, material, /r/RelatedTo, 1
+Lebanon, possessions, /r/RelatedTo, 1
+Persian people, dark, /r/RelatedTo, 1
+Persian people, hair, /r/RelatedTo, 1
+Persian people, bright, /r/RelatedTo, 1
+Persian people, clothes, /r/RelatedTo, 1
+Morocco, most, /r/RelatedTo, 1
+Morocco, time, /r/RelatedTo, 1
+Morocco, deserts, /r/RelatedTo, 1
+Sierra Leon, loud, /r/RelatedTo, 1
+Sierra Leon, music, /r/RelatedTo, 1
+prosecutor, sneak, /r/RelatedTo, 1
+prosecutor, men, /r/RelatedTo, 2
+Bible, women, /r/RelatedTo, 1
+Norweigan, area, /r/RelatedTo, 1
+himself, way, /r/RelatedTo, 1
+performing artist, liberal, /r/RelatedTo, 1
+performing artist, parties, /r/RelatedTo, 1
+Ukrainian, smart, /r/RelatedTo, 1
+delivery man, rushed, /r/RelatedTo, 1
+delivery man, doorstep, /r/RelatedTo, 1
+producer, roles, /r/RelatedTo, 1
+producer, sexual, /r/RelatedTo, 1
+producer, favors, /r/RelatedTo, 1
+Norway, terrain, /r/RelatedTo, 1
+Norway, many, /r/RelatedTo, 2
+Norway, waterfalls, /r/RelatedTo, 1
+Norway, rocks, /r/RelatedTo, 1
+Japanese, camera, /r/RelatedTo, 1
+Japanese, ready, /r/RelatedTo, 1
+Japanese, round, /r/RelatedTo, 1
+Japanese, golf, /r/RelatedTo, 1
+male, energetic, /r/RelatedTo, 1
+male, creature, /r/RelatedTo, 1
+nurse, hot, /r/RelatedTo, 1
+nurse, broad, /r/RelatedTo, 1
+nurse, deck, /r/RelatedTo, 1
+nurse, white, /r/RelatedTo, 1
+nurse, big, /r/RelatedTo, 1
+nurse, biceps, /r/RelatedTo, 1
+Bengali, dark, /r/RelatedTo, 1
+Bengali, skinned, /r/RelatedTo, 1
+Bengali, quiet, /r/RelatedTo, 1
+historian, tall, /r/RelatedTo, 1
+historian, graceful, /r/RelatedTo, 1
+historian, upper, /r/RelatedTo, 1
+historian, class, /r/RelatedTo, 1
+historian, woman, /r/RelatedTo, 1
+historian, pre, /r/RelatedTo, 1
+historian, attitude, /r/RelatedTo, 1
+Bible, hand, /r/RelatedTo, 1
+Bible, entries, /r/RelatedTo, 1
+Bible, relatives, /r/RelatedTo, 1
+Bible, vital, /r/RelatedTo, 1
+Bible, information, /r/RelatedTo, 1
+Norweigan, st, /r/RelatedTo, 1
+guitarist, shower, /r/RelatedTo, 1
+guitarist, days, /r/RelatedTo, 1
+Muslim, woman, /r/RelatedTo, 1
+Muslim, driver, /r/RelatedTo, 1
+Muslim, license, /r/RelatedTo, 1
+prosecutor, law, /r/RelatedTo, 2
+prosecutor, school, /r/RelatedTo, 1
+Britain, relatives, /r/RelatedTo, 1
+Britain, ancestors, /r/RelatedTo, 1
+Bangladesh, exotic, /r/RelatedTo, 1
+Bangladesh, scared, /r/RelatedTo, 1
+Norway, men, /r/RelatedTo, 1
+Persian people, stand, /r/RelatedTo, 1
+Persian people, questions, /r/RelatedTo, 1
+Persian people, hate, /r/RelatedTo, 1
+commander, intimidating, /r/RelatedTo, 1
+commander, look, /r/RelatedTo, 1
+Saudi Arabian, unhappy, /r/RelatedTo, 1
+Saudi Arabian, woman, /r/RelatedTo, 1
+Saudi Arabian, clothing, /r/RelatedTo, 1
+Saudi Arabian, husband, /r/RelatedTo, 1
+Persian people, wealthy, /r/RelatedTo, 1
+Persian people, hairy, /r/RelatedTo, 1
+Persian people, smell, /r/RelatedTo, 1
+Norweigan, winter, /r/RelatedTo, 1
+Bible, violent, /r/RelatedTo, 1
+Japanese, polite, /r/RelatedTo, 1
+Japanese, respectful, /r/RelatedTo, 1
+producer, director, /r/RelatedTo, 1
+producer, project, /r/RelatedTo, 1
+software developer, software, /r/RelatedTo, 2
+software developer, boring, /r/RelatedTo, 1
+software developer, dull, /r/RelatedTo, 1
+prosecutor, black, /r/RelatedTo, 1
+prosecutor, jail, /r/RelatedTo, 1
+Ecuador, humid, /r/RelatedTo, 1
+male, stronger, /r/RelatedTo, 1
+male, role, /r/RelatedTo, 1
+male, living, /r/RelatedTo, 1
+Somalia, danger, /r/RelatedTo, 1
+African, runners, /r/RelatedTo, 1
+prosecutor, plea, /r/RelatedTo, 1
+prosecutor, deals, /r/RelatedTo, 1
+prosecutor, defendants, /r/RelatedTo, 1
+Columbian, fan, /r/RelatedTo, 1
+Columbian, soccer, /r/RelatedTo, 2
+Columbian, only, /r/RelatedTo, 1
+Columbian, thing, /r/RelatedTo, 1
+Columbian, hard, /r/RelatedTo, 1
+Columbian, television, /r/RelatedTo, 1
+sister, parents, /r/RelatedTo, 1
+sister, safety, /r/RelatedTo, 1
+Spain, day, /r/RelatedTo, 1
+Spain, sun, /r/RelatedTo, 1
+Iranian, rich, /r/RelatedTo, 1
+Iranian, expensive, /r/RelatedTo, 1
+Iranian, vehicles, /r/RelatedTo, 1
+Jordan, many, /r/RelatedTo, 1
+Jordan, big, /r/RelatedTo, 1
+Jordan, desert, /r/RelatedTo, 1
+researcher, time, /r/RelatedTo, 1
+Eritrean, food, /r/RelatedTo, 2
+Eritrean, spicy, /r/RelatedTo, 1
+prosecutor, fake, /r/RelatedTo, 2
+prosecutor, neck, /r/RelatedTo, 1
+prosecutor, brace, /r/RelatedTo, 1
+prosecutor, arm, /r/RelatedTo, 1
+prosecutor, cast, /r/RelatedTo, 1
+Bengali, communist, /r/RelatedTo, 1
+Bangladesh, countries, /r/RelatedTo, 1
+Bangladesh, over, /r/RelatedTo, 1
+football player, bumps, /r/RelatedTo, 1
+football player, head, /r/RelatedTo, 1
+nurse, skinny, /r/RelatedTo, 1
+nurse, gym, /r/RelatedTo, 1
+nurse, work, /r/RelatedTo, 1
+mathematician, mad, /r/RelatedTo, 1
+mathematician, scientist, /r/RelatedTo, 1
+Norweigan, fishermen, /r/RelatedTo, 1
+male, big, /r/RelatedTo, 1
+male, muscular, /r/RelatedTo, 1
+historian, sure, /r/RelatedTo, 1
+historian, plenty, /r/RelatedTo, 1
+historian, time, /r/RelatedTo, 1
+historian, hands, /r/RelatedTo, 1
+historian, social, /r/RelatedTo, 1
+historian, life, /r/RelatedTo, 1
+Morocco, aromatic, /r/RelatedTo, 1
+Morocco, spicy, /r/RelatedTo, 1
+delivery man, fast, /r/RelatedTo, 1
+delivery man, deliveries, /r/RelatedTo, 1
+Yemen, poor, /r/RelatedTo, 2
+Yemen, impoverished, /r/RelatedTo, 1
+Yemen, area, /r/RelatedTo, 1
+Yemen, rich, /r/RelatedTo, 1
+Yemen, cars, /r/RelatedTo, 1
+Morocco, weather, /r/RelatedTo, 1
+Morocco, warm, /r/RelatedTo, 1
+Morocco, pleasant, /r/RelatedTo, 1
+gentlemen, chair, /r/RelatedTo, 1
+prosecutor, organized, /r/RelatedTo, 1
+Italy, lazy, /r/RelatedTo, 1
+Brahmin, poor, /r/RelatedTo, 2
+Persian people, iranian, /r/RelatedTo, 1
+Persian people, war, /r/RelatedTo, 1
+Iraq, outsiders, /r/RelatedTo, 1
+politician, opinion, /r/RelatedTo, 1
+politician, individual, /r/RelatedTo, 1
+Iranian, other, /r/RelatedTo, 1
+Iranian, developed, /r/RelatedTo, 1
+Iranian, nations, /r/RelatedTo, 1
+Iranian, sand, /r/RelatedTo, 1
+Iranian, oil, /r/RelatedTo, 1
+Iranian, production, /r/RelatedTo, 1
+Ukrainian, civil, /r/RelatedTo, 1
+Ukrainian, war, /r/RelatedTo, 1
+Japanese, fu, /r/RelatedTo, 1
+Ecuador, thin, /r/RelatedTo, 1
+Ecuador, day, /r/RelatedTo, 1
+Ecuador, fiance, /r/RelatedTo, 1
+Syria, violent, /r/RelatedTo, 2
+Muslim, threats, /r/RelatedTo, 1
+software developer, developing, /r/RelatedTo, 1
+software developer, isolated, /r/RelatedTo, 1
+software developer, person, /r/RelatedTo, 1
+software developer, job, /r/RelatedTo, 1
+software developer, minimal, /r/RelatedTo, 1
+software developer, inter, /r/RelatedTo, 1
+Eriteria, police, /r/RelatedTo, 1
+Eriteria, crooked, /r/RelatedTo, 1
+Eriteria, mean, /r/RelatedTo, 1
+prosecutor, calculating, /r/RelatedTo, 1
+politician, advantage, /r/RelatedTo, 1
+prosecutor, bad, /r/RelatedTo, 1
+prosecutor, deeds, /r/RelatedTo, 1
+bartender, shots, /r/RelatedTo, 1
+Eritrean, savage, /r/RelatedTo, 1
+prisoner, knife, /r/RelatedTo, 1
+prisoner, sandwich, /r/RelatedTo, 1
+African, big, /r/RelatedTo, 1
+African, bu, /r/RelatedTo, 1
+African, guys, /r/RelatedTo, 1
+African, tests, /r/RelatedTo, 1
+African, sports, /r/RelatedTo, 1
+African, basketball, /r/RelatedTo, 1
+Italy, citizens, /r/RelatedTo, 1
+Italy, loud, /r/RelatedTo, 1
+Eriteria, wide, /r/RelatedTo, 1
+Eriteria, cities, /r/RelatedTo, 1
+Vietnam, entire, /r/RelatedTo, 1
+Vietnam, family, /r/RelatedTo, 1
+Vietnam, devout, /r/RelatedTo, 1
+sister, pretty, /r/RelatedTo, 1
+sister, sweet, /r/RelatedTo, 1
+prisoner, tattooed, /r/RelatedTo, 1
+prisoner, criminal, /r/RelatedTo, 1
+Jordan, monarchy, /r/RelatedTo, 1
+Jordan, breeding, /r/RelatedTo, 1
+Jordan, ground, /r/RelatedTo, 1
+Jordan, terrorists, /r/RelatedTo, 2
+manager, real, /r/RelatedTo, 1
+manager, stick, /r/RelatedTo, 2
+manager, mud, /r/RelatedTo, 1
+schoolboy, qualities, /r/RelatedTo, 1
+schoolboy, immature, /r/RelatedTo, 2
+gentlemen, ties, /r/RelatedTo, 1
+researcher, vale, /r/RelatedTo, 1
+researcher, high, /r/RelatedTo, 1
+researcher, school, /r/RelatedTo, 1
+researcher, college, /r/RelatedTo, 1
+researcher, sum, /r/RelatedTo, 1
+Syria, dusty, /r/RelatedTo, 1
+Syria, parc, /r/RelatedTo, 1
+Iraq, islamic, /r/RelatedTo, 1
+Iraq, ex, /r/RelatedTo, 1
+Lebanon, terrorist, /r/RelatedTo, 1
+Brahmin, hindu, /r/RelatedTo, 1
+Yemen, kind, /r/RelatedTo, 1
+Yemen, beef, /r/RelatedTo, 1
+Yemen, saudi, /r/RelatedTo, 1
+Yemen, arabian, /r/RelatedTo, 1
+Arab, ne, /r/RelatedTo, 1
+gentlemen, good, /r/RelatedTo, 1
+Lebanon, violent, /r/RelatedTo, 1
+policeman, innocent, /r/RelatedTo, 1
+Spain, last, /r/RelatedTo, 1
+Spain, year, /r/RelatedTo, 1
+Spain, time, /r/RelatedTo, 1
+Muslim, brain, /r/RelatedTo, 1
+Muslim, other, /r/RelatedTo, 1
+plumber, chances, /r/RelatedTo, 1
+plumber, guy, /r/RelatedTo, 1
+Brahmin, lot, /r/RelatedTo, 1
+Brahmin, famous, /r/RelatedTo, 1
+Brahmin, hand, /r/RelatedTo, 1
+chemist, social, /r/RelatedTo, 1
+chemist, lives, /r/RelatedTo, 1
+entrepreneur, friends, /r/RelatedTo, 1
+football player, guys, /r/RelatedTo, 1
+football player, cute, /r/RelatedTo, 1
+Iraq, kids, /r/RelatedTo, 1
+Columbian, immigrants, /r/RelatedTo, 1
+Columbian, areas, /r/RelatedTo, 1
+Columbian, such, /r/RelatedTo, 1
+Columbian, construction, /r/RelatedTo, 1
+Eritrean, country, /r/RelatedTo, 1
+Lebanon, breeding, /r/RelatedTo, 1
+Lebanon, ground, /r/RelatedTo, 1
+Lebanon, ex, /r/RelatedTo, 1
+Jordan, unfortunate, /r/RelatedTo, 1
+Jordan, county, /r/RelatedTo, 1
+Jordan, violent, /r/RelatedTo, 1
+butcher, edges, /r/RelatedTo, 1
+butcher, local, /r/RelatedTo, 1
+butcher, aggressive, /r/RelatedTo, 1
+butcher, cruel, /r/RelatedTo, 1
+assistant, most, /r/RelatedTo, 1
+assistant, mean, /r/RelatedTo, 1
+Norweigan, win, /r/RelatedTo, 1
+Norweigan, conditions, /r/RelatedTo, 1
+Norweigan, skiing, /r/RelatedTo, 1
+Norweigan, national, /r/RelatedTo, 1
+Norweigan, past, /r/RelatedTo, 1
+bartender, funny, /r/RelatedTo, 1
+gentlemen, playground, /r/RelatedTo, 1
+gentlemen, children, /r/RelatedTo, 1
+African, lot, /r/RelatedTo, 1
+African, things, /r/RelatedTo, 1
+African, eighties, /r/RelatedTo, 1
+Britain, cr, /r/RelatedTo, 1
+Britain, coffee, /r/RelatedTo, 1
+Lebanon, gay, /r/RelatedTo, 1
+Arab, building, /r/RelatedTo, 1
+mommy, son, /r/RelatedTo, 1
+mommy, daughter, /r/RelatedTo, 1
+mommy, family, /r/RelatedTo, 1
+mommy, father, /r/RelatedTo, 1
+Bengali, pseudo, /r/RelatedTo, 1
+Bengali, intellectuals, /r/RelatedTo, 1
+performing artist, talents, /r/RelatedTo, 1
+entrepreneur, most, /r/RelatedTo, 1
+entrepreneur, kinds, /r/RelatedTo, 1
+entrepreneur, ideas, /r/RelatedTo, 1
+Norweigan, men, /r/RelatedTo, 1
+Norweigan, crazy, /r/RelatedTo, 1
+Norweigan, combination, /r/RelatedTo, 1
+Norweigan, beautiful, /r/RelatedTo, 1
+Norweigan, sexy, /r/RelatedTo, 1
+Norweigan, rosy, /r/RelatedTo, 1
+Norweigan, red, /r/RelatedTo, 1
+Norweigan, lips, /r/RelatedTo, 1
+Iraq, hi, /r/RelatedTo, 1
+Iraq, small, /r/RelatedTo, 1
+Iraq, minority, /r/RelatedTo, 1
+Iraq, militant, /r/RelatedTo, 1
+mathematician, letters, /r/RelatedTo, 1
+guitarist, songs, /r/RelatedTo, 1
+guitarist, day, /r/RelatedTo, 1
+grandfather, cold, /r/RelatedTo, 1
+grandfather, house, /r/RelatedTo, 1
+grandfather, hot, /r/RelatedTo, 1
+grandfather, summer, /r/RelatedTo, 1
+Arab, eastern, /r/RelatedTo, 1
+Arab, driver, /r/RelatedTo, 1
+Arab, home, /r/RelatedTo, 1
+Arab, country, /r/RelatedTo, 1
+Arab, involved, /r/RelatedTo, 1
+Arab, terrorism, /r/RelatedTo, 1
+delivery man, amazing, /r/RelatedTo, 1
+delivery man, ph, /r/RelatedTo, 1
+gentlemen, days, /r/RelatedTo, 1
+Norway, high, /r/RelatedTo, 2
+Norway, level, /r/RelatedTo, 1
+Norway, attractive, /r/RelatedTo, 1
+Sierra Leon, worried, /r/RelatedTo, 1
+researcher, bias, /r/RelatedTo, 1
+researcher, own, /r/RelatedTo, 1
+researcher, views, /r/RelatedTo, 1
+producer, hard, /r/RelatedTo, 1
+producer, worker, /r/RelatedTo, 1
+producer, perfection, /r/RelatedTo, 1
+prisoner, surprised, /r/RelatedTo, 1
+prisoner, federal, /r/RelatedTo, 1
+prisoner, institution, /r/RelatedTo, 1
+prisoner, thugs, /r/RelatedTo, 1
+guitarist, high, /r/RelatedTo, 1
+politician, corrupt, /r/RelatedTo, 1
+Arab, manager, /r/RelatedTo, 1
+Arab, local, /r/RelatedTo, 1
+Persian people, olive, /r/RelatedTo, 1
+prosecutor, old, /r/RelatedTo, 1
+prosecutor, white, /r/RelatedTo, 1
+Norway, locals, /r/RelatedTo, 1
+Norway, proud, /r/RelatedTo, 1
+Norway, heritage, /r/RelatedTo, 1
+Jordan, other, /r/RelatedTo, 1
+grandfather, days, /r/RelatedTo, 1
+grandfather, rec, /r/RelatedTo, 2
+bartender, chat, /r/RelatedTo, 1
+bartender, ami, /r/RelatedTo, 1
+bartender, patrons, /r/RelatedTo, 1
+engineer, wealthy, /r/RelatedTo, 1
+engineer, careers, /r/RelatedTo, 1
+Morocco, standards, /r/RelatedTo, 1
+Morocco, living, /r/RelatedTo, 1
+grandfather, living, /r/RelatedTo, 1
+grandfather, room, /r/RelatedTo, 1
+engineer, girls, /r/RelatedTo, 1
+engineer, high, /r/RelatedTo, 1
+engineer, salary, /r/RelatedTo, 1
+Somalia, others, /r/RelatedTo, 1
+Spain, running, /r/RelatedTo, 1
+Spain, obsessed, /r/RelatedTo, 1
+Spain, mach, /r/RelatedTo, 1
+delivery man, bar, /r/RelatedTo, 1
+delivery man, night, /r/RelatedTo, 1
+Muslim, terrorism, /r/RelatedTo, 1
+Norway, strong, /r/RelatedTo, 1
+Norway, looking, /r/RelatedTo, 1
+nurse, attractive, /r/RelatedTo, 1
+nurse, young, /r/RelatedTo, 1
+nurse, woman, /r/RelatedTo, 2
+Britain, obsessed, /r/RelatedTo, 1
+Syria, terrorist, /r/RelatedTo, 1
+Syria, corner, /r/RelatedTo, 1
+Syria, baby, /r/RelatedTo, 1
+Syria, killers, /r/RelatedTo, 1
+schoolboy, idiots, /r/RelatedTo, 1
+Persian people, girl, /r/RelatedTo, 1
+schoolboy, good, /r/RelatedTo, 1
+schoolboy, science, /r/RelatedTo, 1
+Persian people, bunch, /r/RelatedTo, 1
+Persian people, gold, /r/RelatedTo, 1
+Persian people, accessories, /r/RelatedTo, 1
+gentlemen, drunk, /r/RelatedTo, 1
+gentlemen, idiots, /r/RelatedTo, 1
+bartender, cigarette, /r/RelatedTo, 1
+grandfather, many, /r/RelatedTo, 2
+grandfather, dec, /r/RelatedTo, 1
+grandfather, assistance, /r/RelatedTo, 1
+Bangladesh, odd, /r/RelatedTo, 1
+Bangladesh, bad, /r/RelatedTo, 1
+Bangladesh, hygiene, /r/RelatedTo, 1
+software developer, company, /r/RelatedTo, 1
+software developer, best, /r/RelatedTo, 1
+software developer, performer, /r/RelatedTo, 1
+politician, cl, /r/RelatedTo, 1
+Iranian, opposite, /r/RelatedTo, 1
+Eritrean, ethiopian, /r/RelatedTo, 1
+Eritrean, homeland, /r/RelatedTo, 1
+Eritrean, independence, /r/RelatedTo, 1
+Columbian, order, /r/RelatedTo, 1
+Somalia, white, /r/RelatedTo, 1
+butcher, bigger, /r/RelatedTo, 1
+butcher, last, /r/RelatedTo, 1
+butcher, time, /r/RelatedTo, 1
+Bible, inspiration, /r/RelatedTo, 1
+Lebanon, same, /r/RelatedTo, 1
+Lebanon, dishes, /r/RelatedTo, 1
+Iranian, bad, /r/RelatedTo, 1
+Iranian, face, /r/RelatedTo, 1
+Iranian, dirty, /r/RelatedTo, 1
+football player, big, /r/RelatedTo, 1
+policeman, law, /r/RelatedTo, 1
+prisoner, chance, /r/RelatedTo, 1
+bartender, alcohol, /r/RelatedTo, 1
+bartender, breath, /r/RelatedTo, 1
+African, afraid, /r/RelatedTo, 1
+African, cuisine, /r/RelatedTo, 1
+Norweigan, skin, /r/RelatedTo, 1
+Arab, jewish, /r/RelatedTo, 1
+Bible, sinn, /r/RelatedTo, 1
+Bangladesh, ignorance, /r/RelatedTo, 1
+Bangladesh, poverty, /r/RelatedTo, 1
+policeman, speeding, /r/RelatedTo, 1
+chemist, big, /r/RelatedTo, 1
+chemist, apron, /r/RelatedTo, 1
+butcher, bloody, /r/RelatedTo, 1
+butcher, hands, /r/RelatedTo, 1
+butcher, work, /r/RelatedTo, 1
+butcher, clothes, /r/RelatedTo, 1
+manager, lot, /r/RelatedTo, 1
+manager, tasks, /r/RelatedTo, 1
+African, meeting, /r/RelatedTo, 1
+chemist, fed, /r/RelatedTo, 1
+chemist, evening, /r/RelatedTo, 1
+chemist, stuff, /r/RelatedTo, 1
+chemist, kids, /r/RelatedTo, 1
+chemist, bad, /r/RelatedTo, 1
+plumber, cracks, /r/RelatedTo, 1
+Syria, news, /r/RelatedTo, 1
+Syria, lot, /r/RelatedTo, 2
+Syria, government, /r/RelatedTo, 1
+Saudi Arabian, oil, /r/RelatedTo, 1
+Brahmin, arrogant, /r/RelatedTo, 1
+Brahmin, indifferent, /r/RelatedTo, 1
+Brahmin, plight, /r/RelatedTo, 1
+performing artist, several, /r/RelatedTo, 1
+performing artist, hours, /r/RelatedTo, 1
+guitarist, hip, /r/RelatedTo, 1
+guitarist, sister, /r/RelatedTo, 1
+guitarist, wedding, /r/RelatedTo, 1
+prisoner, trouble, /r/RelatedTo, 1
+producer, judgement, /r/RelatedTo, 1
+producer, quality, /r/RelatedTo, 1
+producer, product, /r/RelatedTo, 1
+plumber, amount, /r/RelatedTo, 1
+plumber, work, /r/RelatedTo, 1
+Columbian, dealers, /r/RelatedTo, 1
+Saudi Arabian, camel, /r/RelatedTo, 1
+Saudi Arabian, cats, /r/RelatedTo, 1
+delivery man, camera, /r/RelatedTo, 1
+delivery man, peoples, /r/RelatedTo, 1
+Yemen, islamic, /r/RelatedTo, 1
+sister, noisy, /r/RelatedTo, 1
+sister, ob, /r/RelatedTo, 1
+Italy, lots, /r/RelatedTo, 1
+Italy, wine, /r/RelatedTo, 1
+mathematician, huge, /r/RelatedTo, 1
+mathematician, school, /r/RelatedTo, 1
+software developer, draft, /r/RelatedTo, 1
+software developer, program, /r/RelatedTo, 1
+software developer, errors, /r/RelatedTo, 1
+manager, year, /r/RelatedTo, 1
+software developer, type, /r/RelatedTo, 1
+software developer, surprised, /r/RelatedTo, 1
+engineer, grades, /r/RelatedTo, 1
+engineer, school, /r/RelatedTo, 1
+schoolboy, ram, /r/RelatedTo, 1
+schoolboy, friends, /r/RelatedTo, 1
+nurse, older, /r/RelatedTo, 1
+nurse, fuss, /r/RelatedTo, 1
+manager, full, /r/RelatedTo, 1
+bartender, stories, /r/RelatedTo, 1
+delivery man, many, /r/RelatedTo, 1
+Spain, men, /r/RelatedTo, 1
+software developer, quiet, /r/RelatedTo, 1
+grandfather, cue, /r/RelatedTo, 1
+grandfather, era, /r/RelatedTo, 1
+grandfather, penny, /r/RelatedTo, 1
+grandfather, pinch, /r/RelatedTo, 1
+Columbian, types, /r/RelatedTo, 1
+Columbian, beans, /r/RelatedTo, 1
+Columbian, expensive, /r/RelatedTo, 1
+gentlemen, faithful, /r/RelatedTo, 1
+gentlemen, wives, /r/RelatedTo, 1
+gentlemen, house, /r/RelatedTo, 1
+Brahmin, african, /r/RelatedTo, 1
+chemist, awkward, /r/RelatedTo, 1
+chemist, good, /r/RelatedTo, 1
+chemist, work, /r/RelatedTo, 1
+grandfather, older, /r/RelatedTo, 1
+grandfather, rest, /r/RelatedTo, 1
+grandfather, family, /r/RelatedTo, 1
+himself, book, /r/RelatedTo, 1
+himself, smart, /r/RelatedTo, 1
+manager, busy, /r/RelatedTo, 1
+manager, task, /r/RelatedTo, 1
+mommy, good, /r/RelatedTo, 1
+mommy, wife, /r/RelatedTo, 1
+mommy, dad, /r/RelatedTo, 1
+mommy, return, /r/RelatedTo, 1
+Muslim, brother, /r/RelatedTo, 1
+Muslim, name, /r/RelatedTo, 1
+butcher, feelings, /r/RelatedTo, 1
+Jordan, dictatorship, /r/RelatedTo, 1
+Somalia, bad, /r/RelatedTo, 1
+Somalia, area, /r/RelatedTo, 1
+Somalia, lots, /r/RelatedTo, 1
+Saudi Arabian, mis, /r/RelatedTo, 1
+Saudi Arabian, into, /r/RelatedTo, 1
+Norway, levels, /r/RelatedTo, 1
+Norway, depression, /r/RelatedTo, 1
+Norway, lack, /r/RelatedTo, 1
+Norway, sunlight, /r/RelatedTo, 1
+engineer, black, /r/RelatedTo, 1
+engineer, woman, /r/RelatedTo, 1
+engineer, poor, /r/RelatedTo, 1
+engineer, grammar, /r/RelatedTo, 1
+producer, corrupt, /r/RelatedTo, 1
+producer, slim, /r/RelatedTo, 1
+producer, person, /r/RelatedTo, 1
+Britain, sc, /r/RelatedTo, 1
+chemist, intro, /r/RelatedTo, 1
+Italy, welcoming, /r/RelatedTo, 1
+Italy, supportive, /r/RelatedTo, 1
+policeman, aggressive, /r/RelatedTo, 1
+policeman, angry, /r/RelatedTo, 1
+software developer, code, /r/RelatedTo, 1
+software developer, colored, /r/RelatedTo, 1
+software developer, text, /r/RelatedTo, 1
+Yemen, hot, /r/RelatedTo, 1
+Yemen, dry, /r/RelatedTo, 1
+Yemen, desert, /r/RelatedTo, 1
+Britain, terrible, /r/RelatedTo, 1
+Britain, thick, /r/RelatedTo, 1
+Britain, accents, /r/RelatedTo, 1
+historian, retired, /r/RelatedTo, 1
+historian, professor, /r/RelatedTo, 1
+historian, jacket, /r/RelatedTo, 1
+historian, tie, /r/RelatedTo, 1
+Japanese, richer, /r/RelatedTo, 1
+Japanese, most, /r/RelatedTo, 1
+male, penis, /r/RelatedTo, 1
+Vietnam, parents, /r/RelatedTo, 1
+Vietnam, controlling, /r/RelatedTo, 1
+Vietnam, kids, /r/RelatedTo, 1
+mathematician, asian, /r/RelatedTo, 1
+Bangladesh, doctors, /r/RelatedTo, 1
+guitarist, covers, /r/RelatedTo, 1
+guitarist, girls, /r/RelatedTo, 1
+guitarist, voice, /r/RelatedTo, 1
+Syria, citizens, /r/RelatedTo, 1
+Syria, asylum, /r/RelatedTo, 1
+mommy, hair, /r/RelatedTo, 1
+mommy, mess, /r/RelatedTo, 1
+mommy, eyes, /r/RelatedTo, 1
+mommy, tired, /r/RelatedTo, 1
+Norweigan, exchange, /r/RelatedTo, 1
+Norweigan, student, /r/RelatedTo, 1
+Norweigan, star, /r/RelatedTo, 1
+Norweigan, art, /r/RelatedTo, 1
+Norweigan, shows, /r/RelatedTo, 1
+Norweigan, drama, /r/RelatedTo, 1
+Norweigan, performances, /r/RelatedTo, 1
+guitarist, marijuana, /r/RelatedTo, 1
+Lebanon, eclectic, /r/RelatedTo, 1
+Lebanon, flavor, /r/RelatedTo, 1
+Lebanon, mix, /r/RelatedTo, 1
+Lebanon, textures, /r/RelatedTo, 1
+Lebanon, tastes, /r/RelatedTo, 1
+Muslim, better, /r/RelatedTo, 1
+Morocco, berber, /r/RelatedTo, 1
+Morocco, arabian, /r/RelatedTo, 1
+Yemen, other, /r/RelatedTo, 1
+Yemen, countries, /r/RelatedTo, 1
+Yemen, economy, /r/RelatedTo, 1
+politician, luck, /r/RelatedTo, 1
+politician, honest, /r/RelatedTo, 1
+politician, one, /r/RelatedTo, 1
+Spain, moody, /r/RelatedTo, 1
+Spain, creative, /r/RelatedTo, 1
+Britain, poor, /r/RelatedTo, 1
+Britain, dental, /r/RelatedTo, 1
+Britain, care, /r/RelatedTo, 1
+researcher, asian, /r/RelatedTo, 1
+researcher, man, /r/RelatedTo, 1
+researcher, glasses, /r/RelatedTo, 1
+Jordan, religious, /r/RelatedTo, 1
+Jordan, extreme, /r/RelatedTo, 1
+Lebanon, emotional, /r/RelatedTo, 1
+Lebanon, responses, /r/RelatedTo, 1
+delivery man, pro, /r/RelatedTo, 1
+Syria, destruction, /r/RelatedTo, 1
+Syria, homeland, /r/RelatedTo, 1
+prisoner, many, /r/RelatedTo, 1
+prisoner, crime, /r/RelatedTo, 1
+chemist, educated, /r/RelatedTo, 1
+Japanese, cars, /r/RelatedTo, 1
+Persian people, princes, /r/RelatedTo, 1
+Persian people, s, /r/RelatedTo, 1
+Persian people, citizens, /r/RelatedTo, 1
+entrepreneur, greedy, /r/RelatedTo, 1
+entrepreneur, liar, /r/RelatedTo, 1
+entrepreneur, dish, /r/RelatedTo, 1
+Muslim, good, /r/RelatedTo, 1
+Bengali, tigers, /r/RelatedTo, 1
+Bengali, violent, /r/RelatedTo, 1
+Bengali, predatory, /r/RelatedTo, 1
+commander, trip, /r/RelatedTo, 1
+producer, many, /r/RelatedTo, 1
+producer, directors, /r/RelatedTo, 1
+butcher, many, /r/RelatedTo, 1
+Saudi Arabian, men, /r/RelatedTo, 1
+Saudi Arabian, clothes, /r/RelatedTo, 1
+Brahmin, possible, /r/RelatedTo, 1
