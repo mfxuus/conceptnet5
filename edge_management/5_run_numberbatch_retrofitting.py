@@ -4,7 +4,15 @@ from sklearn.decomposition import PCA
 
 from conceptnet5.vectors import retrofit, evaluation, formats
 
-from config import ORIGINAL_NUMBERBATCH_EN, ADDITIONAL_EDGES_CSV, ORIGINAL_NUMBERBATCH_EN_HDF, ORIGINAL_NUMBERBATCH_EN_DIM50_HDF, RETROFITTED_HDF, RETROFITTED_DIM50_HDF
+from config import (
+    ORIGINAL_NUMBERBATCH_EN,
+    ADDITIONAL_EDGES_CSV,
+    ADDITIONAL_EDGES_RETROFIT_CSV,
+    ORIGINAL_NUMBERBATCH_EN_HDF,
+    ORIGINAL_NUMBERBATCH_EN_DIM50_HDF,
+    RETROFITTED_HDF,
+    RETROFITTED_DIM50_HDF,
+)
 
 
 def create_hdf_data(reduced_dimension=False):
@@ -62,7 +70,7 @@ def apply_retrofitting(reduced_dimension, nshards=1):
     """
     dense_hdf_filename = ORIGINAL_NUMBERBATCH_EN_HDF
     #TODO: I only used additional edges
-    conceptnet_filename = ADDITIONAL_EDGES_CSV
+    conceptnet_filename = ADDITIONAL_EDGES_RETROFIT_CSV
     output_filename = RETROFITTED_HDF
 
     if reduced_dimension:
@@ -79,8 +87,8 @@ def apply_retrofitting(reduced_dimension, nshards=1):
 
 if __name__ == '__main__':
     '''
-    python 5_run_numberbatch.py
-    python 5_run_numberbatch.py --dimension50 --from-txt
+    python 5_run_numberbatch_retrofitting.py
+    python 5_run_numberbatch_retrofitting.py --dimension50 --from-txt
     '''
 
     parser = argparse.ArgumentParser()
@@ -100,6 +108,7 @@ if __name__ == '__main__':
     parser.add_argument(
         '--nshards',
         type=int,
+        default=5,
         help='Number of shards'
     )
 

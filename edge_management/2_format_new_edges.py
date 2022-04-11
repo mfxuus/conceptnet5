@@ -6,7 +6,8 @@ import argparse
 
 from config import (
     ADDITIONAL_EDGES_CSV,
-    ADDITIONAL_EDGES_INPUT
+    ADDITIONAL_EDGES_INPUT,
+    ADDITIONAL_EDGES_RETROFIT_CSV
 )
 
 from utils import rel_is_valid
@@ -59,12 +60,15 @@ def generate_new_edges(language_code=None, for_retrofit=False):
                     line_error.append('weight')
             edge_uri = f'/a/[{rel_type},{node_1}/,{node_2}/]'
             edge_data = json.dumps({'source': 'custom', 'weight': weight})
-            edges_to_write.append((
-                # edge_uri, rel_type, node_1, node_2, edge_data
 
-                # Retrofitting compatible
-                node_1, node_2, weight, 'custom', rel_type
-            ))
+            if for_retrofit:
+                edges_to_write.append((
+                    node_1, node_2, weight, 'custom', rel_type
+                ))
+            else:
+                edges_to_write.append((
+                    edge_uri, rel_type, node_1, node_2, edge_data
+                ))
             if len(line_error) > 0:
                 errors.append((line, ','.join(line_error)))
 
@@ -76,7 +80,8 @@ def generate_new_edges(language_code=None, for_retrofit=False):
         return
 
     # else we write the edges to ADDITIONAL_EDGES_CSV
-    with open(ADDITIONAL_EDGES_CSV, 'w', newline='', encoding='utf8') as csvfile:
+    out_file = ADDITIONAL_EDGES_RETROFIT_CSV if for_retrofit else ADDITIONAL_EDGES_CSV
+    with open(out_file, 'w', newline='', encoding='utf8') as csvfile:
         datawriter = csv.writer(csvfile, delimiter='\t')
         for row in edges_to_write:
             datawriter.writerow(row)

@@ -17,6 +17,7 @@ from local_config import *
 ADDITIONAL_EDGES_INPUT = os.path.join(SUBPROJECT_DIR, 'new_edges.txt')
 # where we save the new assertions (output and formatted by script)
 ADDITIONAL_EDGES_CSV = os.path.join(LOCAL_DATA_DIR, 'new_assertions.csv')
+ADDITIONAL_EDGES_RETROFIT_CSV = os.path.join(LOCAL_DATA_DIR, 'new_assertions_retrofit.csv')
 # where you've downloaded the assertions file
 ORIGINAL_CSV = os.path.join(LOCAL_DATA_DIR, 'assertions.csv')
 # ORIGINAL_NUMBERBATCH_ZIP = os.path.join(LOCAL_DATA_DIR, 'numberbatch-19.08-en.zip')
