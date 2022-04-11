@@ -17,8 +17,17 @@ from local_config import *
 ADDITIONAL_EDGES_INPUT = os.path.join(SUBPROJECT_DIR, 'new_edges.txt')
 # where we save the new assertions (output and formatted by script)
 ADDITIONAL_EDGES_CSV = os.path.join(LOCAL_DATA_DIR, 'new_assertions.csv')
+ADDITIONAL_EDGES_RETROFIT_CSV = os.path.join(LOCAL_DATA_DIR, 'new_assertions_retrofit.csv')
 # where you've downloaded the assertions file
 ORIGINAL_CSV = os.path.join(LOCAL_DATA_DIR, 'assertions.csv')
+# ORIGINAL_NUMBERBATCH_ZIP = os.path.join(LOCAL_DATA_DIR, 'numberbatch-19.08-en.zip')
+# ORIGINAL_NUMBERBATCH_DIM50_ZIP = os.path.join(LOCAL_DATA_DIR, 'numberbatch-19.08-en-pca-50.zip')
+RETROFITTED_HDF = os.path.join(LOCAL_DATA_DIR, 'retrofitted.h5')
+RETROFITTED_DIM50_HDF = os.path.join(LOCAL_DATA_DIR, 'retrofitted-pca-50.h5')
+ORIGINAL_NUMBERBATCH_EN = os.path.join(LOCAL_DATA_DIR, 'numberbatch-en.txt')
+ORIGINAL_NUMBERBATCH_EN_HDF = os.path.join(LOCAL_DATA_DIR, 'numberbatch-en.h5')
+ORIGINAL_NUMBERBATCH_EN_DIM50_HDF = os.path.join(LOCAL_DATA_DIR, 'numberbatch-en-pca-50.h5')
+
 VALID_RELATIONS = [
     '/r/Entails', '/r/Causes', '/r/Desires', '/r/dbpedia/leader',
     '/r/dbpedia/product', '/r/MadeOf', '/r/DefinedAs', '/r/HasContext',
