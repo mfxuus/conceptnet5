@@ -9,7 +9,7 @@ from conceptnet5.relations import SYMMETRIC_RELATIONS
 from conceptnet5.uri import get_uri_language, uri_prefix, uri_prefixes
 from ordered_set import OrderedSet
 
-from vectors import replace_numbers
+from ..vectors import replace_numbers
 
 
 class SparseMatrixBuilder:
@@ -52,22 +52,16 @@ def build_from_conceptnet_table(filename, orig_index=(), self_loops=True):
     """
     mat = SparseMatrixBuilder()
 
-    # print(orig_index)
     labels = OrderedSet(orig_index)
 
     totals = defaultdict(float)
     with open(str(filename), encoding='utf-8') as infile:
         for line in infile:
-            # print(line)
-            _, relation, concept1, concept2, dataset = line.strip().split('\t')
-
-            # print(dataset)
-            # value_str = json.loads(dataset).get('weight')
+            concept1, concept2, value_str, dataset, relation = line.strip().split('\t')
 
             index1 = labels.add(replace_numbers(concept1))
             index2 = labels.add(replace_numbers(concept2))
-            # value = float(value_str)
-            value = 1
+            value = float(value_str)
 
             mat[index1, index2] = value
             mat[index2, index1] = value
