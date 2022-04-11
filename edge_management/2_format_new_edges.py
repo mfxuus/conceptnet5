@@ -33,12 +33,23 @@ def generate_new_edges(language_code=None):
         for line in f:
             line_error = []
             node_1, node_2, rel_type, weight = [x.strip() for x in line.split(',')]
-            if not node_1.startswith('/c/en/'):
-                node_1 = f'/c/{language_code}/{node_1}'
-            if not node_2.startswith('/c/en/'):
-                node_2 = f'/c/{language_code}/{node_2}'
-            if not rel_is_valid(rel_type):
-                line_error.append('rel_type')
+
+            # if not node_1.startswith('/c/en/'):
+            #     node_1 = f'/c/{language_code}/{node_1}'
+            # if not node_2.startswith('/c/en/'):
+            #     node_2 = f'/c/{language_code}/{node_2}'
+            # if not rel_is_valid(rel_type):
+            #     line_error.append('rel_type')
+
+            # Retrofitting compatible
+            if rel_type.startswith('/r/'):
+                rel_type = rel_type[3:]
+            node_1 = node_1.strip().lower().replace(' ', '_')
+            node_2 = node_2.strip().lower().replace(' ', '_')
+
+            #TODO: temp rescale
+            weight = float(weight)/10.
+
             try:
                 weight = round(float(weight), 2)
             except:
@@ -46,7 +57,10 @@ def generate_new_edges(language_code=None):
             edge_uri = f'/a/[{rel_type},{node_1}/,{node_2}/]'
             edge_data = json.dumps({'source': 'custom', 'weight': weight})
             edges_to_write.append((
-                edge_uri, rel_type, node_1, node_2, edge_data
+                # edge_uri, rel_type, node_1, node_2, edge_data
+
+                # Retrofitting compatible
+                node_1, node_2, weight, 'custom', rel_type
             ))
             if len(line_error) > 0:
                 errors.append((line, ','.join(line_error)))
