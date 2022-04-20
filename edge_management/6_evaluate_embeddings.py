@@ -108,9 +108,9 @@ def analysis(reduced_dimension=False):
 
     # Word Embedding Association Test Demo
     run_weat_test(targets=GENDER,
-             attributes=DEMO_PROFESSION,
-             numberbatch_embeddings=numberbatch_df_touched,
-             retrofitted_embeddings=retrofitted_df_touched)
+                  attributes=DEMO_PROFESSION,
+                  numberbatch_embeddings=numberbatch_df_touched,
+                  retrofitted_embeddings=retrofitted_df_touched)
     # TODO: add more tests here
 
 
