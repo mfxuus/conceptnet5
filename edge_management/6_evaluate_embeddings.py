@@ -4,13 +4,21 @@ import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_distances
 
+import weat
+
 from config import (
     ORIGINAL_NUMBERBATCH_EN_HDF,
     ORIGINAL_NUMBERBATCH_EN_DIM50_HDF,
     RETROFITTED_HDF,
     RETROFITTED_DIM50_HDF,
-    ADDITIONAL_EDGES_RETROFIT_CSV
+    ADDITIONAL_EDGES_RETROFIT_CSV,
+    STEREOSET_TERMS,
 )
+
+GENDER = [t[:12] for t in STEREOSET_TERMS['gender']]  # some gender terms are not touched.
+DEMO_PROFESSION = [['ceo'], ['assistant']]
+
+# TODO: Add your own test terms here.
 
 
 def get_touched_nodes():
@@ -29,6 +37,38 @@ def load_embedding(file):
     df = pd.read_hdf(file, 'mat', encoding='utf_8')
     df = df[df.index.notnull()]
     return df
+
+
+# Word Embedding Association Test
+def get_weat_score(targets, attributes, embeddings):
+    # only get existing indices
+    targets = [embeddings.index.intersection(targets[i]) for i in range(len(targets))]
+    attributes = [embeddings.index.intersection(attributes[i]) for i in range(len(attributes))]
+
+    # TODO: (Maybe) random drop if dimension is not the same
+    # assert(len(targets[0]) == len(targets[1]))
+    # assert(len(attributes[0]) == len(attributes[1]))
+
+    target1 = embeddings.loc[targets[0]].to_numpy()
+    target2 = embeddings.loc[targets[1]].to_numpy()
+
+    attribute1 = embeddings.loc[attributes[0]].to_numpy()
+    attribute2 = embeddings.loc[attributes[1]].to_numpy()
+
+    score = weat.weat_differential_association(target1, target2, attribute1, attribute2)
+    return score
+
+# TODO: p score in the WEAT paper
+
+
+def run_weat_test(targets, attributes, numberbatch_embeddings, retrofitted_embeddings):
+    original_weat_score = get_weat_score(targets, attributes, numberbatch_embeddings)
+    retrofitted_weat_score = get_weat_score(targets, attributes, retrofitted_embeddings)
+
+    print('WEAT evaluation')
+    print(f'targets:\n {targets[0][:]}\n vs. \n {targets[1][:]}')
+    print(f'attributes:\n {attributes[0][:]}\n vs. \n {attributes[1][:]}')
+    print(f'scores:\n original: {original_weat_score}\n retrofitted: {retrofitted_weat_score}')
 
 
 def analysis(reduced_dimension=False):
@@ -65,6 +105,14 @@ def analysis(reduced_dimension=False):
     print(distance_arr[-20:])
     print('Lowest cosine_distances:')
     print(distance_arr[:20])
+
+    # Word Embedding Association Test Demo
+    run_weat_test(targets=GENDER,
+             attributes=DEMO_PROFESSION,
+             numberbatch_embeddings=numberbatch_df_touched,
+             retrofitted_embeddings=retrofitted_df_touched)
+    # TODO: add more tests here
+
 
 
 if __name__ == '__main__':
