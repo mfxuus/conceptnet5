@@ -70,7 +70,7 @@ STEREOSET_TERMS = {
                    ['auditor'], ['counselor'], ['designer'], ['soldier'], ['journalist'], ['dentist'], ['analyst'],
                    ['nurse'], ['tailor'], ['waiter'], ['author'], ['architect'], ['academic'], ['director'],
                    ['illustrator'], ['clerk'], ['policeman'], ['chef'], ['photographer'], ['drawer'], ['cleaner'],
-                   ['pharmacist'], ['pianist'], ['composer'], ['handball player'], ['sociologist']],  # uncategorized
+                   ['pharmacist'], ['pianist'], ['composer'], ['handball_player'], ['sociologist']],  # uncategorized
     'race': [['nigerian'], ['ethiopia'], ['europe'], ['european'], ['russian'], ['ukraine'], ['sudan'], ['afghanistan'],
              ['iraq'], ['yemen'], ['ukrainian'], ['russia'], ['italy'], ['somali'], ['iran'], ['afghan'], ['indian'],
              ['italian'], ['australian'], ['spanish'], ['guatemalan'], ['hispanic'], ['venezuela'], ['sudanese'],
