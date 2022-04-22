@@ -27,7 +27,7 @@
 - When we eventually need to have a single file, can in theory just combine
 	`ADDITIONAL_EDGES_CSV` with the official `assertions.csv`
 
-## To predict knowledge graph completion novel edges
+## To predict novel edges (knowledge graph completion)
 - Build formatted subgraph edges for training
     - `python 3_get_partial_data.py --kgc`
 - Train model to make predictions
