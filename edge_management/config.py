@@ -23,10 +23,18 @@ ORIGINAL_CSV = os.path.join(LOCAL_DATA_DIR, 'assertions.csv')
 # ORIGINAL_NUMBERBATCH_ZIP = os.path.join(LOCAL_DATA_DIR, 'numberbatch-19.08-en.zip')
 # ORIGINAL_NUMBERBATCH_DIM50_ZIP = os.path.join(LOCAL_DATA_DIR, 'numberbatch-19.08-en-pca-50.zip')
 RETROFITTED_HDF = os.path.join(LOCAL_DATA_DIR, 'retrofitted.h5')
-RETROFITTED_DIM50_HDF = os.path.join(LOCAL_DATA_DIR, 'retrofitted-pca-50.h5')
+# RETROFITTED_DIM50_HDF = os.path.join(LOCAL_DATA_DIR, 'retrofitted-pca-50.h5')
 ORIGINAL_NUMBERBATCH_EN = os.path.join(LOCAL_DATA_DIR, 'numberbatch-en.txt')
 ORIGINAL_NUMBERBATCH_EN_HDF = os.path.join(LOCAL_DATA_DIR, 'numberbatch-en.h5')
 ORIGINAL_NUMBERBATCH_EN_DIM50_HDF = os.path.join(LOCAL_DATA_DIR, 'numberbatch-en-pca-50.h5')
+
+# Knowledge graph completion files
+KGC_CSV = os.path.join(LOCAL_DATA_DIR, 'kgc_assertions.txt')
+KGC_EDGES_CSV = os.path.join(LOCAL_DATA_DIR, 'kgc_new_assertions.csv')
+KGC_EDGES_RETROFIT_CSV = os.path.join(LOCAL_DATA_DIR, 'kgc_new_assertions_retrofit.csv')
+EMPTY_CSV = os.path.join(LOCAL_DATA_DIR, 'empty.txt') # this is for passing the pykeen pipeline
+KGC_RETROFITTED_HDF = os.path.join(LOCAL_DATA_DIR, 'kgc_retrofitted.h5')
+# KGC_RETROFITTED_DIM50_HDF = os.path.join(LOCAL_DATA_DIR, 'kgc_retrofitted-pca-50.h5')
 
 VALID_RELATIONS = [
     '/r/Entails', '/r/Causes', '/r/Desires', '/r/dbpedia/leader',

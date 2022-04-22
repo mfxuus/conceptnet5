@@ -27,6 +27,26 @@
 - When we eventually need to have a single file, can in theory just combine
 	`ADDITIONAL_EDGES_CSV` with the official `assertions.csv`
 
+## To predict knowledge graph completion novel edges
+- Build formatted subgraph edges for training
+    - `python 3_get_partial_data.py --kgc`
+- Train model to make predictions
+    - Create EMPTY_CSV, just add one row from KGC_CSV to EMPTY_CSV to pass the pykeen pipeline. 
+    - `python 4_knowledge_graph_completion_demo.py` train new model then predict
+    - `python 4_knowledge_graph_completion_demo.py --eval` load model to make predictions
+    
+## To evaluate numberbatch embeddings
+- Format predicted edges for retrofitting
+    - `python 2_format_new_edges.py --for-retrofit`
+    - `python 2_format_new_edges.py --from-kgc --for-retrofit`
+- Apply retrofitting
+    - `python 5_run_numberbatch_retrofitting.py` (for external edges)
+    - `python 5_run_numberbatch_retrofitting.py --from-kgc` (for KGC edges)
+- Evaluation
+    - `python 6_run_numberbatch_retrofitting.py` (for external edges)
+    - `python 6_run_numberbatch_retrofitting.py --from-kgc` (for KGC edges)
+
+
 ## Available ConceptNet graph completion models
 - [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://github.com/allenai/commonsense-kg-completion)
 - [Conv-TransE](https://github.com/JD-AI-Research-Silicon-Valley/SACN)

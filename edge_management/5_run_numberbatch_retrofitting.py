@@ -11,7 +11,10 @@ from config import (
     ORIGINAL_NUMBERBATCH_EN_HDF,
     ORIGINAL_NUMBERBATCH_EN_DIM50_HDF,
     RETROFITTED_HDF,
-    RETROFITTED_DIM50_HDF,
+    # RETROFITTED_DIM50_HDF,
+    KGC_EDGES_RETROFIT_CSV,
+    KGC_RETROFITTED_HDF,
+    # KGC_RETROFITTED_DIM50_HDF,
 )
 
 
@@ -37,7 +40,7 @@ def create_hdf_data(reduced_dimension=False):
     print('HDF file crated.')
 
 
-def apply_retrofitting(reduced_dimension, nshards=1):
+def apply_retrofitting(reduced_dimension, nshards=1, from_kgc=False):
     '''
     https://github.com/mfxuus/conceptnet5/blob/master/conceptnet5/vectors/retrofit.py
     '''
@@ -73,9 +76,13 @@ def apply_retrofitting(reduced_dimension, nshards=1):
     conceptnet_filename = ADDITIONAL_EDGES_RETROFIT_CSV
     output_filename = RETROFITTED_HDF
 
-    if reduced_dimension:
-        dense_hdf_filename = ORIGINAL_NUMBERBATCH_EN_DIM50_HDF
-        output_filename = RETROFITTED_DIM50_HDF
+    if from_kgc:
+        conceptnet_filename = KGC_EDGES_RETROFIT_CSV
+        output_filename = KGC_RETROFITTED_HDF
+
+    # if reduced_dimension:
+    #     dense_hdf_filename = ORIGINAL_NUMBERBATCH_EN_DIM50_HDF
+    #     output_filename = RETROFITTED_DIM50_HDF
 
     retrofit.sharded_retrofit(dense_hdf_filename=dense_hdf_filename,
                               conceptnet_filename=conceptnet_filename,
@@ -111,9 +118,15 @@ if __name__ == '__main__':
         default=5,
         help='Number of shards'
     )
+    parser.add_argument(
+        '--from-kgc',
+        action='store_true',
+        default=False,
+        help='From knowledge graph completion edges',
+    )
 
     args = parser.parse_args()
 
     if args.from_txt:
         create_hdf_data(args.dimension50)
-    apply_retrofitting(args.dimension50, int(args.nshards))
+    apply_retrofitting(args.dimension50, int(args.nshards), from_kgc=args.from_kgc)

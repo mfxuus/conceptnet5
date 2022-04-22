@@ -8,11 +8,12 @@ import weat
 
 from config import (
     ORIGINAL_NUMBERBATCH_EN_HDF,
-    ORIGINAL_NUMBERBATCH_EN_DIM50_HDF,
+    # ORIGINAL_NUMBERBATCH_EN_DIM50_HDF,
     RETROFITTED_HDF,
-    RETROFITTED_DIM50_HDF,
+    # RETROFITTED_DIM50_HDF,
     ADDITIONAL_EDGES_RETROFIT_CSV,
     STEREOSET_TERMS,
+    KGC_RETROFITTED_HDF,
 )
 
 GENDER = [t[:12] for t in STEREOSET_TERMS['gender']]  # some gender terms are not touched.
@@ -56,6 +57,7 @@ def get_weat_score(targets, attributes, embeddings):
     attribute2 = embeddings.loc[attributes[1]].to_numpy()
 
     score = weat.weat_differential_association(target1, target2, attribute1, attribute2)
+    # p = weat.weat_p_value(target1, target2, attribute1, attribute2)
     return score
 
 # TODO: p score in the WEAT paper
@@ -69,15 +71,17 @@ def run_weat_test(targets, attributes, numberbatch_embeddings, retrofitted_embed
     print(f'targets:\n {targets[0][:]}\n vs. \n {targets[1][:]}')
     print(f'attributes:\n {attributes[0][:]}\n vs. \n {attributes[1][:]}')
     print(f'scores:\n original: {original_weat_score}\n retrofitted: {retrofitted_weat_score}')
+    # print(f'p values:\n original: {original_weat_p}\n retrofitted: {retrofitted_weat_p}')
 
-
-def analysis(reduced_dimension=False):
+def analysis(reduced_dimension=False, from_kgc=False):
     numberbatch_file = ORIGINAL_NUMBERBATCH_EN_HDF
     retrofitted_file = RETROFITTED_HDF
 
-    if reduced_dimension:
-        numberbatch_file = ORIGINAL_NUMBERBATCH_EN_DIM50_HDF
-        retrofitted_file = RETROFITTED_DIM50_HDF
+    # if reduced_dimension:
+    #     numberbatch_file = ORIGINAL_NUMBERBATCH_EN_DIM50_HDF
+    #     retrofitted_file = RETROFITTED_DIM50_HDF
+    if from_kgc:
+        retrofitted_file = KGC_RETROFITTED_HDF
 
     numberbatch_df = load_embedding(numberbatch_file)
     retrofitted_df = load_embedding(retrofitted_file)
@@ -112,7 +116,11 @@ def analysis(reduced_dimension=False):
                   numberbatch_embeddings=numberbatch_df_touched,
                   retrofitted_embeddings=retrofitted_df_touched)
     # TODO: add more tests here
-
+    run_weat_test(targets=GENDER,
+                  attributes=[['scientist', 'researcher', 'professor', 'academic'],
+                              ['performing_artist', 'tailor', 'musician', 'guitarist']],
+                  numberbatch_embeddings=numberbatch_df_touched,
+                  retrofitted_embeddings=retrofitted_df_touched)
 
 
 if __name__ == '__main__':
@@ -129,7 +137,13 @@ if __name__ == '__main__':
         default=False,
         help='Use data with reduced dimension of 50.',
     )
+    parser.add_argument(
+        '--from-kgc',
+        action='store_true',
+        default=False,
+        help='From knowledge graph completion edges',
+    )
 
     args = parser.parse_args()
 
-    analysis(args.dimension50)
+    analysis(args.dimension50, from_kgc=args.from_kgc)
