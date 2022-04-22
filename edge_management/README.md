@@ -36,9 +36,9 @@
     - `python 4_knowledge_graph_completion_demo.py --eval` load model to make predictions
     
 ## To evaluate numberbatch embeddings
-- Format predicted edges for retrofitting
-    - `python 2_format_new_edges.py --for-retrofit`
-    - `python 2_format_new_edges.py --from-kgc --for-retrofit`
+- Format edges for retrofitting
+    - `python 2_format_new_edges.py --for-retrofit` (for external edges)
+    - `python 2_format_new_edges.py --from-kgc --for-retrofit` (for KGC edges)
 - Apply retrofitting
     - `python 5_run_numberbatch_retrofitting.py` (for external edges)
     - `python 5_run_numberbatch_retrofitting.py --from-kgc` (for KGC edges)
