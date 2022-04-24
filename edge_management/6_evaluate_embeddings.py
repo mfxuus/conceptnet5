@@ -20,6 +20,7 @@ from config import (
 
 GENDER = [t[:12] for t in STEREOSET_TERMS['gender']]  # some gender terms are not touched.
 DEMO_PROFESSION = [['ceo'], ['assistant']]
+TRAIT = [['curiosity', 'cheerfulness','courage', 'satisfaction'],['ingenuity', 'sadness','irrationality', 'anxiety']]
 
 # TODO: Add your own test terms here.
 
@@ -87,12 +88,12 @@ def get_knn(target_word, k, old_embeddings, new_embeddings, edges):
     """Returns a list of words which are the k nearest neighbours to the target word, sorted by distance."""
     # only get existing indices
     target_emb = old_embeddings.loc[target_word].to_numpy().reshape(1, -1)
-    nbrs = NearestNeighbors(n_neighbors=k+1, algorithm='ball_tree').fit(old_embeddings)
-    distances, old_indices = nbrs.kneighbors(target_emb)
+    nbrs = NearestNeighbors(n_neighbors=k*2, algorithm='ball_tree').fit(old_embeddings)
+    old_distances, old_indices = nbrs.kneighbors(target_emb)
 
     target_emb = new_embeddings.loc[target_word].to_numpy().reshape(1, -1)
     nbrs = NearestNeighbors(n_neighbors=k+1, algorithm='ball_tree').fit(new_embeddings)
-    distances, new_indices = nbrs.kneighbors(target_emb)
+    new_distances, new_indices = nbrs.kneighbors(target_emb)
 
     old_neighbours = old_embeddings.iloc[old_indices[0]].copy().iloc[1:]
     old_neighbours = list(old_neighbours.index)
@@ -100,9 +101,16 @@ def get_knn(target_word, k, old_embeddings, new_embeddings, edges):
     new_neighbours = list(new_neighbours.index)
     print(f"K-NN for {target_word}")
     # print("Old:", old_neighbours)
-    # print("New:", new_neighbours)
+    print("New:", new_neighbours)
 
-    print("New terms found:", [n for n in new_neighbours if n not in edges[target_word] and n not in old_neighbours])
+    new_terms = []
+    ret_distances = []
+    for idx, n in enumerate(new_neighbours):
+        if n not in edges[target_word] and n not in old_neighbours:
+            new_terms.append(n)
+            ret_distances.append(new_distances[0][1:][idx])
+    print("New terms found:", new_terms)
+    print("Distances:", ret_distances)
 
 
 def run_weat_test(targets, attributes, numberbatch_embeddings, retrofitted_embeddings):
@@ -152,7 +160,7 @@ def analysis(reduced_dimension=False, from_kgc=False):
     print('Lowest cosine_distances:')
     print(distance_arr[:20])
 
-    # Find the knn of the words with the lowest 10 cosine distances
+    # Find the knn of the words and get the novel neighbours
     print()
     edges = get_edges()
     for word in distance_arr[:20].index:
@@ -171,6 +179,11 @@ def analysis(reduced_dimension=False, from_kgc=False):
                               ['performing_artist', 'tailor', 'musician', 'guitarist']],
                   numberbatch_embeddings=numberbatch_df_touched,
                   retrofitted_embeddings=retrofitted_df_touched)
+    run_weat_test(targets=GENDER,
+                  attributes=TRAIT,
+                  numberbatch_embeddings=numberbatch_df_touched,
+                  retrofitted_embeddings=retrofitted_df_touched)
+
 
 
 if __name__ == '__main__':
