@@ -13,6 +13,7 @@ from config import (
     RETROFITTED_HDF,
     # RETROFITTED_DIM50_HDF,
     ADDITIONAL_EDGES_RETROFIT_CSV,
+    ADDITIONAL_EDGES_INPUT,
     STEREOSET_TERMS,
     KGC_RETROFITTED_HDF,
 )
@@ -33,6 +34,23 @@ def get_touched_nodes():
     nodes = list(nodes)
     print(f'Number of touched nodes: {len(nodes)}')
     return nodes
+
+
+def get_edges():
+    """Returns an adjacency graph of words and their edges."""
+    ret = {}
+    with open(ADDITIONAL_EDGES_INPUT, 'r') as f:
+            for line in f:
+                node_1, node_2, rel_type, weight = [x.strip() for x in line.split(',')]
+                node_1 = node_1.strip().lower().replace(' ', '_')
+                node_2 = node_2.strip().lower().replace(' ', '_')
+                if node_1 not in ret:
+                    ret[node_1] = set()
+                ret[node_1].add(node_2)
+                if node_2 not in ret:
+                    ret[node_2] = set()
+                ret[node_2].add(node_1)
+    return ret
 
 
 def load_embedding(file):
@@ -65,7 +83,7 @@ def get_weat_score(targets, attributes, embeddings):
 
 
  # K-nn 
-def get_knn(target_word, k, old_embeddings, new_embeddings):
+def get_knn(target_word, k, old_embeddings, new_embeddings, edges):
     """Returns a list of words which are the k nearest neighbours to the target word, sorted by distance."""
     # only get existing indices
     target_emb = old_embeddings.loc[target_word].to_numpy().reshape(1, -1)
@@ -81,8 +99,10 @@ def get_knn(target_word, k, old_embeddings, new_embeddings):
     new_neighbours = new_embeddings.iloc[new_indices[0]].copy().iloc[1:]
     new_neighbours = list(new_neighbours.index)
     print(f"K-NN for {target_word}")
-    print("Old:", old_neighbours)
-    print("New:", new_neighbours)
+    # print("Old:", old_neighbours)
+    # print("New:", new_neighbours)
+
+    print("New terms found:", [n for n in new_neighbours if n not in edges[target_word] and n not in old_neighbours])
 
 
 def run_weat_test(targets, attributes, numberbatch_embeddings, retrofitted_embeddings):
@@ -134,8 +154,9 @@ def analysis(reduced_dimension=False, from_kgc=False):
 
     # Find the knn of the words with the lowest 10 cosine distances
     print()
+    edges = get_edges()
     for word in distance_arr[:20].index:
-        get_knn(word[0], 10, numberbatch_df_touched, retrofitted_df_touched)
+        get_knn(word[0], 30, numberbatch_df_touched, retrofitted_df_touched, edges)
         print()
     print()
 
